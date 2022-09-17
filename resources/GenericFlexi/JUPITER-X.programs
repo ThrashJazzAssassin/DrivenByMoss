@@ -1,0 +1,4364 @@
+$BANK=COMMON1$MSB=87$LSB=85$CHANNEL=0
+1 Piano 1 1:Ac.Piano
+2 Piano 1 w 1:Ac.Piano
+3 Piano 1 d 1:Ac.Piano
+4 Piano 1 Bright 1:Ac.Piano
+5 Piano 1 Amp 1:Ac.Piano
+6 Piano 1 w 2 1:Ac.Piano
+7 Piano + Str 1 1:Ac.Piano
+8 Piano + Str 2 1:Ac.Piano
+9 Piano + Choir 1 1:Ac.Piano
+10 Piano + Choir 2 1:Ac.Piano
+11 Piano + Pad 1 1:Ac.Piano
+12 Piano + Pad 2 1:Ac.Piano
+13 Healing Piano 1:Ac.Piano
+14 Piano Vib 1:Ac.Piano
+15 Piano Dly 1:Ac.Piano
+16 Piano 2 1:Ac.Piano
+17 Piano 2 w 1:Ac.Piano
+18 JD Piano 1:Ac.Piano
+19 JD Piano w 1:Ac.Piano
+20 Piano 3 3:E.Grand Piano
+21 Piano 3 w 3:E.Grand Piano
+22 Piano 3 w 2 3:E.Grand Piano
+23 Honky-tonk 2:Pop Piano
+24 Honky-tonk w 2:Pop Piano
+25 Honky-tonk w 2 2:Pop Piano
+26 E.Piano 1 4:E.Piano1
+27 E.Piano 1 w 4:E.Piano1
+28 E.Piano 1 Trem 4:E.Piano1
+29 Detuned EP 1 4:E.Piano1
+30 Vintage EP 4:E.Piano1
+31 60s E.Piano 4:E.Piano1
+32 60s E.Piano w 4:E.Piano1
+33 60s E.Piano Trem 4:E.Piano1
+34 Tremolo EP 4:E.Piano1
+35 Tremolo EP w 4:E.Piano1
+36 Curly Wurly 4:E.Piano1
+37 Sinus EP 4:E.Piano1
+38 E.Piano 2 5:E.Piano2
+39 E.Piano 2 w 5:E.Piano2
+40 Detuned EP 2 5:E.Piano2
+41 St.FM EP 5:E.Piano2
+42 St.FM EP w 5:E.Piano2
+43 EP Legend 5:E.Piano2
+44 EP Legend w 5:E.Piano2
+45 EP Phaser 1 5:E.Piano2
+46 EP Phaser 2 5:E.Piano2
+47 EP Phaser 3 5:E.Piano2
+48 EP Belle 5:E.Piano2
+49 Harpsichord 9:Harpsichord
+50 Coupled Harpsi. 9:Harpsichord
+51 Harpsichord w 9:Harpsichord
+52 Harpsichord w 2 9:Harpsichord
+53 Harpsichord o 9:Harpsichord
+54 Clav 1 10:Clav
+55 Clav 1 w 10:Clav
+56 Clav 1 Phaser 10:Clav
+57 Clav 2 10:Clav
+58 Clav 2 w 10:Clav
+59 Pulse Clav 1 10:Clav
+60 Pulse Clav 1 w 10:Clav
+61 Pulse Clav 1 w 2 10:Clav
+62 Pulse Clav 2 10:Clav
+63 Biting Clav 10:Clav
+64 Analog Clav 10:Clav
+65 Celesta 11:Celesta
+66 Celesta w 11:Celesta
+67 Glockenspiel 15:Mallet
+68 Glockenspiel w 15:Mallet
+69 Music Box 22:Plucked/Stroke
+70 Music Box w 22:Plucked/Stroke
+71 Pops Seq 1 22:Plucked/Stroke
+72 Pops Seq 1 Atk 22:Plucked/Stroke
+73 Vibraphone 15:Mallet
+74 Vibraphone w 15:Mallet
+75 Vibraphone w 2 15:Mallet
+76 Vibraphone Trem 15:Mallet
+77 Jazz Vib 15:Mallet
+78 Jazz Vib w 15:Mallet
+79 Marimba 15:Mallet
+80 Marimba w 15:Mallet
+81 Marimba w 2 15:Mallet
+82 Bs Marimba 1 15:Mallet
+83 Bs Marimba 2 15:Mallet
+84 Xylophone 1 15:Mallet
+85 Xylophone 1 w 15:Mallet
+86 Xylophone 1 w 2 15:Mallet
+87 Xylophone 2 15:Mallet
+88 Kalimbells 15:Mallet
+89 Pops Seq 2 15:Mallet
+90 Pops Seq 2 w 15:Mallet
+91 Pops Seq 2 Atk 15:Mallet
+92 Pops Seq 3 15:Mallet
+93 Pops Seq 3 Atk 15:Mallet
+94 Ethno Keys 15:Mallet
+95 Ethno Keys Dly 15:Mallet
+96 Toy Box 15:Mallet
+97 Tubular Bells 14:Bell
+98 Tubular Bells w 14:Bell
+99 Church Bell 14:Bell
+100 Church Bell w 14:Bell
+101 Carillon 14:Bell
+102 Carillon w 14:Bell
+103 Santur 15:Mallet
+104 Santur w 15:Mallet
+105 Organ 1 6:E.Organ
+106 Organ 1 Rtry 6:E.Organ
+107 Tremolo Organ 6:E.Organ
+108 Tremolo Organ w 6:E.Organ
+109 60s Organ 6:E.Organ
+110 60s Organ Cho 6:E.Organ
+111 Organ 2 6:E.Organ
+112 Organ 2 Rtry 6:E.Organ
+113 Ana Organ 1 6:E.Organ
+114 Ana Organ 1 Rtry 6:E.Organ
+115 Ana Organ 2 6:E.Organ
+116 Ana Organ 3 6:E.Organ
+117 Ana Organ 4 6:E.Organ
+118 Perc.Organ 1 6:E.Organ
+119 Perc.Organ 1Rtry 6:E.Organ
+120 Chorus Organ 6:E.Organ
+121 Perc.Organ 2 6:E.Organ
+122 E.Organ 1 6:E.Organ
+123 E.Organ 1 w 6:E.Organ
+124 E.Organ 1 Rtry 6:E.Organ
+125 E.Organ 2 6:E.Organ
+126 E.Organ 2 Trem 6:E.Organ
+127 E.Organ 3 6:E.Organ
+128 Mad Organ 6:E.Organ
+$BANK=COMMON2$MSB=87$LSB=86$CHANNEL=0
+129 Rock Organ 1 6:E.Organ
+130 Rock Organ Amp 6:E.Organ
+131 Rock Organ 2 6:E.Organ
+132 Rock Organ w 6:E.Organ
+133 Full Organ Rtry 6:E.Organ
+134 Full Organ OD 6:E.Organ
+135 Rotary Organ 6:E.Organ
+136 Rotary Organ Cho 6:E.Organ
+137 Church Organ 1 7:Pipe Organ
+138 Church Organ 1 w 7:Pipe Organ
+139 Church Organ 2 7:Pipe Organ
+140 Church Organ 2 w 7:Pipe Organ
+141 Church Organ 3 7:Pipe Organ
+142 Church Organ 3 w 7:Pipe Organ
+143 Reed Organ 8:Reed Organ
+144 Reed Organ w 8:Reed Organ
+145 Puff Organ 7:Pipe Organ
+146 Puff Organ w 7:Pipe Organ
+147 Accordion 1 12:Accordion
+148 Accordion 1 w 12:Accordion
+149 Accordion 2 12:Accordion
+150 Accordion It 12:Accordion
+151 Vodkakordion 12:Accordion
+152 Harmonica 13:Harmonica
+153 Harmonica w 13:Harmonica
+154 Bandoneon 12:Accordion
+155 Bandoneon w 12:Accordion
+156 Nylon Gtr 1 16:Ac.Guitar
+157 Ukulele 16:Ac.Guitar
+158 Nylon Gtr o 16:Ac.Guitar
+159 Nylon Gtr 2 16:Ac.Guitar
+160 Nylon Gtr w 16:Ac.Guitar
+161 Nylon Gtr Amp 16:Ac.Guitar
+162 Steel-str.Gtr 16:Ac.Guitar
+163 Steel-str.Gtr w 16:Ac.Guitar
+164 Steel-str.GtrAmp 16:Ac.Guitar
+165 Steel-str.GtrDst 16:Ac.Guitar
+166 Stl Gtr Trem 16:Ac.Guitar
+167 12-str.Guitar 16:Ac.Guitar
+168 12-str.Guitar w 16:Ac.Guitar
+169 Mandolin 16:Ac.Guitar
+170 Steel+Body 16:Ac.Guitar
+171 Reso Guitar w 16:Ac.Guitar
+172 Reso Guitar Amp 16:Ac.Guitar
+173 Jazz Guitar 17:E.Guitar
+174 Jazz Guitar w 17:E.Guitar
+175 Jazz Guitar Atk 17:E.Guitar
+176 Hawaiian Gtr 17:E.Guitar
+177 Clean Guitar 17:E.Guitar
+178 Clean Guitar w 17:E.Guitar
+179 Clean Gtr Chorus 17:E.Guitar
+180 Chorus Gtr 1 17:E.Guitar
+181 Soft Clean Gtr 17:E.Guitar
+182 Soft Clean Gtr w 17:E.Guitar
+183 Soft Clean Atk 17:E.Guitar
+184 Soft Dist Gtr 17:E.Guitar
+185 Mid Tone Gtr 17:E.Guitar
+186 Mid Tone Gtr Dly 17:E.Guitar
+187 Mid Tone GtrTrem 17:E.Guitar
+188 Muted Guitar 17:E.Guitar
+189 Muted Guitar w 17:E.Guitar
+190 Muted Guitar Atk 17:E.Guitar
+191 Muted Guitar Dst 17:E.Guitar
+192 Funk Guitar 1 17:E.Guitar
+193 Funk Guitar 2 17:E.Guitar
+194 Chorus Gtr 2 17:E.Guitar
+195 Chorus Gtr2 Echo 17:E.Guitar
+196 Chorus Gtr2 Step 17:E.Guitar
+197 Overdrive Gtr 1 18:Dist.Guitar
+198 Overdrive Gtr 2 18:Dist.Guitar
+199 Overdrive Chorus 18:Dist.Guitar
+200 Guitar Pinch 18:Dist.Guitar
+201 Distortion Gtr 1 18:Dist.Guitar
+202 Distortion Gtr 2 18:Dist.Guitar
+203 Distortion Gtr 3 18:Dist.Guitar
+204 Distortion Gtr 4 18:Dist.Guitar
+205 Distortion Gtr 5 18:Dist.Guitar
+206 Gtr Feedback 1 18:Dist.Guitar
+207 Dist.Rhy Gtr 18:Dist.Guitar
+208 Dist.Rhy Gtr Amp 18:Dist.Guitar
+209 Gtr Harmonics 18:Dist.Guitar
+210 Gtr Harmonics w 18:Dist.Guitar
+211 Gtr Feedback 2 18:Dist.Guitar
+212 Gtr Feedback 2 w 18:Dist.Guitar
+213 Acoustic Bass 19:Ac.Bass
+214 Acoustic Bass w 19:Ac.Bass
+215 Fingered Bass 20:E.Bass
+216 FingeredBass Atk 20:E.Bass
+217 Finger Slap 20:E.Bass
+218 Finger Slap Atk 20:E.Bass
+219 Picked Bass 20:E.Bass
+220 Picked Bass Atk1 20:E.Bass
+221 Picked Bass Atk2 20:E.Bass
+222 Fretless Bass 20:E.Bass
+223 Fretless Bass w 20:E.Bass
+224 Slap Bass 1 20:E.Bass
+225 Slap Bass 1 Atk 20:E.Bass
+226 Slap Bass 2 20:E.Bass
+227 Slap Bass 2 Amp 20:E.Bass
+228 Synth Bass 1 21:Synth Bass
+229 Synth Bass 1 w 21:Synth Bass
+230 Warm Syn Bass 21:Synth Bass
+231 Synth Bass 3 21:Synth Bass
+232 Clav.Bass 21:Synth Bass
+233 Clav.Bass w 21:Synth Bass
+234 Hammer Bass 21:Synth Bass
+235 Hammer Bass Atk 21:Synth Bass
+236 Juno Sqr Bass 21:Synth Bass
+237 MKS-50 Bass 21:Synth Bass
+238 R&B Bass 1 21:Synth Bass
+239 R&B Bass 1 w 21:Synth Bass
+240 R&B Bass 1 Atk 21:Synth Bass
+241 MC202 Bass 21:Synth Bass
+242 Compu Bass 1 21:Synth Bass
+243 Compu Bass 1 Atk 21:Synth Bass
+244 Muffled Bass 21:Synth Bass
+245 R&B Bass 2 21:Synth Bass
+246 R&B Bass 2 w 21:Synth Bass
+247 R&B Bass 2 Atk 21:Synth Bass
+248 R&B Bass 3 21:Synth Bass
+249 R&B Bass 3 w 21:Synth Bass
+250 R&B Bass 4 21:Synth Bass
+251 MG Bass 1 21:Synth Bass
+252 MG Bass 1 w 21:Synth Bass
+253 MG Bass 1 Atk 21:Synth Bass
+254 MG Bass 2 21:Synth Bass
+255 MG Bass 2 w 21:Synth Bass
+256 MG Bass 3 21:Synth Bass
+$BANK=COMMON3$MSB=87$LSB=87$CHANNEL=0
+257 MG Bass 4 21:Synth Bass
+258 MG Bass 5 21:Synth Bass
+259 New Reso Bs 1 21:Synth Bass
+260 New Reso Bs 1 w 21:Synth Bass
+261 New Reso Bs 2 21:Synth Bass
+262 Reso Bass 1 21:Synth Bass
+263 Rubber Bass 21:Synth Bass
+264 Reso Bass 2 21:Synth Bass
+265 Reso Bass 3 21:Synth Bass
+266 Reso Bass 4 21:Synth Bass
+267 Acid Bass 1 21:Synth Bass
+268 Acid Bass 2 21:Synth Bass
+269 Acid Bass 3 21:Synth Bass
+270 TB Bass 1 21:Synth Bass
+271 TB Bass 2 21:Synth Bass
+272 Flat Bass 21:Synth Bass
+273 Sub Bass 21:Synth Bass
+274 Sub Bass Atk 21:Synth Bass
+275 Garage Bass 21:Synth Bass
+276 Synth Bass 2 21:Synth Bass
+277 Synth Bass 5 21:Synth Bass
+278 Synth Bass 4 21:Synth Bass
+279 Synth Bass 6 21:Synth Bass
+280 Rubber Syn Bs 21:Synth Bass
+281 Attack Pulse 21:Synth Bass
+282 Seq Bass 21:Synth Bass
+283 106 Bass 1 21:Synth Bass
+284 106 Bass 2 21:Synth Bass
+285 Juno Bass 21:Synth Bass
+286 Filter Env Bs 21:Synth Bass
+287 Unison Syn Bs 21:Synth Bass
+288 Unison Syn Bs w 21:Synth Bass
+289 Alpha Bass 21:Synth Bass
+290 Alpha Bass w 21:Synth Bass
+291 Detune Bs 21:Synth Bass
+292 Detune Bs w 21:Synth Bass
+293 Ramp Bass 21:Synth Bass
+294 Ramp Bass Atk 21:Synth Bass
+295 Pedal Bass 1 21:Synth Bass
+296 Pedal Bass 2 21:Synth Bass
+297 Compu Bass 2 21:Synth Bass
+298 Sqr Bass w 21:Synth Bass
+299 Modular Bs 1 21:Synth Bass
+300 Modular Bs 2 21:Synth Bass
+301 Synth Bass 7 21:Synth Bass
+302 Pedal Bass 3 21:Synth Bass
+303 Monster Bass 1 21:Synth Bass
+304 Monster Bass 2 21:Synth Bass
+305 Growl Bass 1 21:Synth Bass
+306 Growl Bass 2 21:Synth Bass
+307 Violin 23:Solo Strings
+308 Slow Violin 23:Solo Strings
+309 Violin w 23:Solo Strings
+310 Violin Amp 23:Solo Strings
+311 Viola 23:Solo Strings
+312 Viola Amp 23:Solo Strings
+313 Cello 23:Solo Strings
+314 Cello Amp 23:Solo Strings
+315 Contrabass 23:Solo Strings
+316 Contrabass Amp 23:Solo Strings
+317 Tremolo Str 24:Ensemble Strings
+318 Pizzicato Str 24:Ensemble Strings
+319 Pizzicato Str w 24:Ensemble Strings
+320 Pizz 24:Ensemble Strings
+321 Pops Seq 4 24:Ensemble Strings
+322 Pops Seq 4 w 24:Ensemble Strings
+323 Harp 22:Plucked/Stroke
+324 Aerial Harp 22:Plucked/Stroke
+325 Yang Qin 15:Mallet
+326 Yang Qin w 15:Mallet
+327 Timpani 47:Percussion
+328 Timpani w 47:Percussion
+329 Timpani Low 47:Percussion
+330 Timpani Atk 47:Percussion
+331 Strings 24:Ensemble Strings
+332 Orchestra 24:Ensemble Strings
+333 60s Strings 24:Ensemble Strings
+334 Small Strings 24:Ensemble Strings
+335 Hybrid Strings 24:Ensemble Strings
+336 Small Str Stacc 24:Ensemble Strings
+337 Strings Stacc 24:Ensemble Strings
+338 Strings Stacc w 24:Ensemble Strings
+339 Strings Amp 24:Ensemble Strings
+340 Slow Strings 24:Ensemble Strings
+341 Mood Strings 24:Ensemble Strings
+342 Syn Strings 1 36:Synth Pad/Str
+343 Syn Strings 1 w 36:Synth Pad/Str
+344 Syn Strings 3 36:Synth Pad/Str
+345 Syn Strings 3 w 36:Synth Pad/Str
+346 Syn Strings 2 36:Synth Pad/Str
+347 Syn Strings 2 w 36:Synth Pad/Str
+348 Choir 1 32:Vox/Choir
+349 Choir 2 32:Vox/Choir
+350 Choir 3 32:Vox/Choir
+351 Voice Doos 33:Scat
+352 Humming 32:Vox/Choir
+353 Synth Voice 32:Vox/Choir
+354 Analog Voice 1 32:Vox/Choir
+355 Analog Voice 2 32:Vox/Choir
+356 Jazz Scat 33:Scat
+357 Jazz Scat w 33:Scat
+358 Aerial Choir 32:Vox/Choir
+359 Aerial Choir w 32:Vox/Choir
+360 DJ Soft Vox 32:Vox/Choir
+361 DJ Soft Vox w 32:Vox/Choir
+362 Syn Vox 32:Vox/Choir
+363 Syn Vox w 32:Vox/Choir
+364 VP-330 Choir 32:Vox/Choir
+365 VP-330 Choir w 32:Vox/Choir
+366 FXM Voice 32:Vox/Choir
+367 Cat Voice 32:Vox/Choir
+368 Cat Voice Wah 32:Vox/Choir
+369 Orchestra Hit 44:Hit
+370 Bass Hit 44:Hit
+371 Bass Hit w 44:Hit
+372 6th Hit 44:Hit
+373 6th Hit w 44:Hit
+374 Euro Hit 44:Hit
+375 Euro Hit w 44:Hit
+376 Cheezy Movie 44:Hit
+377 Cheezy Movie w 44:Hit
+378 Tao Hit 44:Hit
+379 Tao Hit w 44:Hit
+380 House Hit 44:Hit
+381 House Hit w 44:Hit
+382 Trumpet 26:Solo Brass
+383 Trumpet Echo 26:Solo Brass
+384 Dark Trumpet 26:Solo Brass
+$BANK=COMMON4$MSB=87$LSB=88$CHANNEL=0
+385 Dark Trumpet w 26:Solo Brass
+386 Romantic Tp 26:Solo Brass
+387 Romantic Tp Echo 26:Solo Brass
+388 Trombone 1 26:Solo Brass
+389 Trombone 1 w 26:Solo Brass
+390 Trombone 2 26:Solo Brass
+391 Bright Tb 26:Solo Brass
+392 Bright Tb w 26:Solo Brass
+393 Tuba 26:Solo Brass
+394 Tuba Atk 26:Solo Brass
+395 Mute Trumpet 1 26:Solo Brass
+396 Mute Trumpet 1 w 26:Solo Brass
+397 Mute Trumpet 2 26:Solo Brass
+398 Mute Trumpet 2 w 26:Solo Brass
+399 French Horn 1 27:Ensemble Brass
+400 French Horn 1 w 27:Ensemble Brass
+401 French Horn 2 26:Solo Brass
+402 FrenchHorn2 Echo 26:Solo Brass
+403 Brass 1 27:Ensemble Brass
+404 Brass 1 w 27:Ensemble Brass
+405 Brass 2 27:Ensemble Brass
+406 Brass Atk 27:Ensemble Brass
+407 Brass Atk w 27:Ensemble Brass
+408 Synth Brass 1 35:Synth Brass
+409 Synth Brass 3 35:Synth Brass
+410 Synth Brass 3 w 35:Synth Brass
+411 Analog Brass 1 35:Synth Brass
+412 Analog Brass 1 w 35:Synth Brass
+413 Analog Brs 1 w 2 35:Synth Brass
+414 Jump Brass 35:Synth Brass
+415 Jump Brass Amp 35:Synth Brass
+416 JP8 Brass 1 35:Synth Brass
+417 JP8 Brass 1 w 35:Synth Brass
+418 Syn Brass 35:Synth Brass
+419 Syn Brass w 35:Synth Brass
+420 JP8 Brass 2 35:Synth Brass
+421 80?s Brass 1 35:Synth Brass
+422 80?s Brass 2 35:Synth Brass
+423 Synth Brass 2 35:Synth Brass
+424 Synth Brass 4 35:Synth Brass
+425 Analog Brass 2 35:Synth Brass
+426 Analog Brass 3 35:Synth Brass
+427 Analog Brass 3 w 35:Synth Brass
+428 Reso Brass 35:Synth Brass
+429 Poly Brass 35:Synth Brass
+430 Soft Brass 35:Synth Brass
+431 FM Brass 35:Synth Brass
+432 Warm Syn Brass 35:Synth Brass
+433 Dual Saw Brass 35:Synth Brass
+434 Soft Syn Brass 35:Synth Brass
+435 Vintage Brass 35:Synth Brass
+436 Vintage Brass w 35:Synth Brass
+437 Euro Express 35:Synth Brass
+438 Mix Brass 35:Synth Brass
+439 Brite Syn Brass 35:Synth Brass
+440 JP8 Brass 3 35:Synth Brass
+441 Synth Brass 5 35:Synth Brass
+442 80?s Brass 3 35:Synth Brass
+443 80?s Brass 4 35:Synth Brass
+444 Soprano Sax 30:Sax
+445 Soprano Sax Amp 30:Sax
+446 Alto Sax 30:Sax
+447 Alto Sax Amp 30:Sax
+448 Tenor Sax 30:Sax
+449 Tenor Sax Amp 30:Sax
+450 Baritone Sax 30:Sax
+451 Baritone Sax Atk 30:Sax
+452 Oboe 28:Wind
+453 Oboe w 28:Wind
+454 English Horn 28:Wind
+455 Bassoon 28:Wind
+456 Clarinet 28:Wind
+457 Piccolo 29:Flute
+458 Flute 29:Flute
+459 Flute w 29:Flute
+460 Flute Echo 29:Flute
+461 Recorder 31:Recorder
+462 Pan Flute 29:Flute
+463 Pan Flute w 29:Flute
+464 Pan Flute Dly 29:Flute
+465 Bottle Blow 29:Flute
+466 Bottle Blow w 29:Flute
+467 Bottle Blow Dly 29:Flute
+468 Shakuhachi 29:Flute
+469 Shakuhachi w 29:Flute
+470 Shakuhachi Amp 29:Flute
+471 Whistle 31:Recorder
+472 Whistle Dly 31:Recorder
+473 Ocarina 31:Recorder
+474 Ocarina Echo 31:Recorder
+475 Square Lead 1 34:Synth Lead
+476 Square Lead 2 34:Synth Lead
+477 Sine Lead 34:Synth Lead
+478 Porta Sine Lead 34:Synth Lead
+479 Pure Lead Dly 34:Synth Lead
+480 Dist Flt TB 2 34:Synth Lead
+481 Dist Flt TB 1 34:Synth Lead
+482 DistFlt TB 1 Dly 34:Synth Lead
+483 80?s Tech Lead 34:Synth Lead
+484 Sqr Buzz Lead 34:Synth Lead
+485 Ana Vox Lead 34:Synth Lead
+486 CS Lead 34:Synth Lead
+487 Classic GR 34:Synth Lead
+488 Therasaw 34:Synth Lead
+489 Bell Lead 34:Synth Lead
+490 Bell Lead w 34:Synth Lead
+491 Simple Tri 34:Synth Lead
+492 Spooky Lead 34:Synth Lead
+493 Soft Lead 34:Synth Lead
+494 Sqr Lead 1 34:Synth Lead
+495 Sqr Lead 2 34:Synth Lead
+496 Sqr Lead 3 34:Synth Lead
+497 Saw Lead 1 34:Synth Lead
+498 Saw Lead 1 w 34:Synth Lead
+499 Saw Lead 2 34:Synth Lead
+500 Doctor Solo 34:Synth Lead
+501 Natural Lead 34:Synth Lead
+502 Sequenced Saw 34:Synth Lead
+503 Sequenced Saw w 34:Synth Lead
+504 Ah Super Saw 34:Synth Lead
+505 Ah SuperSaw Dst1 34:Synth Lead
+506 Ah SuperSaw Dst2 34:Synth Lead
+507 Porta Super Saw 34:Synth Lead
+508 S-Saw Stac Ld 34:Synth Lead
+509 S-Saw Stac Ld w 34:Synth Lead
+510 Tekno Lead 1 Atk 34:Synth Lead
+511 Tekno Lead 1 Bit 34:Synth Lead
+512 OSC-Sync Ld 1 34:Synth Lead
+$BANK=COMMON5$MSB=87$LSB=89$CHANNEL=0
+513 Wave Shape Ld 34:Synth Lead
+514 Wave Shape Ld w 34:Synth Lead
+515 Legato Tkno 34:Synth Lead
+516 Legato Tkno w 34:Synth Lead
+517 Tekno Lead 2 34:Synth Lead
+518 Buzz Lead 34:Synth Lead
+519 Buzz Lead Dist 34:Synth Lead
+520 Saw Buzz Ld 34:Synth Lead
+521 Saw Buzz Ld w 34:Synth Lead
+522 Saw Lead 3 34:Synth Lead
+523 Saw Lead 4 34:Synth Lead
+524 Classic Lead 34:Synth Lead
+525 Ramp Lead 34:Synth Lead
+526 Saw Lead 5 34:Synth Lead
+527 Jupiter Lead 1 34:Synth Lead
+528 JupiterLead1 Atk 34:Synth Lead
+529 Jupiter Lead 2 34:Synth Lead
+530 Saw Lead 6 34:Synth Lead
+531 On Air 34:Synth Lead
+532 Saw Lead 7 34:Synth Lead
+533 Saw Lead 8 34:Synth Lead
+534 Warm Lead 34:Synth Lead
+535 Saw Lead 9 34:Synth Lead
+536 Saw Lead 10 34:Synth Lead
+537 EQ Lead 34:Synth Lead
+538 Saw Lead 11 34:Synth Lead
+539 Saw Lead 12 34:Synth Lead
+540 Waspy Lead 34:Synth Lead
+541 Octa Square 34:Synth Lead
+542 Octa Juice 34:Synth Lead
+543 Fat GR Lead 34:Synth Lead
+544 Octa Saw 34:Synth Lead
+545 Juicy Lead 34:Synth Lead
+546 OSC-Sync Ld 2 34:Synth Lead
+547 OSC-Sync Ld 3 34:Synth Lead
+548 Syn.Calliope 34:Synth Lead
+549 Syn.Calliope w 34:Synth Lead
+550 Syn.Calliope Dly 34:Synth Lead
+551 Chiffer Lead 34:Synth Lead
+552 Chiffer Lead w 34:Synth Lead
+553 Charang 34:Synth Lead
+554 Wire Lead 34:Synth Lead
+555 Wire Lead Cho 34:Synth Lead
+556 Solo Vox 34:Synth Lead
+557 Solo Vox w 34:Synth Lead
+558 Solo Vox Cho 34:Synth Lead
+559 OB Lead 34:Synth Lead
+560 5th Saw Lead 34:Synth Lead
+561 5th Saw Lead Dly 34:Synth Lead
+562 Housechord 34:Synth Lead
+563 Ju-D Fifths 34:Synth Lead
+564 Major 7 34:Synth Lead
+565 Dance Saws 1 34:Synth Lead
+566 Bass+Lead 34:Synth Lead
+567 Bass+Lead w 34:Synth Lead
+568 Delayed Lead 34:Synth Lead
+569 Delayed Lead w 34:Synth Lead
+570 Delayed Lead Cho 34:Synth Lead
+571 Fantasia 37:Synth Bellpad
+572 D50 Bell 37:Synth Bellpad
+573 D50 Bell w 37:Synth Bellpad
+574 Fantasy 1 37:Synth Bellpad
+575 D50 Fantasy 37:Synth Bellpad
+576 D50 Fantasy w 37:Synth Bellpad
+577 Soft Bell 37:Synth Bellpad
+578 Dreambell 37:Synth Bellpad
+579 Dreambell w 37:Synth Bellpad
+580 Dreaming Box 37:Synth Bellpad
+581 Dreaming Box w 37:Synth Bellpad
+582 Fantasy 2 37:Synth Bellpad
+583 Fantasy 2 w 37:Synth Bellpad
+584 Stacc Heaven 37:Synth Bellpad
+585 Stacc Heaven w 37:Synth Bellpad
+586 Warm Pad 36:Synth Pad/Str
+587 Warm Pad Dly 36:Synth Pad/Str
+588 Sine Pad 36:Synth Pad/Str
+589 JP8 Strings 1 36:Synth Pad/Str
+590 Soft Pad 36:Synth Pad/Str
+591 JP8 Strings 2 36:Synth Pad/Str
+592 JUNO Str 36:Synth Pad/Str
+593 JUNO Str w 36:Synth Pad/Str
+594 Oct Strings 36:Synth Pad/Str
+595 Brite Str 36:Synth Pad/Str
+596 Voyager 36:Synth Pad/Str
+597 Voyager w 36:Synth Pad/Str
+598 JP8 Strings 3 36:Synth Pad/Str
+599 PWM Str 1 36:Synth Pad/Str
+600 PWM Str 2 36:Synth Pad/Str
+601 Fading Str 36:Synth Pad/Str
+602 Vintage Str 36:Synth Pad/Str
+603 Vintage Str Amp 36:Synth Pad/Str
+604 Analog Str 36:Synth Pad/Str
+605 Polysynth 38:Synth PolyKey
+606 Polysynth Dly 38:Synth PolyKey
+607 Digitaless 38:Synth PolyKey
+608 Analog Saws 38:Synth PolyKey
+609 Super Saws 38:Synth PolyKey
+610 Super Saws Atk 38:Synth PolyKey
+611 Dance Saws 2 38:Synth PolyKey
+612 S-Saw Pad 38:Synth PolyKey
+613 S-Saw Pad w 38:Synth PolyKey
+614 DOC Stack 38:Synth PolyKey
+615 Trance Saws 38:Synth PolyKey
+616 Trance Saws w 38:Synth PolyKey
+617 PWM Pad 38:Synth PolyKey
+618 Space Voice 36:Synth Pad/Str
+619 Space Voice Dly 36:Synth Pad/Str
+620 Itopia 36:Synth Pad/Str
+621 Itopia Dly 36:Synth Pad/Str
+622 JP8 Hollow 1 36:Synth Pad/Str
+623 JP8 Hollow 2 36:Synth Pad/Str
+624 Hollow Pad 36:Synth Pad/Str
+625 Strobe Pad 36:Synth Pad/Str
+626 Heaven Pad 36:Synth Pad/Str
+627 Itopia w 36:Synth Pad/Str
+628 Bowed Glass 36:Synth Pad/Str
+629 Bowed Glass Dly 36:Synth Pad/Str
+630 Brite Wine 36:Synth Pad/Str
+631 Bell Pad 36:Synth Pad/Str
+632 Wine Pad 36:Synth Pad/Str
+633 Fine Wine Pad 36:Synth Pad/Str
+634 Organ Pad 36:Synth Pad/Str
+635 Brite Wine w 36:Synth Pad/Str
+636 Metallic Pad 36:Synth Pad/Str
+637 Metallic Pad Dly 36:Synth Pad/Str
+638 Chime Pad 36:Synth Pad/Str
+639 Halo Pad 36:Synth Pad/Str
+640 Halo Pad w 36:Synth Pad/Str
+$BANK=COMMON6$MSB=87$LSB=90$CHANNEL=0
+641 Halo Pad Dly 36:Synth Pad/Str
+642 Sweep Pad 1 36:Synth Pad/Str
+643 Sweep Pad 1 Dly 36:Synth Pad/Str
+644 Trns Sweep Pad w 36:Synth Pad/Str
+645 Trns Sweep Pad 36:Synth Pad/Str
+646 Giant Sweep 36:Synth Pad/Str
+647 Sweep Pad 2 w 36:Synth Pad/Str
+648 Sweep Pad 2 36:Synth Pad/Str
+649 Reso Pad 36:Synth Pad/Str
+650 Ice Rain 36:Synth Pad/Str
+651 Ice Rain Dly 36:Synth Pad/Str
+652 Healing Pad 36:Synth Pad/Str
+653 Healing Pad w 36:Synth Pad/Str
+654 Soundtrack 36:Synth Pad/Str
+655 Soundtrack Dly 36:Synth Pad/Str
+656 Random Str 36:Synth Pad/Str
+657 Fairy?s Song 36:Synth Pad/Str
+658 Crystal 40:Synth Seq/Pop
+659 Crystal w 40:Synth Seq/Pop
+660 Synth Mallet 40:Synth Seq/Pop
+661 Synth Mallet w 40:Synth Seq/Pop
+662 Synth Mallet Dly 40:Synth Seq/Pop
+663 Sine Mallet 40:Synth Seq/Pop
+664 Seq Saw 40:Synth Seq/Pop
+665 Seq 1 40:Synth Seq/Pop
+666 Seq 1 w 40:Synth Seq/Pop
+667 Seq 2 40:Synth Seq/Pop
+668 Seq 3 40:Synth Seq/Pop
+669 Seq Sqr 1 40:Synth Seq/Pop
+670 Seq Sqr 1 Atk 40:Synth Seq/Pop
+671 Seq Sqr 2 40:Synth Seq/Pop
+672 Seq Tri 40:Synth Seq/Pop
+673 Seq Tri w 40:Synth Seq/Pop
+674 Synth Seq 1 40:Synth Seq/Pop
+675 Synth Seq 2 40:Synth Seq/Pop
+676 Synth Seq 3 40:Synth Seq/Pop
+677 Analog Seq 40:Synth Seq/Pop
+678 Detune Seq 40:Synth Seq/Pop
+679 Uni-G 40:Synth Seq/Pop
+680 Seq 4 40:Synth Seq/Pop
+681 Analog Poly 40:Synth Seq/Pop
+682 Analog Poly Dly 40:Synth Seq/Pop
+683 Saws Key 40:Synth Seq/Pop
+684 Vintage Key 40:Synth Seq/Pop
+685 Analog Key w 40:Synth Seq/Pop
+686 Analog Key 40:Synth Seq/Pop
+687 Bell 1 40:Synth Seq/Pop
+688 Bell 1 Atk 40:Synth Seq/Pop
+689 Bell 2 40:Synth Seq/Pop
+690 Bell 3 40:Synth Seq/Pop
+691 Bell 3 Amp 40:Synth Seq/Pop
+692 MusicBox Key w 40:Synth Seq/Pop
+693 MusicBox Key 40:Synth Seq/Pop
+694 Music Bells 40:Synth Seq/Pop
+695 Music Bells w 40:Synth Seq/Pop
+696 Dreaming Bell 40:Synth Seq/Pop
+697 FingBell Key 40:Synth Seq/Pop
+698 FingBell Key w 40:Synth Seq/Pop
+699 Org Bell 40:Synth Seq/Pop
+700 Pluck Synth 40:Synth Seq/Pop
+701 Atmosphere 38:Synth PolyKey
+702 Atmosphere Cho 38:Synth PolyKey
+703 Analog Dream 38:Synth PolyKey
+704 Analog Dream Atk 38:Synth PolyKey
+705 Choir Key 38:Synth PolyKey
+706 Choir Key Echo 38:Synth PolyKey
+707 Brass Key 38:Synth PolyKey
+708 Harpsi Key 38:Synth PolyKey
+709 Harpsi Key w 38:Synth PolyKey
+710 Brightness 38:Synth PolyKey
+711 Brightness Cho 38:Synth PolyKey
+712 Vox Key 38:Synth PolyKey
+713 Air Key 1 38:Synth PolyKey
+714 Air Key 2 38:Synth PolyKey
+715 Digital Key 38:Synth PolyKey
+716 Dreamheaven 1 38:Synth PolyKey
+717 Dreamheaven 2 38:Synth PolyKey
+718 Goblins 39:Synth FX
+719 Cosmic Drops 39:Synth FX
+720 Echo Drops 39:Synth FX
+721 Echo Drops Cho 39:Synth FX
+722 Echo Bell 39:Synth FX
+723 Echo Bell Cho 39:Synth FX
+724 Echo Bell Dly 39:Synth FX
+725 Echo Pan 39:Synth FX
+726 Echo Pan Cho 39:Synth FX
+727 LFO Saw 39:Synth FX
+728 Keep Going 39:Synth FX
+729 Electrostar 39:Synth FX
+730 Scream at me 39:Synth FX
+731 Scream at me w 39:Synth FX
+732 Star Theme 36:Synth Pad/Str
+733 Star Theme Dly 36:Synth Pad/Str
+734 Sitar 1 22:Plucked/Stroke
+735 Sitar 1 w 22:Plucked/Stroke
+736 Sitar 2 22:Plucked/Stroke
+737 Sitar 2 w 22:Plucked/Stroke
+738 Banjo 22:Plucked/Stroke
+739 Banjo w 22:Plucked/Stroke
+740 Shamisen 22:Plucked/Stroke
+741 Shamisen w 22:Plucked/Stroke
+742 Koto 22:Plucked/Stroke
+743 Koto w 22:Plucked/Stroke
+744 Taisho Koto 22:Plucked/Stroke
+745 Taisho Koto w 22:Plucked/Stroke
+746 Kalimba 22:Plucked/Stroke
+747 Kalimba w 22:Plucked/Stroke
+748 Bagpipe 28:Wind
+749 Bagpipe w 28:Wind
+750 Fiddle 23:Solo Strings
+751 Fiddle w 23:Solo Strings
+752 Shanai 28:Wind
+753 Shanai w 28:Wind
+754 Tinkle Bell 14:Bell
+755 Tinkle Bell w 14:Bell
+756 Agogo 14:Bell
+757 Agogo w 14:Bell
+758 Steel Drums 47:Percussion
+759 Steel Drums w 47:Percussion
+760 Steel Drums w 2 47:Percussion
+761 Woodblock 47:Percussion
+762 Castanets 47:Percussion
+763 Taiko 47:Percussion
+764 Concert BD 47:Percussion
+765 Concert BD w 47:Percussion
+766 Melodic Tom 1 47:Percussion
+767 Melodic Tom 2 47:Percussion
+768 Synth Drum 47:Percussion
+$BANK=COMMON7$MSB=87$LSB=91$CHANNEL=0
+769 Synth Drum w 47:Percussion
+770 TR-808 Tom 47:Percussion
+771 Elec.Perc. 47:Percussion
+772 Reverse Cym 47:Percussion
+773 Reverse Cym Atk 47:Percussion
+774 Gtr Fret Noise 45:Sound FX
+775 Gtr Cut Noise 45:Sound FX
+776 Bass String Slap 45:Sound FX
+777 Breath Noise 45:Sound FX
+778 Flute Key Click 45:Sound FX
+779 Seashore 45:Sound FX
+780 Rain 45:Sound FX
+781 Thunder 45:Sound FX
+782 Thunder Dly 45:Sound FX
+783 Wind 45:Sound FX
+784 Stream 45:Sound FX
+785 Stream w 45:Sound FX
+786 Bubble 1 45:Sound FX
+787 Bubble 1 w 45:Sound FX
+788 Bubble 2 45:Sound FX
+789 FX Scene 45:Sound FX
+790 Tuned Winds 45:Sound FX
+791 Tuned Winds w 45:Sound FX
+792 Sand Noise 45:Sound FX
+793 Bird 1 45:Sound FX
+794 Dog 45:Sound FX
+795 Horse Gallop 45:Sound FX
+796 Bird 2 45:Sound FX
+797 Telephone 1 45:Sound FX
+798 Telephone 2 45:Sound FX
+799 Door Creaking 45:Sound FX
+800 Door 45:Sound FX
+801 Scratch 45:Sound FX
+802 Wind Chimes 45:Sound FX
+803 FX Close 45:Sound FX
+804 Helicopter 45:Sound FX
+805 Car Engine 45:Sound FX
+806 Car Stop 45:Sound FX
+807 Car Pass 45:Sound FX
+808 Car Crash 45:Sound FX
+809 Siren 45:Sound FX
+810 Train 45:Sound FX
+811 Jetplane 45:Sound FX
+812 Jetplane Dly 45:Sound FX
+813 Starship 45:Sound FX
+814 Starship Dly 45:Sound FX
+815 Burst Noise 45:Sound FX
+816 Passing By 45:Sound FX
+817 FX Pass 1 45:Sound FX
+818 FX Pass 2 45:Sound FX
+819 FX Pass 3 45:Sound FX
+820 FX Pass 4 45:Sound FX
+821 FX Pass 5 45:Sound FX
+822 Poly Sweep Nz 45:Sound FX
+823 Reso Sweep Dn 45:Sound FX
+824 Applause 45:Sound FX
+825 Applause w 45:Sound FX
+826 Laughing 45:Sound FX
+827 Screaming 45:Sound FX
+828 Punch 45:Sound FX
+829 Heart Beat 45:Sound FX
+830 Footsteps 45:Sound FX
+831 Gun Shot 45:Sound FX
+832 Machine Gun 45:Sound FX
+833 Laser Gun 45:Sound FX
+834 Explosion 45:Sound FX
+835 Explosion Dly 45:Sound FX
+836 Explosion Dist 45:Sound FX
+837 FX Hit w 45:Sound FX
+$BANK=JUNO-106$MSB=97$LSB=66$CHANNEL=0
+JU001 Heater Pad 36:Synth Pad/Str
+JU002 CE-Drone 36:Synth Pad/Str
+JU003 Saw Strings 36:Synth Pad/Str
+JU004 PMW Crawler 36:Synth Pad/Str
+JU005 Soft Pad 36:Synth Pad/Str
+JU006 Tsukamu /Mod 36:Synth Pad/Str
+JU007 Bright Pad 36:Synth Pad/Str
+JU008 Hi Strings 36:Synth Pad/Str
+JU009 Glorious Pad 36:Synth Pad/Str
+JU010 Reso Swallow 36:Synth Pad/Str
+JU011 Face Lift 36:Synth Pad/Str
+JU012 Juno Sweeper 36:Synth Pad/Str
+JU013 Reso Sweep 36:Synth Pad/Str
+JU014 Sweep ReleasePd1 36:Synth Pad/Str
+JU015 Feels Pad 36:Synth Pad/Str
+JU016 Kolibri 36:Synth Pad/Str
+JU017 Somber Pulse Pad 36:Synth Pad/Str
+JU018 Mr PWM 36:Synth Pad/Str
+JU019 Sfz Swell 36:Synth Pad/Str
+JU020 Seary Pad 36:Synth Pad/Str
+JU021 Sweep ReleasePd2 36:Synth Pad/Str
+JU022 Gate Plucker 36:Synth Pad/Str
+JU023 PWM Soft Pad 36:Synth Pad/Str
+JU024 Ambient Pad 36:Synth Pad/Str
+JU025 Noise Pad 36:Synth Pad/Str
+JU026 m0t0n0v0 37:Synth Bellpad
+JU027 LFO Pad 36:Synth Pad/Str
+JU028 Enchanted 38:Synth PolyKey
+JU029 Oboete iru? 38:Synth PolyKey
+JU030 Uganda Poly 38:Synth PolyKey
+JU031 Ring Shorty 38:Synth PolyKey
+JU032 Hard Pluck 38:Synth PolyKey
+JU033 Bright Pluck 38:Synth PolyKey
+JU034 Delay Pluck 38:Synth PolyKey
+JU035 X-Gamer 42:Pulsating
+JU036 Garage Sale 42:Pulsating
+JU037 Wah LFO Pad 42:Pulsating
+JU038 TheUnexplored EP 42:Pulsating
+JU039 Refuge Pad 42:Pulsating
+JU040 Bright Brass 35:Synth Brass
+JU041 Reso Soft Brass 35:Synth Brass
+JU042 JUNO Lead 1 34:Synth Lead
+JU043 JUNO Lead 2 34:Synth Lead
+JU044 Sacred Lead 34:Synth Lead
+JU045 Mr Sudz Lead 34:Synth Lead
+JU046 Sir Wah 34:Synth Lead
+JU047 Retroist Lead 34:Synth Lead
+JU048 Noise Lead 34:Synth Lead
+JU049 Big Boy Bass 21:Synth Bass
+JU050 Crensaw Ld/Bs 21:Synth Bass
+JU051 Revisit Bass 21:Synth Bass
+JU052 Dizzy Bass 21:Synth Bass
+JU053 Shaker Bass 21:Synth Bass
+JU054 Bug Juice Bass 21:Synth Bass
+JU055 Disto Click Bass 21:Synth Bass
+JU056 Halo Rez Bass 21:Synth Bass
+JU057 Bass Y?all 21:Synth Bass
+JU058 Soft Subber 21:Synth Bass
+JU059 Saw Fatty 21:Synth Bass
+JU060 Low Boost Bass 21:Synth Bass
+JU061 PWM+SubOSC Bass 21:Synth Bass
+JU062 SubOSC Bass 21:Synth Bass
+JU063 Ring My Wheel Bs 21:Synth Bass
+JU064 Treat Bass 21:Synth Bass
+JU065 Iron-8 Bass 21:Synth Bass
+JU066 Seq Bass 21:Synth Bass
+JU067 Sub Reso Bass 21:Synth Bass
+JU068 Reso Seq Bs 21:Synth Bass
+JU069 Fast Mod Pluck 40:Synth Seq/Pop
+JU070 Soft Pluck 40:Synth Seq/Pop
+JU071 Saw Seq 40:Synth Seq/Pop
+JU072 Sqr Seq 40:Synth Seq/Pop
+JU073 Big Wave 39:Synth FX
+JU074 Console 80 FX 39:Synth FX
+JU075 Synth Drum 39:Synth FX
+JU076 BRASS 35:Synth Brass
+JU077 MOVING STRINGS 36:Synth Pad/Str
+JU078 BRASS & STRINGS 36:Synth Pad/Str
+JU079 CHOIR 36:Synth Pad/Str
+JU080 PIANO I 38:Synth PolyKey
+JU081 ORGAN II 38:Synth PolyKey
+JU082 CELESTE 38:Synth PolyKey
+JU083 ELEC.PIANO II 38:Synth PolyKey
+JU084 STEEL DRUMS 38:Synth PolyKey
+JU085 XYLOPHONE 38:Synth PolyKey
+JU086 BRASS III 35:Synth Brass
+JU087 STRINGS III 36:Synth Pad/Str
+JU088 DARK PLUCK 38:Synth PolyKey
+JU089 FUNKY I 38:Synth PolyKey
+JU090 SYNTH BASS I 21:Synth Bass
+JU091 LEAD I 34:Synth Lead
+JU092 LEAD II 34:Synth Lead
+JU093 FUNKY II 38:Synth PolyKey
+JU094 SYNTH BASS II 21:Synth Bass
+JU095 FUNKY III 38:Synth PolyKey
+JU096 THUD WAH 36:Synth Pad/Str
+JU097 GOING UP 39:Synth FX
+JU098 SNARE DRUM 39:Synth FX
+JU099 TOM TOMS 39:Synth FX
+JU100 TIMPANI 39:Synth FX
+JU101 SYNTH PAD 36:Synth Pad/Str
+JU102 SWEEP I 36:Synth Pad/Str
+JU103 PLUCK SWEEP 36:Synth Pad/Str
+JU104 REPEATER 38:Synth PolyKey
+JU105 DARK SYNTH PIANO 38:Synth PolyKey
+JU106 WAH RELEASE 38:Synth PolyKey
+JU107 RESONANCE FUNK 39:Synth FX
+JU108 Hard Pluck 2 36:Synth Pad/Str
+JU109 Xylo Pluck MG 36:Synth Pad/Str
+JU110 Bright JU 36:Synth Pad/Str
+JU111 Tsukamu /Mod 2 36:Synth Pad/Str
+JU112 Heater Pad 2 36:Synth Pad/Str
+JU113 Soft Strings 36:Synth Pad/Str
+JU114 Pulse Pad MG 36:Synth Pad/Str
+JU115 Century-6 Key 38:Synth PolyKey
+JU116 Heater Pad 3 42:Pulsating
+JU117 Heater Pad 4 42:Pulsating
+JU118 Soft Rider Str 42:Pulsating
+JU119 Dissolve Pad 42:Pulsating
+JU120 Bass Bro 21:Synth Bass
+JU121 BRASS 2 35:Synth Brass
+JU122 BRASS 3 35:Synth Brass
+$BANK=JUPITER-8$MSB=97$LSB=64$CHANNEL=0
+JP001 Berlin Night 36:Synth Pad/Str
+JP002 Dirty Little Pad 36:Synth Pad/Str
+JP003 Metro Flute 36:Synth Pad/Str
+JP004 Pluck Swell 36:Synth Pad/Str
+JP005 Sweeping Pulse 36:Synth Pad/Str
+JP006 Sweep JP 36:Synth Pad/Str
+JP007 Sunbeams 36:Synth Pad/Str
+JP008 Reso Drone 36:Synth Pad/Str
+JP009 Reso Pad 36:Synth Pad/Str
+JP010 Uni-Sync 36:Synth Pad/Str
+JP011 Flange Pad /Mod 36:Synth Pad/Str
+JP012 Fat 5 Fever 36:Synth Pad/Str
+JP013 Thrift Store 36:Synth Pad/Str
+JP014 Delicate Bells 37:Synth Bellpad
+JP015 Bright Pad 1 36:Synth Pad/Str
+JP016 Bright Pad 2 36:Synth Pad/Str
+JP017 Bright Strings 36:Synth Pad/Str
+JP018 Strings JP 36:Synth Pad/Str
+JP019 Oct Pad 36:Synth Pad/Str
+JP020 Retro Flute 36:Synth Pad/Str
+JP021 Sqr Soft Pad 36:Synth Pad/Str
+JP022 EPistle 36:Synth Pad/Str
+JP023 Soft Saw Pad 36:Synth Pad/Str
+JP024 PWM Stac Pad 36:Synth Pad/Str
+JP025 ModLoop EP! 36:Synth Pad/Str
+JP026 Soft Pad JP 36:Synth Pad/Str
+JP027 Big Bite Pluck 38:Synth PolyKey
+JP028 Fairy Tales 38:Synth PolyKey
+JP029 Silk Stabber 38:Synth PolyKey
+JP030 Soft Pluck 38:Synth PolyKey
+JP031 Memories 42:Pulsating
+JP032 Havana Pad 42:Pulsating
+JP033 MW Studr 42:Pulsating
+JP034 Zip Lock Pluck 42:Pulsating
+JP035 Duster Pad 42:Pulsating
+JP036 Sanctuary Pad 42:Pulsating
+JP037 Slice Pad 42:Pulsating
+JP038 Sqr Stac Pad 42:Pulsating
+JP039 Wah Pad 42:Pulsating
+JP040 Synth Brass JP 35:Synth Brass
+JP041 PWM Env Brass 35:Synth Brass
+JP042 Future Brass 35:Synth Brass
+JP043 Detuned Lead 34:Synth Lead
+JP044 SBF Saw Lead 34:Synth Lead
+JP045 Sync or Swim 34:Synth Lead
+JP046 Sync Lead JP 34:Synth Lead
+JP047 4th Stac Lead 34:Synth Lead
+JP048 5th Dist Lead 34:Synth Lead
+JP049 Solid Lead Lower 34:Synth Lead
+JP050 Solid Lead Upper 34:Synth Lead
+JP051 TB Squared 34:Synth Lead
+JP052 Saw Lead 34:Synth Lead
+JP053 European Lead 34:Synth Lead
+JP054 Sqr Bend Lead 34:Synth Lead
+JP055 Sine Pump Up 34:Synth Lead
+JP056 Reso Choke Bass 21:Synth Bass
+JP057 Polarity Bass 21:Synth Bass
+JP058 Jumpah 21:Synth Bass
+JP059 Tri Bass 21:Synth Bass
+JP060 Gut Punch Bass 21:Synth Bass
+JP061 Pulse Basser 21:Synth Bass
+JP062 Bass Juice 21:Synth Bass
+JP063 Basser PW 21:Synth Bass
+JP064 8-Easy 21:Synth Bass
+JP065 Burned Bass 21:Synth Bass
+JP066 Tight Bass 21:Synth Bass
+JP067 Saw Unison Bass 21:Synth Bass
+JP068 Sqr Unison Bass 21:Synth Bass
+JP069 Tri Looper 40:Synth Seq/Pop
+JP070 Sqr Seq Tone 40:Synth Seq/Pop
+JP071 XMod Spike 39:Synth FX
+JP072 Low Freq Tone 39:Synth FX
+JP073 NEG SYNC 36:Synth Pad/Str
+JP074 NEG PLUCK 36:Synth Pad/Str
+JP075 SYNC SWEEP 36:Synth Pad/Str
+JP076 CARS SYNC 36:Synth Pad/Str
+JP077 SYNC LEAD 34:Synth Lead
+JP078 HONKY TONK 38:Synth PolyKey
+JP079 HARP 38:Synth PolyKey
+JP080 LO STRINGS 36:Synth Pad/Str
+JP081 MID STRINGS 36:Synth Pad/Str
+JP082 HI STRINGS 36:Synth Pad/Str
+JP083 MELLOW STRINGS 36:Synth Pad/Str
+JP084 LO BRASS 35:Synth Brass
+JP085 HI BRASS 35:Synth Brass
+JP086 S&H BRASS 35:Synth Brass
+JP087 SYNTH BRASS 35:Synth Brass
+JP088 BELL ORGAN 38:Synth PolyKey
+JP089 COMBO ORGAN 38:Synth PolyKey
+JP090 PIPE ORGAN 38:Synth PolyKey
+JP091 ELECTRIC ORGAN 38:Synth PolyKey
+JP092 SOLO VOICE 34:Synth Lead
+JP093 CHOIR VOICES 36:Synth Pad/Str
+JP094 CHIME 37:Synth Bellpad
+JP095 SOLAR WINDS 39:Synth FX
+JP096 FUZZY FIFTHS 34:Synth Lead
+JP097 DOWN FOURTH 34:Synth Lead
+JP098 MELLOW BLIP 36:Synth Pad/Str
+JP099 HARD BLIP 36:Synth Pad/Str
+JP100 CLARINET 34:Synth Lead
+JP101 FLUTE 34:Synth Lead
+JP102 VIOLIN 36:Synth Pad/Str
+JP103 CELLO 36:Synth Pad/Str
+JP104 HARMONICA 34:Synth Lead
+JP105 Berlin Night 2 36:Synth Pad/Str
+JP106 Pulse Simmer 36:Synth Pad/Str
+JP107 Delicate Bells 2 37:Synth Bellpad
+JP108 EPistle 2 38:Synth PolyKey
+JP109 Monster Syn Brs 35:Synth Brass
+JP110 LO BRASS 2 35:Synth Brass
+JP111 Soft Brass Pad 35:Synth Brass
+JP112 JP Stabber 35:Synth Brass
+JP113 SBF Saw Ld MGF 34:Synth Lead
+JP114 Bass Pluck 21:Synth Bass
+JP115 Gut Punch Bass 2 21:Synth Bass
+JP116 Reso Looper 40:Synth Seq/Pop
+$BANK=JUPITER-X$MSB=97$LSB=81$CHANNEL=0
+JP001 Epic Pad 36:Synth Pad/Str
+JP002 Gas Track 36:Synth Pad/Str
+JP003 Passing Neon 36:Synth Pad/Str
+JP004 Wind Voice 36:Synth Pad/Str
+JP005 Oct Stack Pad 36:Synth Pad/Str
+JP006 Star String 36:Synth Pad/Str
+JP007 One Finger Film 36:Synth Pad/Str
+JP008 Cathedralium 36:Synth Pad/Str
+JP009 Slow Atk Nz Pad 36:Synth Pad/Str
+JP010 Lower Parts 36:Synth Pad/Str
+JP011 SlowAtk Sync Pad 36:Synth Pad/Str
+JP012 PWM Big Swells 36:Synth Pad/Str
+JP013 SlowAtk Soft Pad 36:Synth Pad/Str
+JP014 The String 36:Synth Pad/Str
+JP015 Signals From Sky 36:Synth Pad/Str
+JP016 SlowAtk LFO Pad 36:Synth Pad/Str
+JP017 Dark LFO Pad 1 36:Synth Pad/Str
+JP018 PitchBendDownPad 36:Synth Pad/Str
+JP019 7th Stack Pad 36:Synth Pad/Str
+JP020 X-Shine Pad 36:Synth Pad/Str
+JP021 JP-X Chorale 36:Synth Pad/Str
+JP022 Prism Pad 36:Synth Pad/Str
+JP023 Dark LFO Pad 2 36:Synth Pad/Str
+JP024 XMod Sci-Fi Pad 36:Synth Pad/Str
+JP025 Ambient Morning 36:Synth Pad/Str
+JP026 P5 Science Fict 36:Synth Pad/Str
+JP027 Polymod Stack 36:Synth Pad/Str
+JP028 Dual Super JP PW 36:Synth Pad/Str
+JP029 So Phase Hole 36:Synth Pad/Str
+JP030 Dark Night Pad 36:Synth Pad/Str
+JP031 Jupiter Overture 36:Synth Pad/Str
+JP032 Sandrone 36:Synth Pad/Str
+JP033 Ice Shelf 36:Synth Pad/Str
+JP034 Warm Woodwinds 36:Synth Pad/Str
+JP035 Soft LFO Strings 36:Synth Pad/Str
+JP036 Syn Strings /Vel 36:Synth Pad/Str
+JP037 Stack Pad 36:Synth Pad/Str
+JP038 Big Pipe 36:Synth Pad/Str
+JP039 Sorrow Land 36:Synth Pad/Str
+JP040 Phased-Me 36:Synth Pad/Str
+JP041 Siren Pad 36:Synth Pad/Str
+JP042 Ana Bell 37:Synth Bellpad
+JP043 Stack Bell Pad 37:Synth Bellpad
+JP044 Double XMod Keys 37:Synth Bellpad
+JP045 Ambi Bells 37:Synth Bellpad
+JP046 Snow Dust 37:Synth Bellpad
+JP047 X-Stellars 37:Synth Bellpad
+JP048 XMod Bell Pad 37:Synth Bellpad
+JP049 FltEnv Shape Key 38:Synth PolyKey
+JP050 Space Sitar 38:Synth PolyKey
+JP051 Tri Sine Stk Key 38:Synth PolyKey
+JP052 Toy Synth 38:Synth PolyKey
+JP053 Romantic Syncpno 38:Synth PolyKey
+JP054 Synthetic Ah Vox 38:Synth PolyKey
+JP055 Dual Poly Analog 38:Synth PolyKey
+JP056 Tone Delay Key 38:Synth PolyKey
+JP057 Pluck Pad /Vel 38:Synth PolyKey
+JP058 Stereo W-Sync 38:Synth PolyKey
+JP059 Sync Key /Vel 38:Synth PolyKey
+JP060 Mallet Key 38:Synth PolyKey
+JP061 Mystic 38:Synth PolyKey
+JP062 5th Ambimagic 38:Synth PolyKey
+JP063 Real Analog EP 38:Synth PolyKey
+JP064 Battlefield 38:Synth PolyKey
+JP065 5th Stack Key 38:Synth PolyKey
+JP066 FltEnv Atk Key 38:Synth PolyKey
+JP067 MultiWavStk Key 38:Synth PolyKey
+JP068 W-XMod Pluck 38:Synth PolyKey
+JP069 JUPITER-X Edge 38:Synth PolyKey
+JP070 Flange Pluck 38:Synth PolyKey
+JP071 JP4&8 Polypluck 38:Synth PolyKey
+JP072 Brass & Friends 35:Synth Brass
+JP073 Big Synth 35:Synth Brass
+JP074 1980 OB BrassEns 35:Synth Brass
+JP075 Syn Brass /Vel 35:Synth Brass
+JP076 Soft Brass 35:Synth Brass
+JP077 Reso Syn Brass 35:Synth Brass
+JP078 Colossal Brass 35:Synth Brass
+JP079 Jupiter Cs 35:Synth Brass
+JP080 Space One 35:Synth Brass
+JP081 Fractals 42:Pulsating
+JP082 Sparkle Echo 42:Pulsating
+JP083 Windy Planet 42:Pulsating
+JP084 Wormhole 42:Pulsating
+JP085 PchBnd Pulsating 42:Pulsating
+JP086 Hold Pulsating 42:Pulsating
+JP087 Pan Pulsating 42:Pulsating
+JP088 Drop Ball 42:Pulsating
+JP089 Jupiter Falling 42:Pulsating
+JP090 FltEnv Pulsating 42:Pulsating
+JP091 Frozen City 42:Pulsating
+JP092 Pulse Phase 42:Pulsating
+JP093 Intro Synth 42:Pulsating
+JP094 Stab Expansion 42:Pulsating
+JP095 FastLFOPulsating 42:Pulsating
+JP096 Stereo Mod Sweep 42:Pulsating
+JP097 Shooting Lights 42:Pulsating
+JP098 Take Other Rtm 42:Pulsating
+JP099 Poly Sequence 42:Pulsating
+JP100 Toy Piano 4:E.Piano1
+JP101 Elec Trem Piano 4:E.Piano1
+JP102 JP-X Tonewheels 6:E.Organ
+JP103 Harmonic TremOrg 6:E.Organ
+JP104 JP-X Vintage Org 6:E.Organ
+JP105 Bass Tech 21:Synth Bass
+JP106 Super JP Unibass 21:Synth Bass
+JP107 Noise Bass 21:Synth Bass
+JP108 Golden Axe 21:Synth Bass
+JP109 FilterEnv Bass 21:Synth Bass
+JP110 Grid Bass 21:Synth Bass
+JP111 Velo Filter Bass 21:Synth Bass
+JP112 Filter Baseline 21:Synth Bass
+JP113 Acid Bass 21:Synth Bass
+JP114 X-Bass 21:Synth Bass
+JP115 5 Bass One 21:Synth Bass
+JP116 Cutting Bass 21:Synth Bass
+JP117 Tone Delay Bs 1 21:Synth Bass
+JP118 Arcade Bass 21:Synth Bass
+JP119 Velo Bass 21:Synth Bass
+JP120 Tone Delay Bs 2 21:Synth Bass
+JP121 Metal Bass 21:Synth Bass
+JP122 Sync Detune Bass 21:Synth Bass
+JP123 P5 Unison Bass 21:Synth Bass
+JP124 Pitch Env Bass 21:Synth Bass
+JP125 Fat 4OSC Lead 34:Synth Lead
+JP126 Lead One 34:Synth Lead
+JP127 Pop Lead 34:Synth Lead
+JP128 Dist Lead /Aft 34:Synth Lead
+$BANK=JUPITER-X_2$MSB=97$LSB=82$CHANNEL=0
+JP129 Super Hoover 34:Synth Lead
+JP130 What Hoover 34:Synth Lead
+JP131 Hoover /Vel 34:Synth Lead
+JP132 Funk Lead 34:Synth Lead
+JP133 Get More Way 34:Synth Lead
+JP134 Ravers Coin 34:Synth Lead
+JP135 Pitch Env Lead 34:Synth Lead
+JP136 Laser Synth Lead 34:Synth Lead
+JP137 Muddy Times 34:Synth Lead
+JP138 LFO Dist Lead 34:Synth Lead
+JP139 Murmur Voices 34:Synth Lead
+JP140 Steps Follow 40:Synth Seq/Pop
+JP141 Quadra Pluck 40:Synth Seq/Pop
+JP142 Seq Blip 40:Synth Seq/Pop
+JP143 Delay Pluck 40:Synth Seq/Pop
+JP144 Rise Syn Harp 40:Synth Seq/Pop
+JP145 Green Tea 40:Synth Seq/Pop
+JP146 The Chorder 44:Hit
+JP147 Time Pass JP 44:Hit
+JP148 War Riser 39:Synth FX
+JP149 LFO Synth FX 39:Synth FX
+JP150 Dancing Ratt 39:Synth FX
+JP151 Bell In To Cave 39:Synth FX
+JP152 Filter Pattern 39:Synth FX
+JP153 Boubles Lenz 39:Synth FX
+JP154 Synth Tom oxo 39:Synth FX
+JP155 JP-X Syn Kick 46:Drums
+JP156 JP-X Syn Snare 46:Drums
+JP157 JP-X Noise Hats 46:Drums
+JP158 JP-X Analog Toms 46:Drums
+$BANK=JX-8P$MSB=97$LSB=68$CHANNEL=0
+JX001 Mass-5 36:Synth Pad/Str
+JX002 Square Dimes 36:Synth Pad/Str
+JX003 SaiYuSenJiKou 36:Synth Pad/Str
+JX004 5th Synth 1 36:Synth Pad/Str
+JX005 Scorched Pad 36:Synth Pad/Str
+JX006 Dynamic Lush Pad 36:Synth Pad/Str
+JX007 Slow Atk Strings 36:Synth Pad/Str
+JX008 Hollow Daddy 36:Synth Pad/Str
+JX009 Hinode 36:Synth Pad/Str
+JX010 Bowed Synth 36:Synth Pad/Str
+JX011 Choir Pad 36:Synth Pad/Str
+JX012 Ancient One 36:Synth Pad/Str
+JX013 Soft Pad 1 36:Synth Pad/Str
+JX014 Poly JX 36:Synth Pad/Str
+JX015 Clavcid! 36:Synth Pad/Str
+JX016 Res-Plasto 36:Synth Pad/Str
+JX017 Dyna Reso 36:Synth Pad/Str
+JX018 Descender Pad 36:Synth Pad/Str
+JX019 5th Synth 2 36:Synth Pad/Str
+JX020 Reso Sweep 1 36:Synth Pad/Str
+JX021 Reso Sweep 2 36:Synth Pad/Str
+JX022 Reso Sweep 3 36:Synth Pad/Str
+JX023 Severed Strings 36:Synth Pad/Str
+JX024 Gross dude... 36:Synth Pad/Str
+JX025 Mirror Pluck 36:Synth Pad/Str
+JX026 Soft Pad 2 36:Synth Pad/Str
+JX027 Porto Strings 36:Synth Pad/Str
+JX028 Dulci-Synth 36:Synth Pad/Str
+JX029 Bend Pad 36:Synth Pad/Str
+JX030 Bell Chorus 37:Synth Bellpad
+JX031 Two Chimes 37:Synth Bellpad
+JX032 Bright Keys 38:Synth PolyKey
+JX033 Syniano EP 38:Synth PolyKey
+JX034 Quiver 42:Pulsating
+JX035 BC Pluck 42:Pulsating
+JX036 Tremolo Synth 42:Pulsating
+JX037 Rnd Filter Synth 42:Pulsating
+JX038 JX Poly Brass 35:Synth Brass
+JX039 JX Powerbrass 35:Synth Brass
+JX040 Polyheimer 35:Synth Brass
+JX041 Bend Brass 35:Synth Brass
+JX042 Velo Brass 35:Synth Brass
+JX043 Velo Brassman 35:Synth Brass
+JX044 Classic Poly JX 35:Synth Brass
+JX045 Horn Pad 35:Synth Brass
+JX046 Amazement Ld 34:Synth Lead
+JX047 Square Bottom 34:Synth Lead
+JX048 Miss Maiden Lead 34:Synth Lead
+JX049 Sqr Lead 34:Synth Lead
+JX050 Mod Bot 34:Synth Lead
+JX051 X-Mod Lead 34:Synth Lead
+JX052 8bit Lead 34:Synth Lead
+JX053 Low Blow 21:Synth Bass
+JX054 Bit Basher 21:Synth Bass
+JX055 Delay Bass 21:Synth Bass
+JX056 5th Stac Bass 21:Synth Bass
+JX057 Dark Chorus Bass 21:Synth Bass
+JX058 Velo Reso Bass 21:Synth Bass
+JX059 Velo Filter Bass 21:Synth Bass
+JX060 DoubleFilter Bs 21:Synth Bass
+JX061 Sqr Pluck 1 40:Synth Seq/Pop
+JX062 Sqr Pluck 2 40:Synth Seq/Pop
+JX063 Velo Pluck 40:Synth Seq/Pop
+JX064 Toy Darts 40:Synth Seq/Pop
+JX065 Puny Pluck 40:Synth Seq/Pop
+JX066 Fat Fifth 2 40:Synth Seq/Pop
+JX067 Vel Seq Tone 40:Synth Seq/Pop
+JX068 XMod Compu 39:Synth FX
+JX069 Tech Chord 39:Synth FX
+JX070 Synth Tom 39:Synth FX
+JX071 Telephone 39:Synth FX
+JX072 Noise Sweep 39:Synth FX
+JX073 C5 FX Sweep 39:Synth FX
+JX074 PIANO 1 38:Synth PolyKey
+JX075 PIANO 2 38:Synth PolyKey
+JX076 PIANO 3 38:Synth PolyKey
+JX077 LOW STRINGS 36:Synth Pad/Str
+JX078 VOICES 36:Synth Pad/Str
+JX079 ORGAN I 38:Synth PolyKey
+JX080 ORGAN II 38:Synth PolyKey
+JX081 SYNTH BASS 21:Synth Bass
+JX082 SOUNDTRACK 36:Synth Pad/Str
+JX083 FAT FIFTH 36:Synth Pad/Str
+JX084 T O M S 39:Synth FX
+JX085 CLAV 38:Synth PolyKey
+JX086 SQUARELEAD 34:Synth Lead
+JX087 POLY BRASS 35:Synth Brass
+JX088 SOFT BRASS 35:Synth Brass
+JX089 STAB BRASS 35:Synth Brass
+JX090 AGOGO BELL 39:Synth FX
+JX091 PIANO 4 38:Synth PolyKey
+JX092 PIANO 5 38:Synth PolyKey
+JX093 STRINGBRASS 35:Synth Brass
+JX094 STRINGS 1 36:Synth Pad/Str
+JX095 STRINGS 2 36:Synth Pad/Str
+JX096 CHOIR 36:Synth Pad/Str
+JX097 MAY.S WIND 36:Synth Pad/Str
+JX098 MARIMBA 40:Synth Seq/Pop
+JX099 HARPSICHORD 38:Synth PolyKey
+JX100 XMAS BEL 37:Synth Bellpad
+JX101 VIBES 37:Synth Bellpad
+JX102 UPRITEBASS 21:Synth Bass
+JX103 LOG DRUM 40:Synth Seq/Pop
+JX104 MALLET 40:Synth Seq/Pop
+JX105 POLY SYNTH 36:Synth Pad/Str
+JX106 Mass-5 2 36:Synth Pad/Str
+JX107 5th Synth 3 36:Synth Pad/Str
+JX108 Mass-5 Phase 36:Synth Pad/Str
+JX109 Lass-5 36:Synth Pad/Str
+JX110 Padded Room 36:Synth Pad/Str
+JX111 Square Tone 1 36:Synth Pad/Str
+JX112 Square Tone 2 36:Synth Pad/Str
+JX113 Poly JX 2 36:Synth Pad/Str
+JX114 SaiYuSenJiKou 2 38:Synth PolyKey
+JX115 Bells MG 37:Synth Bellpad
+JX116 Square Bottom 2 34:Synth Lead
+JX117 Fat Fifth 3 40:Synth Seq/Pop
+$BANK=PR-A$MSB=87$LSB=92$CHANNEL=0
+1 AnalogAtmosphere 38:Synth PolyKey
+2 Progre.Pluck Mod 38:Synth PolyKey
+3 Stringbell Synth 38:Synth PolyKey
+4 P5 Soundtrack 38:Synth PolyKey
+5 5th Ambi Pluck 38:Synth PolyKey
+6 Juno Poly Stack 38:Synth PolyKey
+7 M/S Pulse/Mod 38:Synth PolyKey
+8 JUNO On Fire 38:Synth PolyKey
+9 Future Poly/Mod 38:Synth PolyKey
+10 Synth Edge 1 38:Synth PolyKey
+11 Future Poly 38:Synth PolyKey
+12 Future Sine Poly 38:Synth PolyKey
+13 Close to Lead 38:Synth PolyKey
+14 Laser Sync Harp 38:Synth PolyKey
+15 Broken Toys 38:Synth PolyKey
+16 Arise 38:Synth PolyKey
+17 Ring Padding 38:Synth PolyKey
+18 JP8 X-MOD Magic 38:Synth PolyKey
+19 Heliosphere 38:Synth PolyKey
+20 Sweet Sustain 38:Synth PolyKey
+21 New Pizzagogo 38:Synth PolyKey
+22 S.SAW Orch+Pizz 38:Synth PolyKey
+23 Slow Sleeper 38:Synth PolyKey
+24 XMod2 JazzGt 38:Synth PolyKey
+25 Shine Pad 36:Synth Pad/Str
+26 Ambien 36:Synth Pad/Str
+27 Formant Pad 36:Synth Pad/Str
+28 XMod N Pole 36:Synth Pad/Str
+29 Sawchestra 36:Synth Pad/Str
+30 Release 2 Mod 36:Synth Pad/Str
+31 Pad-o-wan 36:Synth Pad/Str
+32 Waterfront 36:Synth Pad/Str
+33 Resonant Gravity 36:Synth Pad/Str
+34 XMod Pad 36:Synth Pad/Str
+35 Droner Pad 36:Synth Pad/Str
+36 Chasing Amy 36:Synth Pad/Str
+37 Materials Pad 36:Synth Pad/Str
+38 Jarresque Pad 36:Synth Pad/Str
+39 Delayed Cascade 36:Synth Pad/Str
+40 Diorama 36:Synth Pad/Str
+41 Enochian 36:Synth Pad/Str
+42 Firefly Chaser 36:Synth Pad/Str
+43 Echoes of JD-XA 36:Synth Pad/Str
+44 In the sky 36:Synth Pad/Str
+45 Delicate 36:Synth Pad/Str
+46 Hot Ring Pad 36:Synth Pad/Str
+47 Blackhole for Me 36:Synth Pad/Str
+48 No Juno 36:Synth Pad/Str
+49 Teary Strings 36:Synth Pad/Str
+50 Polymod 36:Synth Pad/Str
+51 Chemtrails 36:Synth Pad/Str
+52 Unreal Pad 36:Synth Pad/Str
+53 Tricycle 36:Synth Pad/Str
+54 Digitalis 36:Synth Pad/Str
+55 XMod2 String 36:Synth Pad/Str
+56 XMod2 Sweep 36:Synth Pad/Str
+57 Linear Synth Pad 37:Synth Bellpad
+58 Fantasia 2019 37:Synth Bellpad
+59 King?s Choir 32:Vox/Choir
+60 Lo-Fi Vox 32:Vox/Choir
+61 JX Cream 35:Synth Brass
+62 FUTURE BRASS 35:Synth Brass
+63 Runner CS Brass 35:Synth Brass
+64 Soft Brass 35:Synth Brass
+65 Bit Brass 35:Synth Brass
+66 XMod2 Soft Brs 35:Synth Brass
+67 Wizard Lead 34:Synth Lead
+68 Skunk Trunk Lead 34:Synth Lead
+69 Future Sync Lead 34:Synth Lead
+70 Future Vox Lead 34:Synth Lead
+71 JP Ring Baby 34:Synth Lead
+72 Fat Mask Lead 34:Synth Lead
+73 Metal Crush 34:Synth Lead
+74 Harsh Hog Lead 34:Synth Lead
+75 XMod Lead 34:Synth Lead
+76 Top Hat Lead 34:Synth Lead
+77 Digi-8 Lead 34:Synth Lead
+78 Cauldron Lead 34:Synth Lead
+79 Cone Buzz Lead 34:Synth Lead
+80 Mod Swallow 34:Synth Lead
+81 Buzzing Fly 34:Synth Lead
+82 Brassy VA Lead 34:Synth Lead
+83 Saw Super Sync 34:Synth Lead
+84 JP-6 Rings 34:Synth Lead
+85 Gabba Stabber 34:Synth Lead
+86 Sync Metals 34:Synth Lead
+87 Power Sync 34:Synth Lead
+88 Sync XFM 34:Synth Lead
+89 XMod Square 34:Synth Lead
+90 XMod JP 34:Synth Lead
+91 Cage?s Ring Lead 34:Synth Lead
+92 Sync Nativity 34:Synth Lead
+93 Ode to... 34:Synth Lead
+94 Bellbottom 34:Synth Lead
+95 Square Easy 34:Synth Lead
+96 Arasquare 34:Synth Lead
+97 XMod2 Soft Ld 1 34:Synth Lead
+98 XMod2 Soft Ld 2 34:Synth Lead
+99 Ambisynthereed 34:Synth Lead
+100 TB-Slayer 21:Synth Bass
+101 Fizzle Pop 21:Synth Bass
+102 Decay Bounce 21:Synth Bass
+103 XMod2 Soft Bs 21:Synth Bass
+104 Dirt Sub 1 21:Synth Bass
+105 Bit Sub 21:Synth Bass
+106 XMod2 LoBit Bs 21:Synth Bass
+107 XMod2 Oct Bs 1 21:Synth Bass
+108 XMod2 Oct Bs 2 21:Synth Bass
+109 XMod2 Rubber Bs 21:Synth Bass
+110 Electro Leg Bass 21:Synth Bass
+111 Noisy Haus Bass 21:Synth Bass
+112 24Db Mini Ladder 21:Synth Bass
+113 Bass or Lead ? 21:Synth Bass
+114 Water Hose Bass 21:Synth Bass
+115 Crizzle Bass 21:Synth Bass
+116 808 Lo-Bass 21:Synth Bass
+117 Cone Pressure 21:Synth Bass
+118 Auto JP 21:Synth Bass
+119 Reso Pumper Bass 21:Synth Bass
+120 Marked Bell 21:Synth Bass
+121 LFO Lazor Bass 21:Synth Bass
+122 S.C House Bass 21:Synth Bass
+123 Future Wobble 21:Synth Bass
+124 Madness Wobble 21:Synth Bass
+125 Step Mod Bass 21:Synth Bass
+126 Mysterions 39:Synth FX
+127 Sorrow in Space 39:Synth FX
+128 Jewellery Box 39:Synth FX
+$BANK=PR-A_2$MSB=87$LSB=93$CHANNEL=0
+129 XMod Pizz 39:Synth FX
+130 Cosine Porta 39:Synth FX
+131 Drifter 39:Synth FX
+132 8th Peak 42:Pulsating
+133 Step LFO Dream 42:Pulsating
+134 S.C Lofi Vox 42:Pulsating
+135 Dancing P5 42:Pulsating
+136 Layer Cake 42:Pulsating
+137 Side Chain Syn 42:Pulsating
+138 LFO Pluck / Mod 42:Pulsating
+139 Vectorism 42:Pulsating
+140 Pad-o-wan Step 42:Pulsating
+141 Ripple Shimmer 42:Pulsating
+142 Frost Bite 42:Pulsating
+143 Alpha Centauri 42:Pulsating
+144 Passage 42:Pulsating
+145 Dirty Phaser 42:Pulsating
+146 Decompose 42:Pulsating
+147 LFO POLY MOD.F 42:Pulsating
+148 P5 Modulation 42:Pulsating
+149 Hyperion 4632 42:Pulsating
+150 Swing 42:Pulsating
+151 Angels Wings 42:Pulsating
+152 Dust Spark 42:Pulsating
+153 Bamboo 42:Pulsating
+154 Sickly Star 42:Pulsating
+155 Strange P5 42:Pulsating
+156 Noise Pound 42:Pulsating
+157 Faulty Neurons 42:Pulsating
+158 Not Quite Tine 42:Pulsating
+159 Hairy Triangles 42:Pulsating
+160 Low Fidelity 42:Pulsating
+161 Space Hiccup 42:Pulsating
+162 Faint Light 42:Pulsating
+163 Step Per Organ 42:Pulsating
+164 Donkey Cart 42:Pulsating
+165 XMod2 Seq 1 42:Pulsating
+166 XMod2 Seq 2 42:Pulsating
+167 XMod2 Seq 3 42:Pulsating
+168 Data Cram 41:Phrase
+169 Electro Birds 41:Phrase
+170 Chloroform 41:Phrase
+171 Step SQ1 /Mod 41:Phrase
+172 Step SQ2 /Mod 41:Phrase
+173 Vox Step Lead 41:Phrase
+174 Step Growl 1 41:Phrase
+175 Step Growl 2 41:Phrase
+176 Minimal Beat 1 43:Beat&Groove
+177 Minimal Beat 2 43:Beat&Groove
+178 Flutter Pulse 42:Pulsating
+179 Morse Groove 42:Pulsating
+180 808 Conga Syn 47:Percussion
+181 Step Mod Per 47:Percussion
+182 Who are you? 49:Zone
+183 80s Dive 49:Zone
+184 Home 1 49:Zone
+185 Future LD Kit 49:Zone
+186 P&K SE Kit 49:Zone
+187 Chiptune Kit 49:Zone
+188 Step Bass&Saw 49:Zone
+189 Ac Pop Piano 1 1:Ac.Piano
+190 Rocker Piano 1:Ac.Piano
+191 Ragtime Piano 1:Ac.Piano
+192 Ac Pop Piano 2 1:Ac.Piano
+193 Piano + Str 1 1:Ac.Piano
+194 Piano + Str 2 1:Ac.Piano
+195 E.Piano 4:E.Piano1
+196 Tremolo E.Piano 4:E.Piano1
+197 Phaser EP 1 4:E.Piano1
+198 Phaser EP 2 4:E.Piano1
+199 Chorus EP 1 4:E.Piano1
+200 Chorus EP 2 4:E.Piano1
+201 Emotional EP 5:E.Piano2
+202 XMod2 EP1 5:E.Piano2
+203 XMod2 EP2 5:E.Piano2
+204 Dinky 14:Bell
+205 XMod2 Marimba 15:Mallet
+206 XMod2 Log Drum 15:Mallet
+207 Nylon Guitar 16:Ac.Guitar
+208 Folk Guitar 16:Ac.Guitar
+209 Clean Gtr 17:E.Guitar
+210 Chorus Gtr 17:E.Guitar
+211 Delay Gtr 17:E.Guitar
+212 Dist Guitar 1 18:Dist.Guitar
+213 Dist Guitar 2 18:Dist.Guitar
+214 Beach Drink 15:Mallet
+215 Violin Echo 23:Solo Strings
+216 Small Strings 24:Ensemble Strings
+217 Tremolo Str 24:Ensemble Strings
+218 Oboe Echo 28:Wind
+219 Flute Echo 29:Flute
+220 Ghost Flute 29:Flute
+221 Ghost Pan 29:Flute
+222 Dirt Sub 2 21:Synth Bass
+223 Dirt Sub 3 21:Synth Bass
+224 Dust Sub 21:Synth Bass
+225 Spread Sub 1 21:Synth Bass
+226 Spread Sub 2 21:Synth Bass
+227 Lurking Bass 21:Synth Bass
+228 Bendy Mod 35:Synth Brass
+229 Fantom Overture 36:Synth Pad/Str
+230 Fade Pad 36:Synth Pad/Str
+231 Synth Edge 2 38:Synth PolyKey
+232 Randen 1986 38:Synth PolyKey
+233 Clean Me 38:Synth PolyKey
+234 Cyber Slime 38:Synth PolyKey
+235 Sunrise 38:Synth PolyKey
+236 Kaihou Keys 38:Synth PolyKey
+237 Lost Box 14:Bell
+238 Bugendai 39:Synth FX
+239 Home 2 49:Zone
+$BANK=PR-B$MSB=87$LSB=64$CHANNEL=0
+1 AX Classic Lead 34:Synth Lead
+2 AX Jupiter Ld 1 34:Synth Lead
+3 Alpha Split 34:Synth Lead
+4 AX Warm Lead 34:Synth Lead
+5 AX Saw Lead 1 34:Synth Lead
+6 AX Saw Lead 2 34:Synth Lead
+7 Edge Boost 34:Synth Lead
+8 AX Delayed Lead 34:Synth Lead
+9 Follow Me 34:Synth Lead
+10 HPF Mod Lead 34:Synth Lead
+11 Hot Coffee 34:Synth Lead
+12 Phase Lead 34:Synth Lead
+13 Porta Saw Lead 34:Synth Lead
+14 Windy Lead 34:Synth Lead
+15 Pulstar Lead 34:Synth Lead
+16 Dist TB Lead 34:Synth Lead
+17 GR-300 Lead 1 34:Synth Lead
+18 GR-300 Lead 2 34:Synth Lead
+19 AX Saw Lead 3 34:Synth Lead
+20 AX Saw Lead 4 34:Synth Lead
+21 Bright Pulse 34:Synth Lead
+22 AX Waspy Lead 34:Synth Lead
+23 Bright Square 34:Synth Lead
+24 Simple Square 34:Synth Lead
+25 Square Edge 34:Synth Lead
+26 X-Mod Lead 34:Synth Lead
+27 AX 5th Saw Lead 34:Synth Lead
+28 Oct Solid Saw 34:Synth Lead
+29 Oct Saw Lead 34:Synth Lead
+30 AX Fat GR Lead 34:Synth Lead
+31 Oct Juice 34:Synth Lead
+32 AX Juicy Lead 34:Synth Lead
+33 Square Stack 34:Synth Lead
+34 7th Stack Lead 34:Synth Lead
+35 Oct Square 34:Synth Lead
+36 Tri Stack 34:Synth Lead
+37 Digi Lead 34:Synth Lead
+38 Fireball Lead 34:Synth Lead
+39 AX Jupiter Ld 2 34:Synth Lead
+40 AX Saw Lead 5 34:Synth Lead
+41 Pro Fat Lead 34:Synth Lead
+42 Mid Saw Lead 34:Synth Lead
+43 Reso Saw Lead 34:Synth Lead
+44 AX Square Lead 34:Synth Lead
+45 Simple Tri Lead 34:Synth Lead
+46 2 krazy Soft 34:Synth Lead
+47 AX Ramp Lead 34:Synth Lead
+48 Pulse Lead 1 34:Synth Lead
+49 Pulse Lead 2 34:Synth Lead
+50 Digi-Rip Lead 34:Synth Lead
+51 Theramax 34:Synth Lead
+52 On Air Lead 34:Synth Lead
+53 Air Lead 34:Synth Lead
+54 AX Soft Lead 34:Synth Lead
+55 Soft Sqr Lead 34:Synth Lead
+56 Tri Lead 1 34:Synth Lead
+57 Tri Lead 2 34:Synth Lead
+58 Solo Nz Peaker 34:Synth Lead
+59 Whistle Lead 34:Synth Lead
+60 AX Spooky Lead 34:Synth Lead
+61 Sine Lead 1 34:Synth Lead
+62 Sine Lead 2 34:Synth Lead
+63 Simple Sine 34:Synth Lead
+64 Sine Atk Lead 34:Synth Lead
+65 Dist Stack 34:Synth Lead
+66 Buzz Saw 34:Synth Lead
+67 Buzz Nation 34:Synth Lead
+68 OSC Sync 1 34:Synth Lead
+69 OSC Sync 2 34:Synth Lead
+70 OSC Sync 3 34:Synth Lead
+71 OSC Sync 4 34:Synth Lead
+72 AX Sync Lead 34:Synth Lead
+73 Sync Lead 34:Synth Lead
+74 Sync Tank 34:Synth Lead
+75 2 krazy Bright 34:Synth Lead
+76 Dist Sync Lead 34:Synth Lead
+77 Oct Sync 34:Synth Lead
+78 Sync Mod 34:Synth Lead
+79 Metal Sync Lead 34:Synth Lead
+80 Saw Cross 34:Synth Lead
+81 Unison Lead 34:Synth Lead
+82 Unison Fat Mod 34:Synth Lead
+83 Oct Stack 34:Synth Lead
+84 Unison Soft 34:Synth Lead
+85 Growl Lead 34:Synth Lead
+86 Super Saw Lead 34:Synth Lead
+87 Unison Reso 34:Synth Lead
+88 Hoover Lead 34:Synth Lead
+89 Vintage Lead 34:Synth Lead
+90 Hardstyle 34:Synth Lead
+91 Vowel /Mod 34:Synth Lead
+92 Saw Boost Bs 21:Synth Bass
+93 Hard House Bs 21:Synth Bass
+94 Rubber Bs 1 21:Synth Bass
+95 Punch MG Bs 21:Synth Bass
+96 Rubber Bs 2 21:Synth Bass
+97 Spike Bass 21:Synth Bass
+98 Fat MG Bass 21:Synth Bass
+99 AX Reso Bass 1 21:Synth Bass
+100 TB Dist Bass 21:Synth Bass
+101 MKS-50 SBs 21:Synth Bass
+102 AX Alpha Bass 21:Synth Bass
+103 AX MG Bass 1 21:Synth Bass
+104 AX Modular Bs 1 21:Synth Bass
+105 Acdg Bass 21:Synth Bass
+106 7th Stack Bass 21:Synth Bass
+107 101 Bass 21:Synth Bass
+108 Compu Bs 21:Synth Bass
+109 Fat Analog Bs 21:Synth Bass
+110 Rubber Bs 3 21:Synth Bass
+111 Long Sweep Bs 21:Synth Bass
+112 MG Deep Bass 21:Synth Bass
+113 Round Bass 21:Synth Bass
+114 AX Reso Bass 2 21:Synth Bass
+115 AX MG Bass 2 21:Synth Bass
+116 Juno Sqr Bs 21:Synth Bass
+117 Reso Sqr Bass 21:Synth Bass
+118 TB Sqr Sweep Bs 21:Synth Bass
+119 AX Reso Bass 3 21:Synth Bass
+120 Detune Tri Bs 21:Synth Bass
+121 Triangle Bass 21:Synth Bass
+122 Sine Bass 21:Synth Bass
+123 AX Garage Bass 21:Synth Bass
+124 Monster Bs 21:Synth Bass
+125 AX Modular Bs 2 21:Synth Bass
+126 Unison Bass 1 21:Synth Bass
+127 Unison Bass 2 21:Synth Bass
+128 Unison Atk Bs 1 21:Synth Bass
+$BANK=PR-B_2$MSB=87$LSB=65$CHANNEL=0
+129 Unison Atk Bs 2 21:Synth Bass
+130 Unison Atk Bs 3 21:Synth Bass
+131 Lazor Bass 21:Synth Bass
+132 Nz Sync Bass 21:Synth Bass
+133 Dist Bass 21:Synth Bass
+134 Delta Bass 21:Synth Bass
+135 Sine Bend Dn Bs 21:Synth Bass
+136 A-i-e-i Bs 21:Synth Bass
+137 Dist Atk Bs 21:Synth Bass
+138 Acoustic Bs 1 19:Ac.Bass
+139 Acoustic Bs 2 19:Ac.Bass
+140 Finger E Bs 1 20:E.Bass
+141 Finger E Bs 2 20:E.Bass
+142 Finger E Bs 3 20:E.Bass
+143 Finger E Bs 4 20:E.Bass
+144 Pick Bass 1 20:E.Bass
+145 Pick Bass 2 20:E.Bass
+146 AX Fretless Bs 20:E.Bass
+147 AX Slap Bass 20:E.Bass
+148 AX JP Strings 36:Synth Pad/Str
+149 OB Strings 36:Synth Pad/Str
+150 106 Strings 36:Synth Pad/Str
+151 AX Syn Strings 1 36:Synth Pad/Str
+152 PW Paradise 36:Synth Pad/Str
+153 AX Syn Strings 2 36:Synth Pad/Str
+154 Soft Saw Pad 36:Synth Pad/Str
+155 Juno P13 Str 36:Synth Pad/Str
+156 5th DLA Pad 36:Synth Pad/Str
+157 Nu Epic Pad 36:Synth Pad/Str
+158 PWM Basic Pad 36:Synth Pad/Str
+159 PWM Hard Pad 36:Synth Pad/Str
+160 Sawtooth Str 36:Synth Pad/Str
+161 PWM Soft Pad 1 36:Synth Pad/Str
+162 Soft Pad 1 36:Synth Pad/Str
+163 PWM Soft Pad 2 36:Synth Pad/Str
+164 PWM Soft Pad 3 36:Synth Pad/Str
+165 Soft Pad 2 36:Synth Pad/Str
+166 Chorus Pad 36:Synth Pad/Str
+167 AX Hollow Pad 36:Synth Pad/Str
+168 AX Heaven Pad 36:Synth Pad/Str
+169 Shimmer Pad 36:Synth Pad/Str
+170 Scape Pad 36:Synth Pad/Str
+171 Str of Breath 36:Synth Pad/Str
+172 Angels Pad 36:Synth Pad/Str
+173 JX Strings 36:Synth Pad/Str
+174 PWM Sweep Pad 1 36:Synth Pad/Str
+175 PWM Sweep Pad 2 36:Synth Pad/Str
+176 Trance Sweep Pad 36:Synth Pad/Str
+177 Phase Pad 36:Synth Pad/Str
+178 Cosmic Rays 36:Synth Pad/Str
+179 Phase Super Saw 36:Synth Pad/Str
+180 Phase PWM Pad 36:Synth Pad/Str
+181 AX Voyager 36:Synth Pad/Str
+182 Bend Pad 36:Synth Pad/Str
+183 Tuned Nz 1 36:Synth Pad/Str
+184 Tuned Nz 2 36:Synth Pad/Str
+185 Tuned Nz 3 36:Synth Pad/Str
+186 Strings 1 24:Ensemble Strings
+187 Strings 2 24:Ensemble Strings
+188 AX Mood Strings 24:Ensemble Strings
+189 AX 60s Strings 24:Ensemble Strings
+190 AX Small Strings 24:Ensemble Strings
+191 Tape Strings 24:Ensemble Strings
+192 AX Strings Stacc 24:Ensemble Strings
+193 AX Pizzicato 24:Ensemble Strings
+194 D-50 Pizz 24:Ensemble Strings
+195 AX Violin 23:Solo Strings
+196 AX Viola 23:Solo Strings
+197 AX Cello 23:Solo Strings
+198 AX Contrabass 23:Solo Strings
+199 Square Saw 38:Synth PolyKey
+200 Juno SAW 38:Synth PolyKey
+201 Filter Env Key 38:Synth PolyKey
+202 Mini Growl 38:Synth PolyKey
+203 Round SQR 38:Synth PolyKey
+204 SQR Atk Pop 38:Synth PolyKey
+205 Touchy Key 38:Synth PolyKey
+206 Poly Synth 1 38:Synth PolyKey
+207 Poly Synth 2 38:Synth PolyKey
+208 Poly Synth 3 38:Synth PolyKey
+209 Ox Synth 38:Synth PolyKey
+210 Trance Synth 38:Synth PolyKey
+211 Super Saw Key 1 38:Synth PolyKey
+212 Super Saw Key 2 38:Synth PolyKey
+213 AX Digitaless 38:Synth PolyKey
+214 S-Saw Stac Pluck 38:Synth PolyKey
+215 Syn Vox Key 38:Synth PolyKey
+216 Freeze Synth 38:Synth PolyKey
+217 Mallet Pipes 38:Synth PolyKey
+218 Saw Pluck 38:Synth PolyKey
+219 PW Pluck 38:Synth PolyKey
+220 Super Saw Pluck 38:Synth PolyKey
+221 Echo Pluck 38:Synth PolyKey
+222 AX Vintage Key 38:Synth PolyKey
+223 Poly Synth 4 38:Synth PolyKey
+224 AX Saws Key 38:Synth PolyKey
+225 Sync staccato 38:Synth PolyKey
+226 AX Analog Dream 38:Synth PolyKey
+227 AX Dreaming Box 37:Synth Bellpad
+228 D-50 Fantasia 37:Synth Bellpad
+229 AX Fantasia 37:Synth Bellpad
+230 AX Stacc Heaven 37:Synth Bellpad
+231 AX Org Bell 37:Synth Bellpad
+232 FM Sparkles 14:Bell
+233 Snowflakes 14:Bell
+234 X-Mod Bell 1 14:Bell
+235 X-Mod Bell 2 14:Bell
+236 AX Tubular Bells 14:Bell
+237 Short Sqr Pluck 40:Synth Seq/Pop
+238 7th Stack Seq 40:Synth Seq/Pop
+239 8th Stack Seq 40:Synth Seq/Pop
+240 MG Thumper 40:Synth Seq/Pop
+241 PW-Echo Seq 40:Synth Seq/Pop
+242 Syn Atk Pluck 40:Synth Seq/Pop
+243 106 Brass 35:Synth Brass
+244 AX Analog Brass 35:Synth Brass
+245 80s Brass 1 35:Synth Brass
+246 Wide Syn Brass 35:Synth Brass
+247 Juno Brass 35:Synth Brass
+248 Poly Brass 1 35:Synth Brass
+249 Poly Brass 2 35:Synth Brass
+250 Syn Brass 1 35:Synth Brass
+251 Juno P18 Brass 35:Synth Brass
+252 Apolis Brass 35:Synth Brass
+253 AX JP Brass 35:Synth Brass
+254 Oct Brass 35:Synth Brass
+255 AX Soft Syn Brs 35:Synth Brass
+256 Bright Syn Brass 35:Synth Brass
+$BANK=PR-B_3$MSB=87$LSB=66$CHANNEL=0
+257 Filter Env Brass 35:Synth Brass
+258 80s Brass 2 35:Synth Brass
+259 80s Brass 3 35:Synth Brass
+260 Syn Brass 2 35:Synth Brass
+261 Soft Brass 1 35:Synth Brass
+262 Soft Brass 2 35:Synth Brass
+263 Reso Soft Brass 35:Synth Brass
+264 AX Warm Syn Brs 35:Synth Brass
+265 AX FM Brass 35:Synth Brass
+266 Brass Sect 27:Ensemble Brass
+267 Soft Ac Brass 27:Ensemble Brass
+268 Sax Section 1 27:Ensemble Brass
+269 Sax Section 2 27:Ensemble Brass
+270 AX Brass Atk 27:Ensemble Brass
+271 Trumpeter 26:Solo Brass
+272 AX Romantic Tp 26:Solo Brass
+273 AX Mute Trumpet 26:Solo Brass
+274 AX Trombone 26:Solo Brass
+275 AX Soprano Sax 30:Sax
+276 AX Alto Sax 30:Sax
+277 AX Tenor Sax 30:Sax
+278 Breathy Sax 30:Sax
+279 AX Baritone Sax 30:Sax
+280 AX Piano 1:Ac.Piano
+281 Mono Piano 1:Ac.Piano
+282 JD-800 Piano 2:Pop Piano
+283 AX Honky-tonk 2:Pop Piano
+284 DNC Piano 2:Pop Piano
+285 Blend Piano 2:Pop Piano
+286 E-Grand 2:Pop Piano
+287 Metal Key 2:Pop Piano
+288 Dyno EP 4:E.Piano1
+289 Stage EP 4:E.Piano1
+290 AX Vintage EP 4:E.Piano1
+291 Phase EP 1 4:E.Piano1
+292 Phase EP 2 4:E.Piano1
+293 Phase Stage 4:E.Piano1
+294 AX Tremolo EP 4:E.Piano1
+295 Psycho EP 4:E.Piano1
+296 SA EP 4:E.Piano1
+297 Wurly EP 4:E.Piano1
+298 Dist Wurly 4:E.Piano1
+299 FM EP 1 5:E.Piano2
+300 FM EP 2 5:E.Piano2
+301 AX Harpsichord 9:Harpsichord
+302 AX Clav 1 10:Clav
+303 AX Clav 2 10:Clav
+304 Twah Clav 10:Clav
+305 Phase Clav 10:Clav
+306 AX Pulse Clav 1 10:Clav
+307 AX Pulse Clav 2 10:Clav
+308 Sweepin Clav 10:Clav
+309 Lord Organ 1 6:E.Organ
+310 Lord Organ 2 6:E.Organ
+311 Perc Rotary Org 6:E.Organ
+312 Rotary Org 1 6:E.Organ
+313 Rotary Org 2 6:E.Organ
+314 Rotary Org 3 6:E.Organ
+315 Old Fashion 6:E.Organ
+316 Vintage Organ 1 6:E.Organ
+317 Vintage Organ 2 6:E.Organ
+318 VK Organ 1 6:E.Organ
+319 VK Organ 2 6:E.Organ
+320 D-Bars 1 6:E.Organ
+321 D-Bars 2 6:E.Organ
+322 D-Bars 3 6:E.Organ
+323 D-Bars 4 6:E.Organ
+324 D-Bars 5 6:E.Organ
+325 Dist Organ 6:E.Organ
+326 Juno P14 Organ 6:E.Organ
+327 D-50 Organ 6:E.Organ
+328 PositiveOrg /Mod 7:Pipe Organ
+329 Grand Pipes 7:Pipe Organ
+330 AX Musette 12:Accordion
+331 AX Harmonica 13:Harmonica
+332 Pop Flute 29:Flute
+333 Pan Pipes 29:Flute
+334 Pan Pipes Breath 29:Flute
+335 Bag Shaku Lead 29:Flute
+336 AX Shakuhachi 29:Flute
+337 AX Recorder 31:Recorder
+338 AX Vibraphone 15:Mallet
+339 AX Marimba 15:Mallet
+340 AX Xylophone 15:Mallet
+341 AX Steel Drums 15:Mallet
+342 AX Ethno Keys 15:Mallet
+343 AX Nylon Gtr 1 16:Ac.Guitar
+344 AX Nylon Gtr 2 16:Ac.Guitar
+345 AX Nylon Gtr 3 16:Ac.Guitar
+346 Folk Gtr 1 16:Ac.Guitar
+347 Folk Gtr 2 16:Ac.Guitar
+348 Folk Gtr 3 16:Ac.Guitar
+349 Steel Gtr Wide 16:Ac.Guitar
+350 12-str Guitar 16:Ac.Guitar
+351 Jazz Gtr 17:E.Guitar
+352 AX Clean Guitar 17:E.Guitar
+353 Pick Guitar 17:E.Guitar
+354 ST Guitar 17:E.Guitar
+355 Funk Gtr 17:E.Guitar
+356 Wah E.Gtr /Mod 17:E.Guitar
+357 Dist Gtr 1 18:Dist.Guitar
+358 Searing Gtr 1 18:Dist.Guitar
+359 Searing Gtr 2 18:Dist.Guitar
+360 Searing Gtr 3 18:Dist.Guitar
+361 Dist Fingerz 18:Dist.Guitar
+362 Dist Gtr 2 18:Dist.Guitar
+363 Digi Dist Gtr 18:Dist.Guitar
+364 Fuzz Lead 18:Dist.Guitar
+365 Oct Searing Gtr 18:Dist.Guitar
+366 MS1959 II 18:Dist.Guitar
+367 MS1959 I 18:Dist.Guitar
+368 Metal Lead 18:Dist.Guitar
+369 COSM Searing 1 18:Dist.Guitar
+370 COSM Searing 2 18:Dist.Guitar
+371 OD-2 Turbo 18:Dist.Guitar
+372 Guitar Rip 18:Dist.Guitar
+373 Santur Stack 22:Plucked/Stroke
+374 AX Koto 22:Plucked/Stroke
+375 AX Shamisen 22:Plucked/Stroke
+376 AX Sitar 22:Plucked/Stroke
+377 AX Harp 22:Plucked/Stroke
+378 AX Aerial Harp 22:Plucked/Stroke
+379 Lost Paradise 22:Plucked/Stroke
+380 AX Kalimba 22:Plucked/Stroke
+381 World X 42:Pulsating
+382 Xadecimal 42:Pulsating
+383 Metal Sync 42:Pulsating
+384 5th Stack 42:Pulsating
+$BANK=PR-B_4$MSB=87$LSB=67$CHANNEL=0
+385 HPF Tap 42:Pulsating
+386 Auto Pluck 42:Pulsating
+387 Step Beat 42:Pulsating
+388 Side Chain Bass 42:Pulsating
+389 Side Chain Pad 42:Pulsating
+390 Step Slicer 1 42:Pulsating
+391 Step Slicer 2 42:Pulsating
+392 Step Slicer 3 42:Pulsating
+393 Step Slicer 4 42:Pulsating
+394 Step Slicer 5 42:Pulsating
+395 Step Slicer 6 42:Pulsating
+396 Step Slicer 7 42:Pulsating
+397 Step Slicer 8 42:Pulsating
+398 Step Slicer 9 42:Pulsating
+399 Wobble 42:Pulsating
+400 Transition 1 42:Pulsating
+401 Transition 2 42:Pulsating
+402 Oct Play 42:Pulsating
+403 Bass Seq 42:Pulsating
+404 Dist Cutter 42:Pulsating
+405 Rhythm 1 42:Pulsating
+406 Rhythm 2 42:Pulsating
+407 TB Loop 42:Pulsating
+408 Step Refrain 42:Pulsating
+409 Pop up 39:Synth FX
+410 HPF Down 39:Synth FX
+411 Riser 39:Synth FX
+412 Accelerate 39:Synth FX
+413 Nz Sweep Dn 39:Synth FX
+414 Nz Sweep Up 39:Synth FX
+415 Chiptuner 39:Synth FX
+416 Bit Walker 39:Synth FX
+417 Ring Mod 1 39:Synth FX
+418 Ring Mod 2 39:Synth FX
+419 Ring /Mod 39:Synth FX
+420 X-Mod Driver 39:Synth FX
+421 Kick/Snare 39:Synth FX
+422 AX Orchestra Hit 44:Hit
+423 AX Bass Hit 44:Hit
+424 AX 6th Hit 44:Hit
+425 AX Tao Hit 44:Hit
+426 Min7 Hit 44:Hit
+427 AX Major 7 44:Hit
+428 AX Choir 1 32:Vox/Choir
+429 AX Choir 2 32:Vox/Choir
+430 Angels Choir 32:Vox/Choir
+431 Vox Pad 1 32:Vox/Choir
+432 U-Ahs /Mod 32:Vox/Choir
+433 Vox Pad 2 32:Vox/Choir
+434 Oh-Aah /Mod 32:Vox/Choir
+435 AX Aerial Choir 32:Vox/Choir
+436 AX Jazz Scat 33:Scat
+437 Jazz Doos 33:Scat
+438 Bop Voice 33:Scat
+439 Pop Voice 33:Scat
+440 AX Synth Voice 32:Vox/Choir
+441 VP-330 Choir 32:Vox/Choir
+442 Syn Vox 1 32:Vox/Choir
+443 Syn Vox 2 32:Vox/Choir
+444 Org Vox 32:Vox/Choir
+445 Oohs Chord 32:Vox/Choir
+446 Vox Noise 32:Vox/Choir
+447 Sample Opera 32:Vox/Choir
+448 A E I O /Mod 32:Vox/Choir
+449 U-A /Mod 32:Vox/Choir
+450 Analog Vowel 32:Vox/Choir
+451 AX Analog Voice 32:Vox/Choir
+452 Voc.Ensemble 32:Vox/Choir
+453 Voc.Sub Choir 1 32:Vox/Choir
+454 Voc.Robot 32:Vox/Choir
+455 Voc.5th Stack 32:Vox/Choir
+456 Voc.VP-330 32:Vox/Choir
+457 Voc.Sub Choir 2 32:Vox/Choir
+458 Voc.Saw 32:Vox/Choir
+459 Voc.Noise 32:Vox/Choir
+$BANK=PR-C$MSB=87$LSB=68$CHANNEL=0
+1 SL-JP8 1 38:Synth PolyKey
+2 SL-JP8 2 38:Synth PolyKey
+3 SL-JP8 3 34:Synth Lead
+4 SL-JP8 4 34:Synth Lead
+5 SL-JP8 5 36:Synth Pad/Str
+6 SL-JP8 6 21:Synth Bass
+7 SL-JP8 7 21:Synth Bass
+8 SL-JP8 8 36:Synth Pad/Str
+9 SL-JP8 9 21:Synth Bass
+10 Sl-JP8 10 38:Synth PolyKey
+11 SL-JP8 11 38:Synth PolyKey
+12 SL-JP8 12 36:Synth Pad/Str
+13 SL-JP8 13 35:Synth Brass
+14 SL-JP8 14 35:Synth Brass
+15 SL-JP8 15 35:Synth Brass
+16 SL-JP8 16 36:Synth Pad/Str
+17 SL-JP8 17 38:Synth PolyKey
+18 SL-JP Bass1 21:Synth Bass
+19 SL-JP Bass2 21:Synth Bass
+20 SL-JP Bass3 21:Synth Bass
+21 SL-JP Bass4 21:Synth Bass
+22 SL-JP Bass5 21:Synth Bass
+23 SL-JP PWM 36:Synth Pad/Str
+24 SL-JP6 1 38:Synth PolyKey
+25 SL-JP6 2 36:Synth Pad/Str
+26 SL-JP6 3 35:Synth Brass
+27 SL-JP6 4 34:Synth Lead
+28 SL-JP6 5 34:Synth Lead
+29 SL-JP6 6 34:Synth Lead
+30 SL-JP6 7 36:Synth Pad/Str
+31 SL-JP6 8 36:Synth Pad/Str
+32 SL-JP6 9 36:Synth Pad/Str
+33 SL-JP6 10 38:Synth PolyKey
+34 SL-JP6 11 38:Synth PolyKey
+35 SL-JP6 12 36:Synth Pad/Str
+36 SL-JP6 13 38:Synth PolyKey
+37 SL-JP6 14 34:Synth Lead
+38 SL-JP6 15 34:Synth Lead
+39 SL-JP6 16 38:Synth PolyKey
+40 SL-JP6 17 38:Synth PolyKey
+41 SL-JP6 18 34:Synth Lead
+42 SL-Jn106 1 38:Synth PolyKey
+43 SL-Jn106 2 36:Synth Pad/Str
+44 SL-Jn106 3 36:Synth Pad/Str
+45 SL-Jn106 4 36:Synth Pad/Str
+46 SL-Jn106 5 36:Synth Pad/Str
+47 SL-Jn106 6 21:Synth Bass
+48 SL-Jn106 7 21:Synth Bass
+49 SL-Jn106 8 21:Synth Bass
+50 SL-Jn106 9 36:Synth Pad/Str
+51 SL-Jn106 10 35:Synth Brass
+52 SL-Jn106 11 34:Synth Lead
+53 SL-Jn60 1 36:Synth Pad/Str
+54 SL-Jn60 2 35:Synth Brass
+55 SL-Jn60 3 36:Synth Pad/Str
+56 SL-Jn60 4 4:E.Piano1
+57 SL-Jn60 5 4:E.Piano1
+58 SL-Jn60 6 21:Synth Bass
+59 SL-Jn60 7 36:Synth Pad/Str
+60 SL-Jn60 8 21:Synth Bass
+61 SL-Jn60 9 38:Synth PolyKey
+62 SL-Jn60 10 38:Synth PolyKey
+63 SL-Jn60 11 21:Synth Bass
+64 SL-Jn60sub1 21:Synth Bass
+65 SL-Jn60sub2 21:Synth Bass
+66 SL-Jn60sub3 21:Synth Bass
+67 SL-Jn60sub4 21:Synth Bass
+68 SL-Jn60sub5 21:Synth Bass
+69 SL-Jn60sub6 21:Synth Bass
+70 SL-Jn60sub7 21:Synth Bass
+71 SL-Jn60 Bs1 21:Synth Bass
+72 SL-Jn60 Bs2 21:Synth Bass
+73 SL-Jn60 Bs3 21:Synth Bass
+74 SL-Jn60 Ply 38:Synth PolyKey
+75 SL-Jn60 SBr 35:Synth Brass
+76 SL-Jn60Bell1 4:E.Piano1
+77 SL-Jn60Bell2 4:E.Piano1
+78 SL-Jn60Syn1 38:Synth PolyKey
+79 SL-Jn60Syn2 38:Synth PolyKey
+80 SL-Jn60Syn3 38:Synth PolyKey
+81 SL-Jn60Syn4 38:Synth PolyKey
+82 SL-Jn60Syn5 38:Synth PolyKey
+83 SL-TB Saw 1 21:Synth Bass
+84 SL-TB Saw1A 21:Synth Bass
+85 SL-TB Saw 2 21:Synth Bass
+86 SL-TB Saw2A 21:Synth Bass
+87 SL-TB Saw 3 21:Synth Bass
+88 SL-TB Saw3A 21:Synth Bass
+89 SL-TB Saw 4 21:Synth Bass
+90 SL-TB Saw4A 21:Synth Bass
+91 SL-TB Saw 5 21:Synth Bass
+92 SL-TB Saw5A 21:Synth Bass
+93 SL-TB Saw 6 21:Synth Bass
+94 SL-TB Saw6A 21:Synth Bass
+95 SL-TB Sqr 1 21:Synth Bass
+96 SL-TB Sqr1A 21:Synth Bass
+97 SL-TB Sqr 2 21:Synth Bass
+98 SL-TB Sqr2A 21:Synth Bass
+99 SL-TB Sqr 3 21:Synth Bass
+100 SL-TB Sqr3A 21:Synth Bass
+101 SL-TB Sqr 4 21:Synth Bass
+102 SL-TB Sqr4A 21:Synth Bass
+103 SL-TB Sqr 5 21:Synth Bass
+104 SL-TB Sqr5A 21:Synth Bass
+105 SL-TB Sqr 6 21:Synth Bass
+106 SL-TB Sqr6A 21:Synth Bass
+107 SL-SH101 1 34:Synth Lead
+108 SL-SH101 2 34:Synth Lead
+109 SL-SH101 3 34:Synth Lead
+110 SL-SH101 4 21:Synth Bass
+111 SL-SH101 5 34:Synth Lead
+112 SL-SH101 6 21:Synth Bass
+113 SL-SH101 7 21:Synth Bass
+114 SL-SH101 8 34:Synth Lead
+115 SL-SH101 9 21:Synth Bass
+116 SL-SH101 10 21:Synth Bass
+117 SL-SH101 11 34:Synth Lead
+118 SL-SH101 12 21:Synth Bass
+119 SL-D50 1 37:Synth Bellpad
+120 SL-D50 2 37:Synth Bellpad
+121 SL-D50 3 37:Synth Bellpad
+122 SL-D50 4 36:Synth Pad/Str
+123 SL-D50 5 37:Synth Bellpad
+124 SL-D50 6 38:Synth PolyKey
+125 SL-D50 7 38:Synth PolyKey
+126 SL-D50 8 37:Synth Bellpad
+127 SL-D50 9 38:Synth PolyKey
+128 SL-D50 10 36:Synth Pad/Str
+$BANK=PR-D$MSB=87$LSB=69$CHANNEL=0
+1 JP8 Strings1 36:Synth Pad/Str
+2 JP8 Strings2 36:Synth Pad/Str
+3 JP8 Strings3 36:Synth Pad/Str
+4 JP8 Strings4 36:Synth Pad/Str
+5 JP8 Strings5 36:Synth Pad/Str
+6 JP8 Strings6 36:Synth Pad/Str
+7 JP8 Strings7 36:Synth Pad/Str
+8 JP8 Strings8 36:Synth Pad/Str
+9 JP8 Strings9 36:Synth Pad/Str
+10 JP8Strings10 36:Synth Pad/Str
+11 JP8Strings11 36:Synth Pad/Str
+12 JP8Strings12 36:Synth Pad/Str
+13 JP8Strings13 36:Synth Pad/Str
+14 JP8Strings14 36:Synth Pad/Str
+15 JP8Strings15 36:Synth Pad/Str
+16 JP8Strings16 36:Synth Pad/Str
+17 JP-8 Pad 1 36:Synth Pad/Str
+18 JP-8 Pad 2 36:Synth Pad/Str
+19 JP-8 Pad 3 36:Synth Pad/Str
+20 JP-8 Pad 4 36:Synth Pad/Str
+21 JUNO Str 1 36:Synth Pad/Str
+22 JUNO Str 2 36:Synth Pad/Str
+23 JUNO Str 3 36:Synth Pad/Str
+24 JX Strings 36:Synth Pad/Str
+25 OB Strings 1 36:Synth Pad/Str
+26 OB Strings 2 36:Synth Pad/Str
+27 OB Strings 3 36:Synth Pad/Str
+28 OB Strings 4 36:Synth Pad/Str
+29 OB Strings 5 36:Synth Pad/Str
+30 OB Strings 6 36:Synth Pad/Str
+31 Vintage 1 36:Synth Pad/Str
+32 Vintage 2 36:Synth Pad/Str
+33 Vintage 3 36:Synth Pad/Str
+34 Vintage 4 36:Synth Pad/Str
+35 Vintage 5 36:Synth Pad/Str
+36 Vintage 6 36:Synth Pad/Str
+37 Vintage 7 36:Synth Pad/Str
+38 Vintage 8 36:Synth Pad/Str
+39 Vintage 9 36:Synth Pad/Str
+40 Vintage 10 36:Synth Pad/Str
+41 Vintage 11 36:Synth Pad/Str
+42 Soft Pad 1 36:Synth Pad/Str
+43 Soft Pad 2 36:Synth Pad/Str
+44 Soft Pad 3 36:Synth Pad/Str
+45 Soft Pad 4 36:Synth Pad/Str
+46 Soft Pad 5 36:Synth Pad/Str
+47 Soft Pad 6 36:Synth Pad/Str
+48 Soft Pad 7 36:Synth Pad/Str
+49 Soft Pad 8 36:Synth Pad/Str
+50 Soft Pad 9 36:Synth Pad/Str
+51 Soft Pad 10 36:Synth Pad/Str
+52 Soft Pad 11 36:Synth Pad/Str
+53 Soft Pad 12 36:Synth Pad/Str
+54 Soft Pad 13 36:Synth Pad/Str
+55 Soft Pad 14 36:Synth Pad/Str
+56 Soft Pad 15 36:Synth Pad/Str
+57 Soft Pad 16 36:Synth Pad/Str
+58 Soft Pad 17 36:Synth Pad/Str
+59 Oct Str 1 36:Synth Pad/Str
+60 Oct Str 2 36:Synth Pad/Str
+61 Oct Str 3 36:Synth Pad/Str
+62 Oct Str 4 36:Synth Pad/Str
+63 Oct Str 5 36:Synth Pad/Str
+64 Oct Str 6 36:Synth Pad/Str
+65 Oct Str 7 36:Synth Pad/Str
+66 Cloud Pad 36:Synth Pad/Str
+67 Slow Pad 1 36:Synth Pad/Str
+68 Slow Pad 2 36:Synth Pad/Str
+69 Brite Str 1 36:Synth Pad/Str
+70 Brite Str 2 36:Synth Pad/Str
+71 Brite Str 3 36:Synth Pad/Str
+72 Brite Str 4 36:Synth Pad/Str
+73 Boreal Pad 36:Synth Pad/Str
+74 Flange Str 36:Synth Pad/Str
+75 Organ Pad 1 36:Synth Pad/Str
+76 Organ Pad 2 36:Synth Pad/Str
+77 Organ Pad 3 36:Synth Pad/Str
+78 Organ Pad 4 36:Synth Pad/Str
+79 Digi Str 1 36:Synth Pad/Str
+80 Digi Str 2 36:Synth Pad/Str
+81 Digi Pad 1 36:Synth Pad/Str
+82 Digi Pad 2 36:Synth Pad/Str
+83 Digi Pad 3 36:Synth Pad/Str
+84 Digi Pad 4 36:Synth Pad/Str
+85 Heaven Pad 1 36:Synth Pad/Str
+86 Heaven Pad 2 36:Synth Pad/Str
+87 Heaven Pad 3 36:Synth Pad/Str
+88 Heaven Pad 4 36:Synth Pad/Str
+89 Voice Heaven 36:Synth Pad/Str
+90 ChordOfCnada 36:Synth Pad/Str
+91 Awakening 36:Synth Pad/Str
+92 JP8 Hollow 1 36:Synth Pad/Str
+93 JP8 Hollow 2 36:Synth Pad/Str
+94 JP8 Hollow 3 36:Synth Pad/Str
+95 Hollow Pad 1 36:Synth Pad/Str
+96 Hollow Pad 2 36:Synth Pad/Str
+97 Simple Air 36:Synth Pad/Str
+98 Air Pad 36:Synth Pad/Str
+99 Glass Pad 36:Synth Pad/Str
+100 Flute Pad 36:Synth Pad/Str
+101 Seek Flute 36:Synth Pad/Str
+102 Syn Pad 1 36:Synth Pad/Str
+103 Syn Pad 2 36:Synth Pad/Str
+104 Syn Pad 3 36:Synth Pad/Str
+105 Syn Pad 4 36:Synth Pad/Str
+106 Syn Pad 5 36:Synth Pad/Str
+107 Syn Pad 6 36:Synth Pad/Str
+108 Syn Pad 7 36:Synth Pad/Str
+109 Syn Pad 8 36:Synth Pad/Str
+110 Syn Pad 9 36:Synth Pad/Str
+111 Syn Pad 10 36:Synth Pad/Str
+112 Syn Pad 11 36:Synth Pad/Str
+113 Syn Pad 12 36:Synth Pad/Str
+114 Syn Pad 13 36:Synth Pad/Str
+115 Syn Pad 14 36:Synth Pad/Str
+116 Syn Pad 15 36:Synth Pad/Str
+117 Syn Pad 16 36:Synth Pad/Str
+118 Syn Pad 17 36:Synth Pad/Str
+119 Syn Pad 18 36:Synth Pad/Str
+120 Syn Pad 19 36:Synth Pad/Str
+121 Syn Pad 20 36:Synth Pad/Str
+122 Syn Pad 21 36:Synth Pad/Str
+123 Syn Pad 22 36:Synth Pad/Str
+124 Syn Pad 23 36:Synth Pad/Str
+125 Hybrid Str 1 36:Synth Pad/Str
+126 Hybrid Str 2 36:Synth Pad/Str
+127 Hybrid Str 3 36:Synth Pad/Str
+128 LFO Pad 1 36:Synth Pad/Str
+$BANK=PR-D_2$MSB=87$LSB=70$CHANNEL=0
+129 LFO Pad 2 36:Synth Pad/Str
+130 RETROX 139 36:Synth Pad/Str
+131 I Sync So 36:Synth Pad/Str
+132 Sea Waves 36:Synth Pad/Str
+133 FireFlies 36:Synth Pad/Str
+134 Particles 36:Synth Pad/Str
+135 Phr Str 1 36:Synth Pad/Str
+136 Phr Str 2 36:Synth Pad/Str
+137 Phr Str 3 36:Synth Pad/Str
+138 Phr Str 4 36:Synth Pad/Str
+139 Phr Str 5 36:Synth Pad/Str
+140 Phr Str 6 36:Synth Pad/Str
+141 Phr Str 7 36:Synth Pad/Str
+142 Phr Str 8 36:Synth Pad/Str
+143 Phr Str 9 36:Synth Pad/Str
+144 Phr Str 10 36:Synth Pad/Str
+145 Phr Str 11 36:Synth Pad/Str
+146 Stone Pad 36:Synth Pad/Str
+147 JP8 Stone 1 36:Synth Pad/Str
+148 JP8 Stone 2 36:Synth Pad/Str
+149 Sweep Pad 1 36:Synth Pad/Str
+150 Sweep Pad 2 36:Synth Pad/Str
+151 Sweep Pad 3 36:Synth Pad/Str
+152 Sweep Pad 4 36:Synth Pad/Str
+153 Sweep Pad 5 36:Synth Pad/Str
+154 Sweep Pad 6 36:Synth Pad/Str
+155 Sweep Pad 7 36:Synth Pad/Str
+156 Sweep Pad 8 36:Synth Pad/Str
+157 Sweep Pad 9 36:Synth Pad/Str
+158 Sweep Pad 10 36:Synth Pad/Str
+159 Sweep Pad 11 36:Synth Pad/Str
+160 Sweep Pad 12 36:Synth Pad/Str
+161 Sweep Pad 13 36:Synth Pad/Str
+162 Sweep Pad 14 36:Synth Pad/Str
+163 Sweep Pad 15 36:Synth Pad/Str
+164 Sweep Pad 16 36:Synth Pad/Str
+165 Sweep Pad 17 36:Synth Pad/Str
+166 Chronic Pad 36:Synth Pad/Str
+167 Sweep JD 36:Synth Pad/Str
+168 SweepNz Pad 36:Synth Pad/Str
+169 HPF Pad 36:Synth Pad/Str
+170 Iso Pad 36:Synth Pad/Str
+171 Reverie Pad 36:Synth Pad/Str
+172 PWM Pad 1 36:Synth Pad/Str
+173 PWM Pad 2 36:Synth Pad/Str
+174 Stack Pad 36:Synth Pad/Str
+175 Fanta Synth 36:Synth Pad/Str
+176 Deepity 36:Synth Pad/Str
+177 Fair Pad 36:Synth Pad/Str
+178 Revalation 36:Synth Pad/Str
+179 Trance Pad 36:Synth Pad/Str
+180 Alan?s Pad 36:Synth Pad/Str
+181 Dreamwarp 36:Synth Pad/Str
+182 Emote String 36:Synth Pad/Str
+183 PortamentPad 36:Synth Pad/Str
+184 Cincosoft 36:Synth Pad/Str
+185 5th Pad 1 36:Synth Pad/Str
+186 5th Pad 2 36:Synth Pad/Str
+187 5th Pad 3 36:Synth Pad/Str
+188 Metal Pad 36:Synth Pad/Str
+189 Legend Pad 36:Synth Pad/Str
+190 GlassFx Pad 36:Synth Pad/Str
+191 Glass Forest 36:Synth Pad/Str
+192 Jungle-Pool 36:Synth Pad/Str
+193 Xadecimal 36:Synth Pad/Str
+194 HPF Strings 36:Synth Pad/Str
+195 Gate Game 36:Synth Pad/Str
+196 Horror Pad 36:Synth Pad/Str
+197 PLS Pad 1 42:Pulsating
+198 PLS Pad 2 42:Pulsating
+199 PLS Pad 3 42:Pulsating
+200 PLS Pad 4 42:Pulsating
+201 PLS Pad 5 42:Pulsating
+202 PLS Pad 6 42:Pulsating
+203 PLS Pad 7 42:Pulsating
+204 PLS Pad 8 42:Pulsating
+205 PLS Pad 9 42:Pulsating
+206 PLS Pad 10 42:Pulsating
+207 PLS Pad 11 42:Pulsating
+208 PLS Pad 12 42:Pulsating
+209 PLS Pad 13 42:Pulsating
+210 PLS Pad 14 42:Pulsating
+211 PLS Pad 15 42:Pulsating
+212 PLS Pad 16 42:Pulsating
+213 PLS Strings 42:Pulsating
+214 LFO Hollow 42:Pulsating
+215 Goes A Pad 42:Pulsating
+216 Metal PLS 42:Pulsating
+217 Trip 2 Mars 42:Pulsating
+218 Fist Pumper1 42:Pulsating
+219 Fist Pumper2 42:Pulsating
+220 Pulsatron 42:Pulsating
+221 LFO Poly 42:Pulsating
+222 LFO Saw 1 42:Pulsating
+223 LFO Saw 2 42:Pulsating
+224 Thick Pans 42:Pulsating
+225 LFO Ripple 42:Pulsating
+226 JayMeJay 42:Pulsating
+227 Karmalog 42:Pulsating
+228 MINIM-L 42:Pulsating
+229 Trance Staff 42:Pulsating
+230 Radanceky 42:Pulsating
+231 12303 42:Pulsating
+232 Experiment 42:Pulsating
+233 Pulserelay 42:Pulsating
+234 Jazz Bubbles 42:Pulsating
+235 Psychoscilo 42:Pulsating
+236 PXZoon 42:Pulsating
+237 Welding Bell 42:Pulsating
+238 Glassphemia 42:Pulsating
+239 Strobe Bell 42:Pulsating
+240 Sawflutter 42:Pulsating
+241 Dronified 42:Pulsating
+242 Tri-Vector 42:Pulsating
+243 Syn Vox 1 32:Vox/Choir
+244 Syn Vox 2 32:Vox/Choir
+245 Syn Vox 3 32:Vox/Choir
+246 JD80 SoftVox 32:Vox/Choir
+247 Valley Air 32:Vox/Choir
+248 Vox Pad 1 32:Vox/Choir
+249 Vox Pad 2 32:Vox/Choir
+250 Vox Pad 3 32:Vox/Choir
+251 Vox Pad 4 32:Vox/Choir
+252 Vox Pad 5 32:Vox/Choir
+253 5th Vox Pad 32:Vox/Choir
+254 Moving Chr 32:Vox/Choir
+255 VP-330 Chr 32:Vox/Choir
+256 HyperVentChr 32:Vox/Choir
+$BANK=PR-D_3$MSB=87$LSB=71$CHANNEL=0
+257 Vento Choir 32:Vox/Choir
+258 Scat Dow 33:Scat
+259 JP8 Brs 1 35:Synth Brass
+260 JP8 Brs 2 35:Synth Brass
+261 JP8 Brs 3 35:Synth Brass
+262 JP8 Brs 4 35:Synth Brass
+263 JP8 Brs 5 35:Synth Brass
+264 JP8 Brs 6 35:Synth Brass
+265 JUNO Brs 1 35:Synth Brass
+266 JUNO Brs 2 35:Synth Brass
+267 JUNO Brs 3 35:Synth Brass
+268 JUNO Brs 4 35:Synth Brass
+269 JUNO Brs 5 35:Synth Brass
+270 JUNO Brs 6 35:Synth Brass
+271 JUNO Brs 7 35:Synth Brass
+272 JUNO Brs 8 35:Synth Brass
+273 JUNO Brs 9 35:Synth Brass
+274 JUNO Brs 10 35:Synth Brass
+275 JP8000 Brs 1 35:Synth Brass
+276 JP8000 Brs 2 35:Synth Brass
+277 80s Brs 1 35:Synth Brass
+278 80s Brs 2 35:Synth Brass
+279 80s Brs 3 35:Synth Brass
+280 80s Brs 4 35:Synth Brass
+281 80s Brs 5 35:Synth Brass
+282 80s Brs 6 35:Synth Brass
+283 80s Brs 7 35:Synth Brass
+284 80s Brs 8 35:Synth Brass
+285 80s Brs 9 35:Synth Brass
+286 80s Brs 10 35:Synth Brass
+287 80s Brs 11 35:Synth Brass
+288 SynBrs Str 35:Synth Brass
+289 Analog Brs 1 35:Synth Brass
+290 Analog Brs 2 35:Synth Brass
+291 Analog Brs 3 35:Synth Brass
+292 Analog Brs 4 35:Synth Brass
+293 OB Brs 35:Synth Brass
+294 Euro Express 35:Synth Brass
+295 Syn Brs 1 35:Synth Brass
+296 Syn Brs 2 35:Synth Brass
+297 Syn Brs 3 35:Synth Brass
+298 Syn Brs 4 35:Synth Brass
+299 Syn Brs 5 35:Synth Brass
+300 Syn Brs 6 35:Synth Brass
+301 Syn Brs 7 35:Synth Brass
+302 Syn Brs 8 35:Synth Brass
+303 Syn Brs 9 35:Synth Brass
+304 Syn Brs 10 35:Synth Brass
+305 Syn Brs 11 35:Synth Brass
+306 Syn Brs 12 35:Synth Brass
+307 Syn Brs 13 35:Synth Brass
+308 Soft SynBrs1 35:Synth Brass
+309 Soft SynBrs2 35:Synth Brass
+310 Soft SynBrs3 35:Synth Brass
+311 Soft SynBrs4 35:Synth Brass
+312 Soft SynBrs5 35:Synth Brass
+313 Dyn SynBrs 35:Synth Brass
+314 Quiet Brs 35:Synth Brass
+315 Brassrub 35:Synth Brass
+316 Poly Brass 1 35:Synth Brass
+317 Poly Brass 2 35:Synth Brass
+318 Poly Brass 3 35:Synth Brass
+319 Poly Brass 4 35:Synth Brass
+320 Poly Brass 5 35:Synth Brass
+321 Octa Brass 35:Synth Brass
+322 Reso Brs 1 35:Synth Brass
+323 Reso Brs 2 35:Synth Brass
+324 Slow Brs 1 35:Synth Brass
+325 Slow Brs 2 35:Synth Brass
+326 FM Brass 35:Synth Brass
+327 Hybrid Brass 35:Synth Brass
+328 Power JP 35:Synth Brass
+329 Power SynBrs 35:Synth Brass
+330 Love Brs 35:Synth Brass
+331 LoveBrs Pad 35:Synth Brass
+332 42 Brass 35:Synth Brass
+333 80sBrsScoop1 35:Synth Brass
+334 80sBrsScoop2 35:Synth Brass
+335 ResoSweepBrs 35:Synth Brass
+336 Porta Brs 35:Synth Brass
+337 Xpand Brs 1 35:Synth Brass
+338 Xpand Brs 2 35:Synth Brass
+339 Saws Key 1 38:Synth PolyKey
+340 Saws Key 2 38:Synth PolyKey
+341 Saws Key 3 38:Synth PolyKey
+342 Saws Key 4 38:Synth PolyKey
+343 Saws Key 5 38:Synth PolyKey
+344 Saws Key 6 38:Synth PolyKey
+345 Saws Key 7 38:Synth PolyKey
+346 Saws Key 8 38:Synth PolyKey
+347 Saws Key 9 38:Synth PolyKey
+348 Saws Key 10 38:Synth PolyKey
+349 Laserthroat 38:Synth PolyKey
+350 Poly Key 1 38:Synth PolyKey
+351 Poly Key 2 38:Synth PolyKey
+352 Poly Key 3 38:Synth PolyKey
+353 Poly Key 4 38:Synth PolyKey
+354 JP80 WaveSyn 38:Synth PolyKey
+355 Poly Syn 1 38:Synth PolyKey
+356 Poly Syn 2 38:Synth PolyKey
+357 Poly Syn 3 38:Synth PolyKey
+358 Poly Syn 4 38:Synth PolyKey
+359 Poly Syn 5 38:Synth PolyKey
+360 Poly Syn 6 38:Synth PolyKey
+361 Poly Syn 7 38:Synth PolyKey
+362 Poly Syn 8 38:Synth PolyKey
+363 Poly Syn 9 38:Synth PolyKey
+364 Poly Syn 10 38:Synth PolyKey
+365 Poly Syn 11 38:Synth PolyKey
+366 Poly Syn 12 38:Synth PolyKey
+367 Poly Syn 13 38:Synth PolyKey
+368 Poly Syn 14 38:Synth PolyKey
+369 Poly Syn 15 38:Synth PolyKey
+370 Poly Syn 16 38:Synth PolyKey
+371 Poly Syn 17 38:Synth PolyKey
+372 Poly Syn 18 38:Synth PolyKey
+373 Poly Syn 19 38:Synth PolyKey
+374 Poly Syn 20 38:Synth PolyKey
+375 Poly Syn 21 38:Synth PolyKey
+376 Poly Syn 22 38:Synth PolyKey
+377 Poly Syn 23 38:Synth PolyKey
+378 Poly Syn 24 38:Synth PolyKey
+379 Poly Syn 25 38:Synth PolyKey
+380 Poly Syn 26 38:Synth PolyKey
+381 Saw Dtune 38:Synth PolyKey
+382 Jester 38:Synth PolyKey
+383 Fusion Decay 38:Synth PolyKey
+384 Polysubito 38:Synth PolyKey
+$BANK=PR-D_4$MSB=87$LSB=72$CHANNEL=0
+385 Wave Scan 38:Synth PolyKey
+386 Wire String 38:Synth PolyKey
+387 Brusky Key 38:Synth PolyKey
+388 Cutter Key 38:Synth PolyKey
+389 PolySyn Atk 38:Synth PolyKey
+390 Harpsitone 38:Synth PolyKey
+391 Digi Key 1 38:Synth PolyKey
+392 Digi Key 2 38:Synth PolyKey
+393 Digi Key 3 38:Synth PolyKey
+394 Digi Key 4 38:Synth PolyKey
+395 Digi Key 5 38:Synth PolyKey
+396 Digi Key 6 38:Synth PolyKey
+397 Digi Poly 1 38:Synth PolyKey
+398 Digi Poly 2 38:Synth PolyKey
+399 Bit Poly 1 38:Synth PolyKey
+400 Bit Poly 2 38:Synth PolyKey
+401 Bit Poly 3 38:Synth PolyKey
+402 Bit Poly 4 38:Synth PolyKey
+403 Bit Poly 5 38:Synth PolyKey
+404 Bit Poly 6 38:Synth PolyKey
+405 Bit Poly 7 38:Synth PolyKey
+406 Bit Poly 8 38:Synth PolyKey
+407 Bit Poly 9 38:Synth PolyKey
+408 Bit Poly 10 38:Synth PolyKey
+409 5th Poly 1 38:Synth PolyKey
+410 5th Poly 2 38:Synth PolyKey
+411 5th Poly 3 38:Synth PolyKey
+412 Poly Aug 5th 38:Synth PolyKey
+413 5th Key 38:Synth PolyKey
+414 HPF Poly 1 38:Synth PolyKey
+415 HPF Poly 2 38:Synth PolyKey
+416 BPF Poly 1 38:Synth PolyKey
+417 BPF Poly 2 38:Synth PolyKey
+418 Sweep Poly 1 38:Synth PolyKey
+419 Sweep Poly 2 38:Synth PolyKey
+420 Sweep Poly 3 38:Synth PolyKey
+421 Scoop Poly 1 38:Synth PolyKey
+422 Scoop Poly 2 38:Synth PolyKey
+423 Scoop Poly 3 38:Synth PolyKey
+424 Scoop Poly 4 38:Synth PolyKey
+425 Scoop Poly 5 38:Synth PolyKey
+426 Scoop Poly 6 38:Synth PolyKey
+427 Tekno Poly 1 38:Synth PolyKey
+428 Tekno Poly 2 38:Synth PolyKey
+429 Tekno Poly 3 38:Synth PolyKey
+430 J-Pop Kira 1 38:Synth PolyKey
+431 J-Pop Kira 2 38:Synth PolyKey
+432 Square Poly 38:Synth PolyKey
+433 Slow Poly 38:Synth PolyKey
+434 Vox Poly 38:Synth PolyKey
+435 S-SawPoly 1 38:Synth PolyKey
+436 S-SawPoly 2 38:Synth PolyKey
+437 S-SawPoly 3 38:Synth PolyKey
+438 S-SawPoly 4 38:Synth PolyKey
+439 S-SawPoly 5 38:Synth PolyKey
+440 S-SawPoly 6 38:Synth PolyKey
+441 S-SawPoly 7 38:Synth PolyKey
+442 S-SawPoly 8 38:Synth PolyKey
+443 S-SawPoly 9 38:Synth PolyKey
+444 S-SawPoly 10 38:Synth PolyKey
+445 S-SawPoly 11 38:Synth PolyKey
+446 S-SawPoly 12 38:Synth PolyKey
+447 S-SawPoly 13 38:Synth PolyKey
+448 Trance Key 1 38:Synth PolyKey
+449 Trance Key 2 38:Synth PolyKey
+450 Trance Key 3 38:Synth PolyKey
+451 Trance Key 4 38:Synth PolyKey
+452 Trance Key 5 38:Synth PolyKey
+453 Trance Key 6 38:Synth PolyKey
+454 Delay Reso 38:Synth PolyKey
+455 3Delay Poly 38:Synth PolyKey
+456 JP80 FatPoly 38:Synth PolyKey
+457 Poly Fat 38:Synth PolyKey
+458 Trance Saw 38:Synth PolyKey
+459 SoHo Lucky 38:Synth PolyKey
+460 DLM SUM 38:Synth PolyKey
+461 H@sWillFall 38:Synth PolyKey
+462 A Log 4 Ana 38:Synth PolyKey
+463 Log An A 38:Synth PolyKey
+464 Androdrops 38:Synth PolyKey
+465 Vntg Stack 38:Synth PolyKey
+466 ANORMANALOG 38:Synth PolyKey
+467 Don?t you 38:Synth PolyKey
+468 Nailbiter 38:Synth PolyKey
+469 EinsZweiDry 38:Synth PolyKey
+470 Analog Key 1 38:Synth PolyKey
+471 Analog Key 2 38:Synth PolyKey
+472 Paperclip 38:Synth PolyKey
+473 Sqr Key 38:Synth PolyKey
+474 Tri Key 38:Synth PolyKey
+475 JP-8 PatchF2 38:Synth PolyKey
+476 Fantasy 1 37:Synth Bellpad
+477 Fantasy 2 37:Synth Bellpad
+478 Fantasy 3 37:Synth Bellpad
+479 Fantasy 4 37:Synth Bellpad
+480 Fantasy 5 37:Synth Bellpad
+481 Fantasy Pad 37:Synth Bellpad
+482 What Key! 37:Synth Bellpad
+483 EP-Cool Pad 37:Synth Bellpad
+484 D50 Stack 37:Synth Bellpad
+485 D-52 Babe 37:Synth Bellpad
+486 Dreaming 1 37:Synth Bellpad
+487 Dreaming 2 37:Synth Bellpad
+488 Dreaming 3 37:Synth Bellpad
+489 Dreaming 4 37:Synth Bellpad
+490 Dreaming 5 37:Synth Bellpad
+491 Dreaming 6 37:Synth Bellpad
+492 Dreaming 7 37:Synth Bellpad
+493 Dreambell 37:Synth Bellpad
+494 DreamingBox 37:Synth Bellpad
+495 New Jupiter 37:Synth Bellpad
+496 Analog Dream 37:Synth Bellpad
+497 Huge MIDI 1 37:Synth Bellpad
+498 Huge MIDI 2 37:Synth Bellpad
+499 Huge MIDI 3 37:Synth Bellpad
+500 MIDI Key 37:Synth Bellpad
+501 Pipe Key 37:Synth Bellpad
+502 Vox Key 37:Synth Bellpad
+503 Magichand 37:Synth Bellpad
+504 AnalogBell 1 37:Synth Bellpad
+505 AnalogBell 2 37:Synth Bellpad
+506 AnalogBell 3 37:Synth Bellpad
+507 AnalogBell 4 37:Synth Bellpad
+508 Synth Sniper 37:Synth Bellpad
+509 Temper Bell 37:Synth Bellpad
+510 Icycle 37:Synth Bellpad
+511 Pipe Chatter 37:Synth Bellpad
+512 Spring Wind 37:Synth Bellpad
+$BANK=PR-D_5$MSB=87$LSB=73$CHANNEL=0
+513 JP80 SynHarp 37:Synth Bellpad
+514 Bell 1 14:Bell
+515 Bell 2 14:Bell
+516 Bell 3 14:Bell
+517 Bell 4 14:Bell
+518 Bell 5 14:Bell
+519 Bell 6 14:Bell
+520 Bell 7 14:Bell
+521 Bell 8 14:Bell
+522 Bell 9 14:Bell
+523 Bell 10 14:Bell
+524 Bell 11 14:Bell
+525 Bell 12 14:Bell
+526 Bell 13 14:Bell
+527 Bell 14 14:Bell
+528 Bell 15 14:Bell
+529 Bell 16 14:Bell
+530 Bell 17 14:Bell
+531 Bell 18 14:Bell
+532 Bell 19 14:Bell
+533 Bell 20 14:Bell
+534 Bell 21 14:Bell
+535 Bell 22 14:Bell
+536 Tower Bell 14:Bell
+537 Tubular Bell 14:Bell
+538 OrganBell 1 14:Bell
+539 OrganBell 2 14:Bell
+540 OrganBell 3 14:Bell
+541 Kalimbell 14:Bell
+542 JP80 Bell 14:Bell
+543 Glass Amb 14:Bell
+544 Digi Crystal 14:Bell
+545 Icy Keys 14:Bell
+546 JP-8 PatchH1 14:Bell
+547 SEQ 1 40:Synth Seq/Pop
+548 SEQ 2 40:Synth Seq/Pop
+549 SEQ 3 40:Synth Seq/Pop
+550 SEQ 4 40:Synth Seq/Pop
+551 SEQ 5 40:Synth Seq/Pop
+552 SEQ 6 40:Synth Seq/Pop
+553 SEQ 7 40:Synth Seq/Pop
+554 SEQ 8 40:Synth Seq/Pop
+555 SEQ 9 40:Synth Seq/Pop
+556 SEQ 10 40:Synth Seq/Pop
+557 SEQ 11 40:Synth Seq/Pop
+558 SEQ 12 40:Synth Seq/Pop
+559 SEQ 13 40:Synth Seq/Pop
+560 SEQ 14 40:Synth Seq/Pop
+561 SEQ 15 40:Synth Seq/Pop
+562 SEQ 16 40:Synth Seq/Pop
+563 SEQ 17 40:Synth Seq/Pop
+564 SEQ 18 40:Synth Seq/Pop
+565 SEQ 19 40:Synth Seq/Pop
+566 SEQ 20 40:Synth Seq/Pop
+567 SEQ 21 40:Synth Seq/Pop
+568 SEQ 22 40:Synth Seq/Pop
+569 SEQ 23 40:Synth Seq/Pop
+570 SEQ 24 40:Synth Seq/Pop
+571 SEQ 25 40:Synth Seq/Pop
+572 SEQ 26 40:Synth Seq/Pop
+573 SEQ 27 40:Synth Seq/Pop
+574 SEQ 28 40:Synth Seq/Pop
+575 SEQ 29 40:Synth Seq/Pop
+576 SEQ 30 40:Synth Seq/Pop
+577 SEQ 31 40:Synth Seq/Pop
+578 SEQ 32 40:Synth Seq/Pop
+579 SEQ 33 40:Synth Seq/Pop
+580 SEQ 34 40:Synth Seq/Pop
+581 SEQ 35 40:Synth Seq/Pop
+582 SEQ 36 40:Synth Seq/Pop
+583 SEQ 37 40:Synth Seq/Pop
+584 SEQ 38 40:Synth Seq/Pop
+585 SEQ 39 40:Synth Seq/Pop
+586 Stubby Mono 40:Synth Seq/Pop
+587 Scrt Decay 40:Synth Seq/Pop
+588 R&B Bs 1 21:Synth Bass
+589 R&B Bs 2 21:Synth Bass
+590 R&B Bs 3 21:Synth Bass
+591 R&B Bs 4 21:Synth Bass
+592 R&B Bs 5 21:Synth Bass
+593 R&B Bs 6 21:Synth Bass
+594 R&B Bs 7 21:Synth Bass
+595 R&B Bs 8 21:Synth Bass
+596 R&B Bs 9 21:Synth Bass
+597 MG Bs 1 21:Synth Bass
+598 MG Bs 2 21:Synth Bass
+599 MG Bs 3 21:Synth Bass
+600 MG Bs 4 21:Synth Bass
+601 MG Bs 5 21:Synth Bass
+602 MG Bs 6 21:Synth Bass
+603 MG Bs 7 21:Synth Bass
+604 MG Bs 8 21:Synth Bass
+605 MG Bs 9 21:Synth Bass
+606 MG Bs 10 21:Synth Bass
+607 MG Bs 11 21:Synth Bass
+608 MG Bs 12 21:Synth Bass
+609 MG Bs 13 21:Synth Bass
+610 MG Bs 14 21:Synth Bass
+611 MG Bs 15 21:Synth Bass
+612 MG Bs 16 21:Synth Bass
+613 MG Bs 17 21:Synth Bass
+614 MG Bs 18 21:Synth Bass
+615 MG Bs 19 21:Synth Bass
+616 MG Bs 20 21:Synth Bass
+617 MG Bs 21 21:Synth Bass
+618 MG Bs 22 21:Synth Bass
+619 MG Bs 23 21:Synth Bass
+620 MG Bs 24 21:Synth Bass
+621 MG Bs 25 21:Synth Bass
+622 MG Bs 26 21:Synth Bass
+623 Thickness Bs 21:Synth Bass
+624 Plastic Bs 21:Synth Bass
+625 Alpha Bs 1 21:Synth Bass
+626 Alpha Bs 2 21:Synth Bass
+627 Alpha Bs 3 21:Synth Bass
+628 Flat6Bs 21:Synth Bass
+629 Decay Bs 1 21:Synth Bass
+630 Decay Bs 2 21:Synth Bass
+631 Decay Bs 3 21:Synth Bass
+632 Decay Bs 4 21:Synth Bass
+633 106 Bass 1 21:Synth Bass
+634 106 Bass 2 21:Synth Bass
+635 106 Bass 3 21:Synth Bass
+636 106 Bass 4 21:Synth Bass
+637 106 Bass 5 21:Synth Bass
+638 Breakdown Bs 21:Synth Bass
+639 Dopebass 21:Synth Bass
+640 MC202 Bs 1 21:Synth Bass
+$BANK=PR-D_6$MSB=87$LSB=74$CHANNEL=0
+641 MC202 Bs 2 21:Synth Bass
+642 Pulse Bs 1 21:Synth Bass
+643 Pulse Bs 2 21:Synth Bass
+644 Pulse Bs 3 21:Synth Bass
+645 Pulse Bs 4 21:Synth Bass
+646 FM Bs 1 21:Synth Bass
+647 FM Bs 2 21:Synth Bass
+648 JP Bs 21:Synth Bass
+649 Compu Bass 1 21:Synth Bass
+650 Compu Bass 2 21:Synth Bass
+651 Detune Bs 1 21:Synth Bass
+652 Detune Bs 2 21:Synth Bass
+653 Detune Bs 3 21:Synth Bass
+654 Detune Bs 4 21:Synth Bass
+655 Intrusive Bs 21:Synth Bass
+656 SH-101 Bs 1 21:Synth Bass
+657 SH-101 Bs 2 21:Synth Bass
+658 Sweep Bs 1 21:Synth Bass
+659 Sweep Bs 2 21:Synth Bass
+660 Sweep Bs 3 21:Synth Bass
+661 Sweep Bs 4 21:Synth Bass
+662 Sweep Bs 5 21:Synth Bass
+663 Sweep Bs 6 21:Synth Bass
+664 Sweep Bs 7 21:Synth Bass
+665 Rubbertouch 21:Synth Bass
+666 P5 Bs 1 21:Synth Bass
+667 P5 Bs 2 21:Synth Bass
+668 P5 Bs 3 21:Synth Bass
+669 P5 Bs 4 21:Synth Bass
+670 P5 Bs 5 21:Synth Bass
+671 Juno60 Bs 21:Synth Bass
+672 D-50 Bs 21:Synth Bass
+673 MKS-50 Bs 21:Synth Bass
+674 Wide Bs 1 21:Synth Bass
+675 Wide Bs 2 21:Synth Bass
+676 Wide Bs 3 21:Synth Bass
+677 Wide Bs 4 21:Synth Bass
+678 BASSH 10 21:Synth Bass
+679 Chow Bs 1 21:Synth Bass
+680 Chow Bs 2 21:Synth Bass
+681 House Bs 21:Synth Bass
+682 JP-4 Bs 21:Synth Bass
+683 SH Square Bs 21:Synth Bass
+684 JunoSqr Bs 1 21:Synth Bass
+685 JunoSqr Bs 2 21:Synth Bass
+686 TB Bass 1 21:Synth Bass
+687 TB Bass 2 21:Synth Bass
+688 TB Dist Bs 1 21:Synth Bass
+689 TB Dist Bs 2 21:Synth Bass
+690 Agresso Bass 21:Synth Bass
+691 Show Me Low 21:Synth Bass
+692 Organ Bs 21:Synth Bass
+693 Muffled Bass 21:Synth Bass
+694 Garage Bs 1 21:Synth Bass
+695 Garage Bs 2 21:Synth Bass
+696 Low Bs 1 21:Synth Bass
+697 Low Bs 2 21:Synth Bass
+698 Low Bs 3 21:Synth Bass
+699 Low Bs 4 21:Synth Bass
+700 Low Bs 5 21:Synth Bass
+701 Low Bs 6 21:Synth Bass
+702 Tri Bass 1 21:Synth Bass
+703 Tri Bass 2 21:Synth Bass
+704 Fat Analog 1 21:Synth Bass
+705 Fat Analog 2 21:Synth Bass
+706 Reso Bs 1 21:Synth Bass
+707 Reso Bs 2 21:Synth Bass
+708 Reso Bs 3 21:Synth Bass
+709 Reso Bs 4 21:Synth Bass
+710 Reso Bs 5 21:Synth Bass
+711 Reso Bs 6 21:Synth Bass
+712 Reso Bs 7 21:Synth Bass
+713 Reso Bs 8 21:Synth Bass
+714 Reso Bs 9 21:Synth Bass
+715 Reso Bs 10 21:Synth Bass
+716 Reso Bs 11 21:Synth Bass
+717 Reso Bs 12 21:Synth Bass
+718 Reso Bs 13 21:Synth Bass
+719 Reso Bs 14 21:Synth Bass
+720 Reso Bs 15 21:Synth Bass
+721 Reso Bs 16 21:Synth Bass
+722 Reso Bs 17 21:Synth Bass
+723 Reso Bs 18 21:Synth Bass
+724 Reso Bs 19 21:Synth Bass
+725 Reso Bs 20 21:Synth Bass
+726 Reso Bs 21 21:Synth Bass
+727 Reso Bs 22 21:Synth Bass
+728 Reso Bs 23 21:Synth Bass
+729 Reso Bs 24 21:Synth Bass
+730 Camblast 21:Synth Bass
+731 LA SynBs 21:Synth Bass
+732 Fat SynBs 21:Synth Bass
+733 Syn Bs 1 21:Synth Bass
+734 Syn Bs 2 21:Synth Bass
+735 Syn Bs 3 21:Synth Bass
+736 Rubber Bs 1 21:Synth Bass
+737 Rubber Bs 2 21:Synth Bass
+738 Dynamic Bs 1 21:Synth Bass
+739 Dynamic Bs 2 21:Synth Bass
+740 Round Bs 21:Synth Bass
+741 Acid Bs 1 21:Synth Bass
+742 Acid Bs 2 21:Synth Bass
+743 Acid Bs 3 21:Synth Bass
+744 Acid Bs 4 21:Synth Bass
+745 Acid Bs 5 21:Synth Bass
+746 Acid Bs 6 21:Synth Bass
+747 Spike Bs 1 21:Synth Bass
+748 Spike Bs 2 21:Synth Bass
+749 H&S Bass 21:Synth Bass
+750 Short Bs 1 21:Synth Bass
+751 Short Bs 2 21:Synth Bass
+752 Short Bs 3 21:Synth Bass
+753 HH Bs 1 21:Synth Bass
+754 HH Bs 2 21:Synth Bass
+755 HH Bs 3 21:Synth Bass
+756 HH Bs 4 21:Synth Bass
+757 HH Bs 5 21:Synth Bass
+758 HH Bs 6 21:Synth Bass
+759 Arpaccio 21:Synth Bass
+760 Carmelcorn 21:Synth Bass
+761 NoiseBs 21:Synth Bass
+762 Soft Bs 21:Synth Bass
+763 Slow Bs 21:Synth Bass
+764 Square Bs 1 21:Synth Bass
+765 Square Bs 2 21:Synth Bass
+766 Square Bs 3 21:Synth Bass
+767 Square Bs 4 21:Synth Bass
+768 Squaresville 21:Synth Bass
+$BANK=PR-D_7$MSB=87$LSB=75$CHANNEL=0
+769 PWM Bass 1 21:Synth Bass
+770 PWM Bass 2 21:Synth Bass
+771 Modular Bs 1 21:Synth Bass
+772 Modular Bs 2 21:Synth Bass
+773 Modular Bs 3 21:Synth Bass
+774 Modular Bs 4 21:Synth Bass
+775 Modular Bs 5 21:Synth Bass
+776 Modular Bs 6 21:Synth Bass
+777 Unison Bs 1 21:Synth Bass
+778 Unison Bs 2 21:Synth Bass
+779 Unison Bs 3 21:Synth Bass
+780 Unison Bs 4 21:Synth Bass
+781 Monster Bs 1 21:Synth Bass
+782 Monster Bs 2 21:Synth Bass
+783 Monster Bs 3 21:Synth Bass
+784 Monster Bs 4 21:Synth Bass
+785 Monster Bs 5 21:Synth Bass
+786 Monster Bs 6 21:Synth Bass
+787 Monster Bs 7 21:Synth Bass
+788 Monster Bs 8 21:Synth Bass
+789 Bit Bs 1 21:Synth Bass
+790 Bit Bs 2 21:Synth Bass
+791 Bit Bs 3 21:Synth Bass
+792 Bit Bs 4 21:Synth Bass
+793 SuperSawBs 1 21:Synth Bass
+794 SuperSawBs 2 21:Synth Bass
+795 SuperSawBs 3 21:Synth Bass
+796 SuperSawBs 4 21:Synth Bass
+797 SuperSawBs 5 21:Synth Bass
+798 Sync Bs 1 21:Synth Bass
+799 Sync Bs 2 21:Synth Bass
+800 Sync Bs 3 21:Synth Bass
+801 Sync Bs 4 21:Synth Bass
+802 SubOSC Bs 1 21:Synth Bass
+803 SubOSC Bs 2 21:Synth Bass
+804 Ramp Bs 21:Synth Bass
+805 LFO Bs 1 21:Synth Bass
+806 LFO Bs 2 21:Synth Bass
+807 LFO Bs 3 21:Synth Bass
+808 LFO Bs 4 21:Synth Bass
+809 Crackbass 21:Synth Bass
+810 Basschunk 21:Synth Bass
+811 Hi-Energy Bs 21:Synth Bass
+812 Saw Lead 1 34:Synth Lead
+813 Saw Lead 2 34:Synth Lead
+814 Saw Lead 3 34:Synth Lead
+815 Saw Lead 4 34:Synth Lead
+816 Saw Lead 5 34:Synth Lead
+817 Saw Lead 6 34:Synth Lead
+818 Saw Lead 7 34:Synth Lead
+819 Saw Lead 8 34:Synth Lead
+820 Saw Lead 9 34:Synth Lead
+821 Saw Lead 10 34:Synth Lead
+822 Saw Lead 11 34:Synth Lead
+823 Saw Lead 12 34:Synth Lead
+824 Saw Lead 13 34:Synth Lead
+825 Saw Lead 14 34:Synth Lead
+826 Saw Lead 15 34:Synth Lead
+827 Saw Lead 16 34:Synth Lead
+828 Saw Lead 17 34:Synth Lead
+829 Saw Lead 18 34:Synth Lead
+830 Saw Lead 19 34:Synth Lead
+831 Saw Lead 20 34:Synth Lead
+832 Saw Lead 21 34:Synth Lead
+833 Saw Lead 22 34:Synth Lead
+834 Saw Lead 23 34:Synth Lead
+835 Saw Lead 24 34:Synth Lead
+836 Saw Lead 25 34:Synth Lead
+837 Saw Lead 26 34:Synth Lead
+838 Saw Lead 27 34:Synth Lead
+839 Saw Lead 28 34:Synth Lead
+840 Saw Lead 29 34:Synth Lead
+841 Saw Lead 30 34:Synth Lead
+842 Saw Lead 31 34:Synth Lead
+843 Saw Lead 32 34:Synth Lead
+844 Saw Lead 33 34:Synth Lead
+845 Saw Lead 34 34:Synth Lead
+846 Saw Lead 35 34:Synth Lead
+847 Saw Lead 36 34:Synth Lead
+848 Saw Lead 37 34:Synth Lead
+849 Saw Lead 38 34:Synth Lead
+850 Saw Lead 39 34:Synth Lead
+851 Saw Lead 40 34:Synth Lead
+852 Saw Lead 41 34:Synth Lead
+853 Saw Lead 42 34:Synth Lead
+854 Saw Lead 43 34:Synth Lead
+855 Saw Lead 44 34:Synth Lead
+856 Saw Lead 45 34:Synth Lead
+857 CC Saw Ld 1 34:Synth Lead
+858 CC Saw Ld 2 34:Synth Lead
+859 CC Saw Ld 3 34:Synth Lead
+860 CC Saw Ld 4 34:Synth Lead
+861 CC Saw Ld 5 34:Synth Lead
+862 Bad Axe 34:Synth Lead
+863 Buzz Cut 34:Synth Lead
+864 Cutting Lead 34:Synth Lead
+865 Fat GR Lead 34:Synth Lead
+866 Bright Pls 34:Synth Lead
+867 Juicy JP 34:Synth Lead
+868 Abakababra 34:Synth Lead
+869 Crossfire 34:Synth Lead
+870 Borrowed 34:Synth Lead
+871 PulstarLd 1 34:Synth Lead
+872 PulstarLd 2 34:Synth Lead
+873 Dirty Saw Ld 34:Synth Lead
+874 Leadership 34:Synth Lead
+875 Ripping Mini 34:Synth Lead
+876 Love Lead 34:Synth Lead
+877 EQ Lead 1 34:Synth Lead
+878 EQ Lead 2 34:Synth Lead
+879 Stn MG Lead 34:Synth Lead
+880 Octa Juice 34:Synth Lead
+881 CR Lead 34:Synth Lead
+882 Hip Lead 34:Synth Lead
+883 Chubby Lead 34:Synth Lead
+884 Super Saws 34:Synth Lead
+885 NuWave 34:Synth Lead
+886 Flangepig 34:Synth Lead
+887 Bodyart 34:Synth Lead
+888 Buzz Synth 34:Synth Lead
+889 Hard Synth 34:Synth Lead
+890 Dance Saw 1 34:Synth Lead
+891 Dance Saw 2 34:Synth Lead
+892 Funky Lead 34:Synth Lead
+893 WaveShape Ld 34:Synth Lead
+894 Synchro Lead 34:Synth Lead
+895 LFO Saw Ld 34:Synth Lead
+896 Juno Soft Ld 34:Synth Lead
+$BANK=PR-D_8$MSB=87$LSB=76$CHANNEL=0
+897 Oct Lead 34:Synth Lead
+898 Slow Lead 1 34:Synth Lead
+899 Slow Lead 2 34:Synth Lead
+900 Slow Lead 3 34:Synth Lead
+901 Slow Lead 4 34:Synth Lead
+902 Slow Lead 5 34:Synth Lead
+903 Slow Lead 6 34:Synth Lead
+904 Slow Lead 7 34:Synth Lead
+905 Slow Lead 8 34:Synth Lead
+906 Slow Lead 9 34:Synth Lead
+907 Slow Lead 10 34:Synth Lead
+908 Slow Lead 11 34:Synth Lead
+909 Slow Lead 12 34:Synth Lead
+910 AnaVox Ld 1 34:Synth Lead
+911 AnaVox Ld 2 34:Synth Lead
+912 AnaVox Ld 3 34:Synth Lead
+913 AnaVox Ld 4 34:Synth Lead
+914 Pulse Lead 1 34:Synth Lead
+915 Pulse Lead 2 34:Synth Lead
+916 Pulse Lead 3 34:Synth Lead
+917 BellSaw Ld 1 34:Synth Lead
+918 BellSaw Ld 2 34:Synth Lead
+919 Bell Lead 1 34:Synth Lead
+920 Bell Lead 2 34:Synth Lead
+921 Bell Lead 3 34:Synth Lead
+922 Dig n D 34:Synth Lead
+923 Juicy Lead 1 34:Synth Lead
+924 Juicy Lead 2 34:Synth Lead
+925 Portament Ld 34:Synth Lead
+926 Reso Juno 34:Synth Lead
+927 Air Lead 1 34:Synth Lead
+928 Air Lead 2 34:Synth Lead
+929 Reso Pulser 34:Synth Lead
+930 Growl Lead 34:Synth Lead
+931 Vintager 1 34:Synth Lead
+932 Vintager 2 34:Synth Lead
+933 Vintager 3 34:Synth Lead
+934 SuperSaw Ld 34:Synth Lead
+935 5th SawLead1 34:Synth Lead
+936 5th SawLead2 34:Synth Lead
+937 Simple Sqr 34:Synth Lead
+938 Round Sqr 1 34:Synth Lead
+939 Round Sqr 2 34:Synth Lead
+940 Square Ld 1 34:Synth Lead
+941 Square Ld 2 34:Synth Lead
+942 Square Ld 3 34:Synth Lead
+943 Square Ld 4 34:Synth Lead
+944 Square Ld 5 34:Synth Lead
+945 Square Ld 6 34:Synth Lead
+946 Square Ld 7 34:Synth Lead
+947 Square Ld 8 34:Synth Lead
+948 Square Ld 9 34:Synth Lead
+949 Square Ld 10 34:Synth Lead
+950 Square Ld 11 34:Synth Lead
+951 Square Ld 12 34:Synth Lead
+952 Square Ld 13 34:Synth Lead
+953 Square Ld 14 34:Synth Lead
+954 Square Ld 15 34:Synth Lead
+955 Squareoff 34:Synth Lead
+956 Brite Sqr 1 34:Synth Lead
+957 Brite Sqr 2 34:Synth Lead
+958 Brite Sqr 3 34:Synth Lead
+959 Cpt McSquare 34:Synth Lead
+960 Tekno Sqr 34:Synth Lead
+961 Octa Square 34:Synth Lead
+962 Pure Square 34:Synth Lead
+963 SynOcarina 1 34:Synth Lead
+964 SynOcarina 2 34:Synth Lead
+965 SynOcarina 3 34:Synth Lead
+966 Crawler 34:Synth Lead
+967 OB Lead 1 34:Synth Lead
+968 OB Lead 2 34:Synth Lead
+969 Tri Lead 1 34:Synth Lead
+970 Tri Lead 2 34:Synth Lead
+971 Tri Lead 3 34:Synth Lead
+972 Tri Lead 4 34:Synth Lead
+973 Softy Lead 34:Synth Lead
+974 Sine Lead 1 34:Synth Lead
+975 Sine Lead 2 34:Synth Lead
+976 Sine Lead 3 34:Synth Lead
+977 Sine Lead 4 34:Synth Lead
+978 Sine Lead 5 34:Synth Lead
+979 OSC-SyncLd 1 34:Synth Lead
+980 OSC-SyncLd 2 34:Synth Lead
+981 OSC-SyncLd 3 34:Synth Lead
+982 OSC-SyncLd 4 34:Synth Lead
+983 OSC-SyncLd 5 34:Synth Lead
+984 OSC-SyncLd 6 34:Synth Lead
+985 OSC-SyncLd 7 34:Synth Lead
+986 OSC-SyncLd 8 34:Synth Lead
+987 Disturb Sync 34:Synth Lead
+988 Digi Lead 1 34:Synth Lead
+989 Digi Lead 2 34:Synth Lead
+990 Waspy Lead 34:Synth Lead
+991 Stitcher 34:Synth Lead
+992 Sweet 5th 1 34:Synth Lead
+993 Sweet 5th 2 34:Synth Lead
+994 SoloNzPeaker 34:Synth Lead
+995 Release Ld 34:Synth Lead
+996 Syn Lead 1 34:Synth Lead
+997 Syn Lead 2 34:Synth Lead
+998 Syn Lead 3 34:Synth Lead
+999 Syn Lead 4 34:Synth Lead
+1000 Syn Lead 5 34:Synth Lead
+1001 Syn Lead 6 34:Synth Lead
+1002 Syn Lead 7 34:Synth Lead
+1003 Syn Lead 8 34:Synth Lead
+1004 Syn Lead 9 34:Synth Lead
+1005 Syn Lead 10 34:Synth Lead
+1006 Syn Lead 11 34:Synth Lead
+1007 Tekno Ld 1 34:Synth Lead
+1008 Tekno Ld 2 34:Synth Lead
+1009 Tekno Ld 3 34:Synth Lead
+1010 Tekno Ld 4 34:Synth Lead
+1011 Tekno Ld 5 34:Synth Lead
+1012 Tekno Ld 6 34:Synth Lead
+1013 Tekno Ld 7 34:Synth Lead
+1014 Tekno Ld 8 34:Synth Lead
+1015 Tekno Ld 9 34:Synth Lead
+1016 Tekno Ld 10 34:Synth Lead
+1017 Tekno Ld 11 34:Synth Lead
+1018 Tekno Ld 12 34:Synth Lead
+1019 Tekno Ld 13 34:Synth Lead
+1020 Tekno Ld 14 34:Synth Lead
+1021 Tekno Ld 15 34:Synth Lead
+1022 Tekno Ld 16 34:Synth Lead
+1023 Tekno Ld 17 34:Synth Lead
+1024 Tekno Ld 18 34:Synth Lead
+$BANK=PR-D_9$MSB=87$LSB=77$CHANNEL=0
+1025 Tekno Ld 19 34:Synth Lead
+1026 Tekno Ld 20 34:Synth Lead
+1027 Tekno Ld 21 34:Synth Lead
+1028 Tekno Ld 22 34:Synth Lead
+1029 Tekno Ld 23 34:Synth Lead
+1030 Tekno Ld 24 34:Synth Lead
+1031 Tekno Ld 25 34:Synth Lead
+1032 Tekno Ld 26 34:Synth Lead
+1033 Tekno Ld 27 34:Synth Lead
+1034 Tekno Ld 28 34:Synth Lead
+1035 Tekno Ld 29 34:Synth Lead
+1036 Tekno Ld 30 34:Synth Lead
+1037 Tekno Ld 31 34:Synth Lead
+1038 Tekno Ld 32 34:Synth Lead
+1039 Tekno Ld 33 34:Synth Lead
+1040 Tekno Ld 34 34:Synth Lead
+1041 Tekno Ld 35 34:Synth Lead
+1042 Tekno Ld 36 34:Synth Lead
+1043 JP80 Ring-80 34:Synth Lead
+1044 Distroubled 34:Synth Lead
+1045 Hover Dive 1 34:Synth Lead
+1046 Hover Dive 2 34:Synth Lead
+1047 OhWowWow 34:Synth Lead
+1048 Broken Lead 34:Synth Lead
+1049 FX 1 45:Sound FX
+1050 FX 2 45:Sound FX
+1051 FX 3 45:Sound FX
+1052 FX 4 45:Sound FX
+1053 FX 5 45:Sound FX
+1054 FX 6 45:Sound FX
+1055 FX 7 45:Sound FX
+1056 FX 8 45:Sound FX
+1057 FX 9 45:Sound FX
+1058 FX 10 45:Sound FX
+1059 FX 11 45:Sound FX
+1060 FX 12 45:Sound FX
+1061 FX 13 45:Sound FX
+1062 FX 14 45:Sound FX
+1063 FX 15 45:Sound FX
+1064 FX 16 45:Sound FX
+1065 FX 17 45:Sound FX
+1066 FX 18 45:Sound FX
+1067 FX 19 45:Sound FX
+1068 FX 20 45:Sound FX
+1069 FX 21 45:Sound FX
+1070 FX 22 45:Sound FX
+1071 FX 23 45:Sound FX
+1072 FX 24 45:Sound FX
+1073 FX 25 45:Sound FX
+1074 Zapper 45:Sound FX
+1075 Sci-Fi Sweep 45:Sound FX
+1076 War Drum 45:Sound FX
+1077 Vox FX 45:Sound FX
+1078 Atomspheric 45:Sound FX
+1079 Angry Words 45:Sound FX
+1080 F6 = Critter 45:Sound FX
+1081 FreeJazz 45:Sound FX
+1082 FM EP 1 4:E.Piano1
+1083 FM EP 2 4:E.Piano1
+1084 FM EP 3 4:E.Piano1
+1085 FM EP 4 4:E.Piano1
+1086 FM EP 5 4:E.Piano1
+1087 FM EP 6 4:E.Piano1
+1088 FM EPhaser 4:E.Piano1
+1089 EP Belle 4:E.Piano1
+1090 80?s EP 4:E.Piano1
+1091 Spirit Tine 4:E.Piano1
+1092 70?s E.Org 1 6:E.Organ
+1093 70?s E.Org 2 6:E.Organ
+1094 Theater 1 6:E.Organ
+1095 Theater 2 6:E.Organ
+1096 Theater 3 6:E.Organ
+1097 Pulse Clav 10:Clav
+1098 Toy Box 1 15:Mallet
+1099 Toy Box 2 15:Mallet
+1100 Ethno Keys 15:Mallet
+1101 Mood String 24:Ensemble Strings
+1102 Orch Hit 44:Hit
+1103 Philly Hit 1 44:Hit
+1104 Philly Hit 2 44:Hit
+1105 Philly Hit 3 44:Hit
+1106 Philly Hit 4 44:Hit
+1107 House Hit 1 44:Hit
+1108 House Hit 2 44:Hit
+1109 LoFi Hit 44:Hit
+$BANK=PR-X$MSB=71$LSB=67$CHANNEL=0
+PX001 Analog Atmos 38:Synth PolyKey
+PX002 Clean Me 38:Synth PolyKey
+PX003 Progre.Pluck/Mod 38:Synth PolyKey
+PX004 Stacc.Heaven 37:Synth Bellpad
+PX005 Modular PolyMod 42:Pulsating
+PX006 Belltree Vox 32:Vox/Choir
+PX007 Longing... 32:Vox/Choir
+PX008 7th Stack Lead 34:Synth Lead
+PX009 Wobble-Analog 21:Synth Bass
+PX010 Side C-Bass 21:Synth Bass
+PX011 Crazy Pluck 40:Synth Seq/Pop
+PX012 MIDIed Grand 2:Pop Piano
+PX013 Childlike 14:Bell
+PX014 East Feeling 22:Plucked/Stroke
+PX015 Dropplets 39:Synth FX
+PX016 Synthoir Pad 36:Synth Pad/Str
+PX017 Mist Pad 36:Synth Pad/Str
+PX018 Lo-Fi TapeStrngs 38:Synth PolyKey
+PX019 Poly Cloud 38:Synth PolyKey
+PX020 Zen Polysynth 38:Synth PolyKey
+PX021 Breathin' Brassy 38:Synth PolyKey
+PX022 Phaser Pluck 38:Synth PolyKey
+PX023 Vibrato Key 38:Synth PolyKey
+PX024 Gl1tch Arp 42:Pulsating
+PX025 Groovin' Pad 42:Pulsating
+PX026 Voice Echoes 32:Vox/Choir
+PX027 Ladder M-Bass 21:Synth Bass
+PX028 Deep Seq Bass 21:Synth Bass
+PX029 Heavy Sidechain 21:Synth Bass
+PX030 Chaos Bass Decay 21:Synth Bass
+PX031 The One Pluck 40:Synth Seq/Pop
+PX032 ExpoDyne Pluck 40:Synth Seq/Pop
+PX033 No Name Pluck 40:Synth Seq/Pop
+PX034 StepLFO Bass 41:Phrase
+PX035 Dark Moon Split 49:Zone
+$BANK=RD-PIANO$MSB=71$LSB=69$CHANNEL=0
+RD001 Expressive Grand 1:Ac.Piano
+RD002 ExpressiveBright 1:Ac.Piano
+RD003 ExpressiveMellow 1:Ac.Piano
+RD004 Expressive Mono 1:Ac.Piano
+RD005 Wavey Grand 1:Ac.Piano
+$BANK=SH-101$MSB=97$LSB=70$CHANNEL=0
+SH001 Gimme Lead 34:Synth Lead
+SH002 Long Note 34:Synth Lead
+SH003 Mod Shatter 34:Synth Lead
+SH004 Saw Boz 34:Synth Lead
+SH005 Fireflies 34:Synth Lead
+SH006 T-Holiday 34:Synth Lead
+SH007 Lazor Boy 34:Synth Lead
+SH008 Throttle Lust 34:Synth Lead
+SH009 Lizard King 34:Synth Lead
+SH010 Blisters 34:Synth Lead
+SH011 Pulse Leader 34:Synth Lead
+SH012 Solo Sweet 34:Synth Lead
+SH013 Porta Saw Lead 34:Synth Lead
+SH014 PW+SubOSC Ld 34:Synth Lead
+SH015 Porta Sqr Lead 34:Synth Lead
+SH016 Sqr Atk Lead 34:Synth Lead
+SH017 Calc Lead 34:Synth Lead
+SH018 PWM LFO Lead 34:Synth Lead
+SH019 PWM Env Lead 1 34:Synth Lead
+SH020 PWM Env Lead 2 34:Synth Lead
+SH021 Reso PW+Saw Ld 34:Synth Lead
+SH022 Chiptune Lead 34:Synth Lead
+SH023 Saw Flutter Ld 34:Synth Lead
+SH024 Bit Crusher Lead 34:Synth Lead
+SH025 Oct Bass 21:Synth Bass
+SH026 Le Bass 21:Synth Bass
+SH027 Cone Pleaser 21:Synth Bass
+SH028 THAbass 21:Synth Bass
+SH029 Reester Bass 21:Synth Bass
+SH030 PWM PortaDrone 21:Synth Bass
+SH031 Shlob Bass 21:Synth Bass
+SH032 Choice Bass 21:Synth Bass
+SH033 Shorty Enhancer 21:Synth Bass
+SH034 Filter Env Bs 1 21:Synth Bass
+SH035 PW+Saw Bass 21:Synth Bass
+SH036 Slow FltEnv Bass 21:Synth Bass
+SH037 Noise Bass 21:Synth Bass
+SH038 Reso Bass 21:Synth Bass
+SH039 Long Reso Bass 21:Synth Bass
+SH040 Reso Sqr+Saw Bs 21:Synth Bass
+SH041 Organ Bass 21:Synth Bass
+SH042 Filter Env Bs 2 21:Synth Bass
+SH043 Dark Bass 21:Synth Bass
+SH044 SubOSC Soft Bass 21:Synth Bass
+SH045 Delta Bass 21:Synth Bass
+SH046 Punisher 21:Synth Bass
+SH047 Ye Olde 101 21:Synth Bass
+SH048 Porta Bass 21:Synth Bass
+SH049 Seq Bass 21:Synth Bass
+SH050 Reso Seq Bs 21:Synth Bass
+SH051 Flanger Seq Bs 21:Synth Bass
+SH052 Phaser Seq Bs 21:Synth Bass
+SH053 Heady Flange 40:Synth Seq/Pop
+SH054 Tape 101 40:Synth Seq/Pop
+SH055 Moon Worm 42:Pulsating
+SH056 Disto Shorty 40:Synth Seq/Pop
+SH057 True Pluck 40:Synth Seq/Pop
+SH058 Sqr Seq SH 40:Synth Seq/Pop
+SH059 Reso Sqr Seq 40:Synth Seq/Pop
+SH060 PWM Pluck 40:Synth Seq/Pop
+SH061 3Tap Dly Seq 40:Synth Seq/Pop
+SH062 MultiTap Dly Seq 40:Synth Seq/Pop
+SH063 Reso Bell 40:Synth Seq/Pop
+SH064 This Old Game 36:Synth Pad/Str
+SH065 Main Pull SH 36:Synth Pad/Str
+SH066 Poly 101 1 36:Synth Pad/Str
+SH067 Shuno Pad 36:Synth Pad/Str
+SH068 Poly-101 2 36:Synth Pad/Str
+SH069 Sharimba 36:Synth Pad/Str
+SH070 Porto Bells 38:Synth PolyKey
+SH071 Echo Pluck 38:Synth PolyKey
+SH072 Shorty /Mod 38:Synth PolyKey
+SH073 Suggestive... 38:Synth PolyKey
+SH074 Star Message 42:Pulsating
+SH075 rAnDOm Pads 42:Pulsating
+SH076 Side Repeater 42:Pulsating
+SH077 LFO 1/4 Trancer 42:Pulsating
+SH078 Afterthought 42:Pulsating
+SH079 Retro Cycle 42:Pulsating
+SH080 Pulse Pad 42:Pulsating
+SH081 Buzz Shorty 42:Pulsating
+SH082 R2 Wheel 39:Synth FX
+SH083 SelfOSC Kick 1 39:Synth FX
+SH084 SelfOSC Kick 2 39:Synth FX
+SH085 SelfOSC DistKick 39:Synth FX
+SH086 SelfOSC Zap 39:Synth FX
+SH087 SelfOSC Perc 39:Synth FX
+SH088 SelfOSC LFO Perc 39:Synth FX
+SH089 SelfOSC Sweep 39:Synth FX
+SH090 SelfOSC Tone 39:Synth FX
+SH091 SelfOSC Rnd FX 39:Synth FX
+SH092 Noise Hit 1 39:Synth FX
+SH093 Noise Hit 2 39:Synth FX
+SH094 Noise Percussion 39:Synth FX
+SH095 Sonar Noise 39:Synth FX
+SH096 PhaserNoise /Mod 39:Synth FX
+SH097 Solo Sweet MG 34:Synth Lead
+SH098 Gimme Lead 2 34:Synth Lead
+SH099 Choice Lead 34:Synth Lead
+SH100 Shuno Bass 21:Synth Bass
+SH101 Simple Pad 36:Synth Pad/Str
+SH102 Pulse Pad-X 42:Pulsating
+$BANK=VOCODER$MSB=71$LSB=70$CHANNEL=0
+VC001 Vocoder 1 -
+VC002 Vocoder 2 -
+$BANK=XV-5080$MSB=87$LSB=78$CHANNEL=0
+1 128voicePno 1:Ac.Piano
+2 Bright Piano 1:Ac.Piano
+3 Classique 1:Ac.Piano
+4 Nice Piano 1:Ac.Piano
+5 Piano Thang 1:Ac.Piano
+6 Power Grand 2:Pop Piano
+7 House Piano 2:Pop Piano
+8 E.Grand 2:Pop Piano
+9 MIDIed Grand 2:Pop Piano
+10 Piano Blend 2:Pop Piano
+11 West Coast 2:Pop Piano
+12 PianoStrings 1:Ac.Piano
+13 Bs/Pno+Brs 1:Ac.Piano
+14 Water EP 4:E.Piano1
+15 S.A.E.P. 5:E.Piano2
+16 SA EP 1 4:E.Piano1
+17 SA EP 2 4:E.Piano1
+18 Stiky EP 5:E.Piano2
+19 Dig EP 5:E.Piano2
+20 Nylon EPiano 5:E.Piano2
+21 Nylon EP 5:E.Piano2
+22 EP Mix 4:E.Piano1
+23 Psycho EP 4:E.Piano1
+24 Tremo EP 4:E.Piano1
+25 MK-80 EP 5:E.Piano2
+26 MK-80 Phaser 5:E.Piano2
+27 Delicate EP 5:E.Piano2
+28 Octa EP 1 5:E.Piano2
+29 Octa EP 2 5:E.Piano2
+30 JV EP+ 5:E.Piano2
+31 EP+Mod Pad 5:E.Piano2
+32 Mr.Mellow 5:E.Piano2
+33 Comp Clav 10:Clav
+34 Klavinet 10:Clav
+35 Winger Clav 10:Clav
+36 Phaze Clav 1 10:Clav
+37 Phaze Clav 2 10:Clav
+38 Phuzz Clav 10:Clav
+39 Chorus Clav 10:Clav
+40 Claviduck 10:Clav
+41 Velo-Rez Clv 10:Clav
+42 Clavicembalo 10:Clav
+43 Analog Clav1 10:Clav
+44 Analog Clav2 10:Clav
+45 Metal Clav 10:Clav
+46 Full Stops 6:E.Organ
+47 Ballad B 6:E.Organ
+48 Mellow Bars 6:E.Organ
+49 AugerMentive 6:E.Organ
+50 Perky B 6:E.Organ
+51 The Big Spin 6:E.Organ
+52 Gospel Spin 6:E.Organ
+53 Roller Spin 6:E.Organ
+54 Rocker Spin 6:E.Organ
+55 Tone Wh.Solo 6:E.Organ
+56 Purple Spin 6:E.Organ
+57 60?s LeadORG 6:E.Organ
+58 Assalt Organ 6:E.Organ
+59 D-50 Organ 6:E.Organ
+60 Cathedral 7:Pipe Organ
+61 Church Pipes 7:Pipe Organ
+62 Poly Key 38:Synth PolyKey
+63 Poly Saws 38:Synth PolyKey
+64 Poly Pulse 38:Synth PolyKey
+65 Dual Profs 38:Synth PolyKey
+66 Saw Mass 38:Synth PolyKey
+67 Poly Split 38:Synth PolyKey
+68 Poly Brass 35:Synth Brass
+69 Stackoid 38:Synth PolyKey
+70 Poly Rock 38:Synth PolyKey
+71 D-50 Stack 37:Synth Bellpad
+72 Fantasia JV 37:Synth Bellpad
+73 Jimmee Dee 37:Synth Bellpad
+74 Heavenals 37:Synth Bellpad
+75 Mallet Pad 37:Synth Bellpad
+76 Huff N Stuff 37:Synth Bellpad
+77 Puff 1080 38:Synth PolyKey
+78 BellVox 1080 37:Synth Bellpad
+79 Fantasy Vox 37:Synth Bellpad
+80 Square Keys 38:Synth PolyKey
+81 Childlike 14:Bell
+82 Music Box 14:Bell
+83 Toy Box 14:Bell
+84 Wave Bells 14:Bell
+85 Tria Bells 14:Bell
+86 Beauty Bells 14:Bell
+87 Music Bells 14:Bell
+88 Pretty Bells 14:Bell
+89 Pulse Key 38:Synth PolyKey
+90 Wide Tubular 14:Bell
+91 AmbienceVibe 15:Mallet
+92 Warm Vibes 15:Mallet
+93 Dyna Marimba 15:Mallet
+94 Bass Marimba 15:Mallet
+95 Nomad Perc 15:Mallet
+96 Ethno Metals 14:Bell
+97 Islands Mlt 15:Mallet
+98 Steelin Keys 15:Mallet
+99 Steel Drums 15:Mallet
+100 Voicey Pizz 23:Solo Strings
+101 Sitar 22:Plucked/Stroke
+102 Drone Split 22:Plucked/Stroke
+103 Ethnopluck 22:Plucked/Stroke
+104 Jamisen 22:Plucked/Stroke
+105 Dulcimer 22:Plucked/Stroke
+106 East Melody 22:Plucked/Stroke
+107 MandolinTrem 22:Plucked/Stroke
+108 Nylon Gtr 16:Ac.Guitar
+109 Gtr Strings 16:Ac.Guitar
+110 Steel Away 16:Ac.Guitar
+111 Heavenly Gtr 16:Ac.Guitar
+112 12str Gtr 1 16:Ac.Guitar
+113 12str Gtr 2 16:Ac.Guitar
+114 Jz Gtr Hall 17:E.Guitar
+115 LetterFrmPat 17:E.Guitar
+116 Jazz Scat + Gtr 17:E.Guitar
+117 Lounge Gig 17:E.Guitar
+118 JC ST Gtr 17:E.Guitar
+119 Twin ST Gtr 17:E.Guitar
+120 JV ST Gtr 17:E.Guitar
+121 Syn ST Gtr 17:E.Guitar
+122 Rotary Gtr 17:E.Guitar
+123 Muted Gtr 17:E.Guitar
+124 SwitchOnMute 17:E.Guitar
+125 Power Trip 18:Dist.Guitar
+126 Crunch Split 18:Dist.Guitar
+127 Rezodrive 18:Dist.Guitar
+128 RockYurSocks 18:Dist.Guitar
+$BANK=XV-5080_2$MSB=87$LSB=79$CHANNEL=0
+129 Dist Gtr 1 18:Dist.Guitar
+130 Dist Gtr 2 18:Dist.Guitar
+131 R&R Chunk 18:Dist.Guitar
+132 Phripphuzz 18:Dist.Guitar
+133 Grungeroni 18:Dist.Guitar
+134 Black Widow 18:Dist.Guitar
+135 Velo-Wah Gtr 17:E.Guitar
+136 Mod-Wah Gtr 18:Dist.Guitar
+137 Pick Bass 20:E.Bass
+138 Hip Bass 20:E.Bass
+139 Perc.Bass 20:E.Bass
+140 Homey Bass 20:E.Bass
+141 Finger Bass 20:E.Bass
+142 Nylon Bass 19:Ac.Bass
+143 Ac.Upright 19:Ac.Bass
+144 Wet Fretls 20:E.Bass
+145 Fretls Dry 20:E.Bass
+146 Slap Bass 1 20:E.Bass
+147 Slap Bass 2 20:E.Bass
+148 Slap Bass 3 20:E.Bass
+149 Slap Bass 4 20:E.Bass
+150 4 Pole Bass 1 21:Synth Bass
+151 Tick Bass 21:Synth Bass
+152 House Bass 21:Synth Bass
+153 Mondo Bass 21:Synth Bass
+154 Clk AnalogBs 21:Synth Bass
+155 Bass In Face 21:Synth Bass
+156 101 Bass 21:Synth Bass
+157 Noiz Bass 21:Synth Bass
+158 Super Jup Bs 21:Synth Bass
+159 Occitan Bass 21:Synth Bass
+160 Hugo Bass 21:Synth Bass
+161 Multi Bass 21:Synth Bass
+162 Moist Bass 21:Synth Bass
+163 BritelowBass 21:Synth Bass
+164 Untamed Bass 21:Synth Bass
+165 Rubber Bass 21:Synth Bass
+166 Stereoww Bs 21:Synth Bass
+167 Wonder Bass 21:Synth Bass
+168 Deep Bass 21:Synth Bass
+169 Super JX Bs 21:Synth Bass
+170 W<RED>-Bass 21:Synth Bass
+171 HI-Ring Bass 21:Synth Bass
+172 Euro Bass 21:Synth Bass
+173 SinusoidRave 21:Synth Bass
+174 Alternative 42:Pulsating
+175 Acid Line 42:Pulsating
+176 Auto TB-303 34:Synth Lead
+177 Hihat Tekno 39:Synth FX
+178 Velo Tekno 1 34:Synth Lead
+179 Raggatronic 42:Pulsating
+180 Blade Racer 42:Pulsating
+181 S&H Pad 42:Pulsating
+182 Syncrosonix 42:Pulsating
+183 Fooled Again 42:Pulsating
+184 Alive 42:Pulsating
+185 Velo Tekno 2 40:Synth Seq/Pop
+186 Rezoid 38:Synth PolyKey
+187 Raverborg 34:Synth Lead
+188 Blow Hit 44:Hit
+189 Hammer Bell 14:Bell
+190 Seq Mallet 40:Synth Seq/Pop
+191 Intentions 38:Synth PolyKey
+192 Pick It 38:Synth PolyKey
+193 Analog Seq 40:Synth Seq/Pop
+194 Impact Vox 38:Synth PolyKey
+195 TeknoSoloVox 38:Synth PolyKey
+196 X-Mod Man 42:Pulsating
+197 Paz <==> Zap 42:Pulsating
+198 4 Hits 4 You 44:Hit
+199 Impact 44:Hit
+200 Phase Hit 44:Hit
+201 Tekno Hit 1 44:Hit
+202 Tekno Hit 2 44:Hit
+203 Tekno Hit 3 44:Hit
+204 Reverse Hit 44:Hit
+205 SquareLead 1 34:Synth Lead
+206 SquareLead 2 34:Synth Lead
+207 You and Luck 34:Synth Lead
+208 Belly Lead 34:Synth Lead
+209 WhistlinAtom 34:Synth Lead
+210 Edye Boost 34:Synth Lead
+211 MG Solo 34:Synth Lead
+212 FXM Saw Lead 34:Synth Lead
+213 Sawteeth 34:Synth Lead
+214 Smoothe 34:Synth Lead
+215 MG Lead 34:Synth Lead
+216 MG Interval 34:Synth Lead
+217 Pulse Lead 1 34:Synth Lead
+218 Pulse Lead 2 34:Synth Lead
+219 Little Devil 34:Synth Lead
+220 Loud SynLead 34:Synth Lead
+221 Analog Lead 34:Synth Lead
+222 5th Lead 34:Synth Lead
+223 Flute 29:Flute
+224 Piccolo 29:Flute
+225 VOX Flute 29:Flute
+226 Air Lead 29:Flute
+227 Pan Pipes 29:Flute
+228 Airplaaane 38:Synth PolyKey
+229 Taj Mahal 29:Flute
+230 Raya Shaku 29:Flute
+231 Oboe mf 28:Wind
+232 Oboe Express 28:Wind
+233 Clarinet mp 28:Wind
+234 ClariExpress 28:Wind
+235 Mitzva Split 28:Wind
+236 ChamberWinds 28:Wind
+237 ChamberWoods 28:Wind
+238 Film Orch 25:Orchestral
+239 Sop.Sax mf 30:Sax
+240 Alto Sax 30:Sax
+241 AltoLead Sax 30:Sax
+242 Tenor Sax 30:Sax
+243 Baritone Sax 30:Sax
+244 Take A Tenor 30:Sax
+245 Sax Section 30:Sax
+246 Bigband Sax 30:Sax
+247 Harmonica 13:Harmonica
+248 Harmo Blues 13:Harmonica
+249 BluesHarp 13:Harmonica
+250 Hillbillys 13:Harmonica
+251 French Bags 28:Wind
+252 Majestic Tpt 26:Solo Brass
+253 Voluntare 26:Solo Brass
+254 2Trumpets 27:Ensemble Brass
+255 Tpt Sect 27:Ensemble Brass
+256 Mute TP mod 26:Solo Brass
+$BANK=XV-5080_3$MSB=87$LSB=80$CHANNEL=0
+257 Harmon Mute 26:Solo Brass
+258 Tp&Sax Sect 27:Ensemble Brass
+259 Sax+Tp+Tb 27:Ensemble Brass
+260 Brass Sect 27:Ensemble Brass
+261 Trombone 26:Solo Brass
+262 Hybrid Bones 27:Ensemble Brass
+263 Noble Horns 27:Ensemble Brass
+264 Massed Horns 27:Ensemble Brass
+265 Horn Swell 27:Ensemble Brass
+266 Brass It! 35:Synth Brass
+267 Brass Attack 35:Synth Brass
+268 Archimede 35:Synth Brass
+269 Rugby Horn 35:Synth Brass
+270 MKS-80 Brass 35:Synth Brass
+271 True ANALOG 35:Synth Brass
+272 Dark Vox 32:Vox/Choir
+273 RandomVowels 32:Vox/Choir
+274 Angels Sing 32:Vox/Choir
+275 Pvox Oooze 32:Vox/Choir
+276 Longing... 32:Vox/Choir
+277 Arasian Morn 32:Vox/Choir
+278 Beauty Vox 32:Vox/Choir
+279 Mary-AnneVox 32:Vox/Choir
+280 Belltree Vox 32:Vox/Choir
+281 Vox Panner 32:Vox/Choir
+282 Spaced Voxx 32:Vox/Choir
+283 Glass Voices 32:Vox/Choir
+284 Tubular Vox 32:Vox/Choir
+285 Velo Voxx 32:Vox/Choir
+286 Wavox 32:Vox/Choir
+287 Doos 33:Scat
+288 Synvox Comps 32:Vox/Choir
+289 Vocal Oohz 32:Vox/Choir
+290 LFO Vox 42:Pulsating
+291 St.Strings 24:Ensemble Strings
+292 Warm Strings 24:Ensemble Strings
+293 Somber Str 24:Ensemble Strings
+294 Marcato 24:Ensemble Strings
+295 Bright Str 24:Ensemble Strings
+296 String Ens 24:Ensemble Strings
+297 TremoloStrng 24:Ensemble Strings
+298 Chambers 24:Ensemble Strings
+299 ViolinCello 23:Solo Strings
+300 Symphonique 25:Orchestral
+301 Film Octaves 24:Ensemble Strings
+302 Film Layers 25:Orchestral
+303 Bass Pizz 24:Ensemble Strings
+304 Real Pizz 24:Ensemble Strings
+305 Harp On It 22:Plucked/Stroke
+306 Harp 22:Plucked/Stroke
+307 JP-8 Str 1 36:Synth Pad/Str
+308 JP-8 Str 2 36:Synth Pad/Str
+309 E-Motion Pad 36:Synth Pad/Str
+310 JP-8 Str 3 36:Synth Pad/Str
+311 Vintage Orch 36:Synth Pad/Str
+312 JUNO Strings 36:Synth Pad/Str
+313 Gigantalog 36:Synth Pad/Str
+314 PWM Strings 36:Synth Pad/Str
+315 Warmth 36:Synth Pad/Str
+316 ORBit Pad 36:Synth Pad/Str
+317 Deep Strings 36:Synth Pad/Str
+318 Pulsify 36:Synth Pad/Str
+319 Pulse Pad 36:Synth Pad/Str
+320 Greek Power 36:Synth Pad/Str
+321 Harmonicum 36:Synth Pad/Str
+322 D-50 Heaven 36:Synth Pad/Str
+323 Afro Horns 35:Synth Brass
+324 Pop Pad 36:Synth Pad/Str
+325 Dreamesque 36:Synth Pad/Str
+326 Square Pad 36:Synth Pad/Str
+327 JP-8 Hollow 36:Synth Pad/Str
+328 JP-8Haunting 36:Synth Pad/Str
+329 Heirborne 36:Synth Pad/Str
+330 Hush Pad 36:Synth Pad/Str
+331 Jet Pad 1 36:Synth Pad/Str
+332 Jet Pad 2 36:Synth Pad/Str
+333 Phaze Pad 36:Synth Pad/Str
+334 Phaze Str 36:Synth Pad/Str
+335 Jet Str Ens 36:Synth Pad/Str
+336 Pivotal Pad 36:Synth Pad/Str
+337 3D Flanged 36:Synth Pad/Str
+338 Fantawine 36:Synth Pad/Str
+339 Glassy Pad 36:Synth Pad/Str
+340 Moving Glass 36:Synth Pad/Str
+341 Glasswaves 36:Synth Pad/Str
+342 Shiny Pad 36:Synth Pad/Str
+343 ShiftedGlass 36:Synth Pad/Str
+344 Chime Pad 37:Synth Bellpad
+345 Spin Pad 36:Synth Pad/Str
+346 Rotary Pad 36:Synth Pad/Str
+347 Dawn 2 Dusk 36:Synth Pad/Str
+348 Aurora 36:Synth Pad/Str
+349 Strobe Mode 42:Pulsating
+350 Albion 42:Pulsating
+351 Running Pad 42:Pulsating
+352 Stepped Pad 42:Pulsating
+353 Random Pad 42:Pulsating
+354 SoundtrkDANC 42:Pulsating
+355 Flying Waltz 42:Pulsating
+356 Vanishing 39:Synth FX
+357 5th Sweep 36:Synth Pad/Str
+358 Phazweep 42:Pulsating
+359 Big BPF 38:Synth PolyKey
+360 MG Sweep 38:Synth PolyKey
+361 CeremonyTimp 47:Percussion
+362 Dyno Toms 47:Percussion
+363 Sands ofTime 39:Synth FX
+364 Inertia 39:Synth FX
+365 Vektogram 39:Synth FX
+366 Crash Pad 36:Synth Pad/Str
+367 Feedback VOX 36:Synth Pad/Str
+368 Cascade 39:Synth FX
+369 Shattered 39:Synth FX
+370 NextFrontier 39:Synth FX
+371 Pure Tibet 39:Synth FX
+372 Chime Wash 39:Synth FX
+373 Night Shade 39:Synth FX
+374 Tortured 39:Synth FX
+375 Dissimilate 39:Synth FX
+376 Dunes 39:Synth FX
+377 Ocean Floor 39:Synth FX
+378 Cyber Space 39:Synth FX
+379 Biosphere 39:Synth FX
+380 Variable Run 43:Beat&Groove
+381 Ice Hall 36:Synth Pad/Str
+382 ComputerRoom 39:Synth FX
+383 Inverted 39:Synth FX
+384 Terminate 39:Synth FX
+$BANK=XV-5080_4$MSB=87$LSB=81$CHANNEL=0
+385 Echo Piano 1:Ac.Piano
+386 Upright Pno 1:Ac.Piano
+387 RD-1000 2:Pop Piano
+388 Player?s EP 4:E.Piano1
+389 D-50 EP 5:E.Piano2
+390 Innocent EP 5:E.Piano2
+391 Echo EP 5:E.Piano2
+392 See-Thru EP 5:E.Piano2
+393 FM BellPiano 5:E.Piano2
+394 Ring E.Piano 5:E.Piano2
+395 Soap Opera 6:E.Organ
+396 Dirty Organ 6:E.Organ
+397 Surf?s Up! 6:E.Organ
+398 Organesque 6:E.Organ
+399 pp Harmonium 7:Pipe Organ
+400 PieceOfCheez 10:Clav
+401 Harpsy Clav 10:Clav
+402 Exotic Velo 15:Mallet
+403 HolidayCheer 37:Synth Bellpad
+404 Morning Lite 37:Synth Bellpad
+405 Prefab Chime 14:Bell
+406 Belfry Chime 14:Bell
+407 Stacc.Heaven 37:Synth Bellpad
+408 2.2 Bell Pad 37:Synth Bellpad
+409 Far East 38:Synth PolyKey
+410 Wire Pad 38:Synth PolyKey
+411 PhaseBlipper 38:Synth PolyKey
+412 Sweep Clav 38:Synth PolyKey
+413 Glider 38:Synth PolyKey
+414 Solo Steel 16:Ac.Guitar
+415 DesertCrystl 16:Ac.Guitar
+416 Clear Guitar 17:E.Guitar
+417 Solo ST Gtr 17:E.Guitar
+418 Feed Me! 18:Dist.Guitar
+419 Tube Smoke 18:Dist.Guitar
+420 Creamy 18:Dist.Guitar
+421 Blusey OD 18:Dist.Guitar
+422 Grindstone 18:Dist.Guitar
+423 OD 5ths 18:Dist.Guitar
+424 East Europe 22:Plucked/Stroke
+425 Dulcitar 22:Plucked/Stroke
+426 Atmos Harp 22:Plucked/Stroke
+427 Pilgrimage 22:Plucked/Stroke
+428 202 Rude Bs 21:Synth Bass
+429 2 Pole Bass 21:Synth Bass
+430 4 Pole Bass 2 21:Synth Bass
+431 Phaser MC 21:Synth Bass
+432 Miniphaser 21:Synth Bass
+433 Acid TB 21:Synth Bass
+434 Full Orchest 25:Orchestral
+435 Str + Winds 25:Orchestral
+436 Flute 2080 29:Flute
+437 Scat Flute 33:Scat
+438 Sax Choir 30:Sax
+439 Ballad Trump 26:Solo Brass
+440 Sm.Brass Grp 27:Ensemble Brass
+441 Royale 27:Ensemble Brass
+442 Brass Mutes 27:Ensemble Brass
+443 Breathy Brs 35:Synth Brass
+444 3 Osc Brass 35:Synth Brass
+445 P5 Polymod 35:Synth Brass
+446 Triumph Brs 35:Synth Brass
+447 Techno Dream 38:Synth PolyKey
+448 Organizer 38:Synth PolyKey
+449 Civilization 38:Synth PolyKey
+450 Mental Chord 34:Synth Lead
+451 House Chord 34:Synth Lead
+452 Sequalog 38:Synth PolyKey
+453 Booster Bips 34:Synth Lead
+454 VintagePlunk 34:Synth Lead
+455 Plik-Plok 40:Synth Seq/Pop
+456 RingSequence 40:Synth Seq/Pop
+457 Cyber Swing 40:Synth Seq/Pop
+458 Keep :-) 38:Synth PolyKey
+459 Resojuice 34:Synth Lead
+460 B?on d?moov! 38:Synth PolyKey
+461 Dist TB-303 34:Synth Lead
+462 Temple of JV 42:Pulsating
+463 Planet Asia 42:Pulsating
+464 Afterlife 42:Pulsating
+465 Trancing Pad 42:Pulsating
+466 Pulsatronic 42:Pulsating
+467 Cyber Dreams 42:Pulsating
+468 Warm Pipe 34:Synth Lead
+469 Pure Pipe 34:Synth Lead
+470 SH-2000 34:Synth Lead
+471 X..? Whistle 34:Synth Lead
+472 Jay Vee Solo 34:Synth Lead
+473 Progresso Ld 34:Synth Lead
+474 Adrenaline 34:Synth Lead
+475 Enlighten 32:Vox/Choir
+476 Glass Blower 37:Synth Bellpad
+477 Earth Blow 36:Synth Pad/Str
+478 JX SqrCarpet 36:Synth Pad/Str
+479 Dimensional 36:Synth Pad/Str
+480 Jupiterings 36:Synth Pad/Str
+481 Analog Drama 36:Synth Pad/Str
+482 Rich Dynapad 36:Synth Pad/Str
+483 Silky Way 36:Synth Pad/Str
+484 Gluey Pad 36:Synth Pad/Str
+485 BandPass Mod 36:Synth Pad/Str
+486 Soundtraque 36:Synth Pad/Str
+487 Translucence 36:Synth Pad/Str
+488 Darkshine 36:Synth Pad/Str
+489 D?light 37:Synth Bellpad
+490 December Sky 36:Synth Pad/Str
+491 Octapad 36:Synth Pad/Str
+492 JUNO Power! 36:Synth Pad/Str
+493 Spectrum Mod 36:Synth Pad/Str
+494 Stringsheen 36:Synth Pad/Str
+495 GR500 TmpDly 36:Synth Pad/Str
+496 Mod DirtyWav 36:Synth Pad/Str
+497 Silicon Str 36:Synth Pad/Str
+498 D50FantaPerc 36:Synth Pad/Str
+499 Rotodreams 36:Synth Pad/Str
+500 Blue Notes 30:Sax
+501 RiversOfTime 39:Synth FX
+502 Phobos 39:Synth FX
+503 2 0 39:Synth FX
+504 Unearthly 39:Synth FX
+505 Glistening 39:Synth FX
+506 Sci-Fi Str 39:Synth FX
+507 Shadows 39:Synth FX
+508 Helium Queen 39:Synth FX
+509 Sci-Fi FX x4 39:Synth FX
+510 Perky Noize 47:Percussion
+511 Droplet 45:Sound FX
+512 Rain Forest 45:Sound FX
+$BANK=XV-5080_5$MSB=87$LSB=82$CHANNEL=0
+513 Grand XV 1:Ac.Piano
+514 Contemplate 1:Ac.Piano
+515 Rock Piano 1:Ac.Piano
+516 RockPiano Ch 1:Ac.Piano
+517 Pianomonics 1:Ac.Piano
+518 Piano+SftPad 1:Ac.Piano
+519 WarmVoxPiano 1:Ac.Piano
+520 Y2K Concerto 1:Ac.Piano
+521 Piano+AirPad 1:Ac.Piano
+522 ChoraLeader 1:Ac.Piano
+523 SparklePiano 5:E.Piano2
+524 Retro EP 4:E.Piano1
+525 Fat EP 4:E.Piano1
+526 EP Trem 4:E.Piano1
+527 Phaser Dyno 4:E.Piano1
+528 Hit EP 4:E.Piano1
+529 Sweet Tynes 4:E.Piano1
+530 Pluk EP 5:E.Piano2
+531 EP Trip 5:E.Piano2
+532 Ambi EP 4:E.Piano1
+533 Rholitzer 4:E.Piano1
+534 Wurlie 4:E.Piano1
+535 FM Delight 5:E.Piano2
+536 Cutter Clav 10:Clav
+537 Mute Clav D6 10:Clav
+538 PhazeWahClav 10:Clav
+539 St.Harpsichd 9:Harpsichord
+540 3PartInventn 9:Harpsichord
+541 Soft Perky 6:E.Organ
+542 Fullness 6:E.Organ
+543 Paleface 1 6:E.Organ
+544 Paleface 2 6:E.Organ
+545 Soft B 6:E.Organ
+546 British B 6:E.Organ
+547 Rocker Org 6:E.Organ
+548 Split B 6:E.Organ
+549 PercInterval 6:E.Organ
+550 Happy 60s 6:E.Organ
+551 96 Years 6:E.Organ
+552 Glory Us Rok 6:E.Organ
+553 Church Harmn 7:Pipe Organ
+554 Cathdr Harmn 7:Pipe Organ
+555 Morph Pad 36:Synth Pad/Str
+556 Air Pad 36:Synth Pad/Str
+557 Soft Padding 36:Synth Pad/Str
+558 Warmth Pad 36:Synth Pad/Str
+559 ClassicJPpad 36:Synth Pad/Str
+560 Jupiter Str 36:Synth Pad/Str
+561 Fat Pad 36:Synth Pad/Str
+562 GR700 Pad 36:Synth Pad/Str
+563 Paradise 37:Synth Bellpad
+564 Moonchimes 37:Synth Bellpad
+565 SusPed Swap 36:Synth Pad/Str
+566 PhasingPad 36:Synth Pad/Str
+567 Ethereal Str 36:Synth Pad/Str
+568 Velcropad 36:Synth Pad/Str
+569 NothrnLights 36:Synth Pad/Str
+570 Sun Dive 36:Synth Pad/Str
+571 Brite Vox 1 32:Vox/Choir
+572 Brite Vox 2 32:Vox/Choir
+573 Ooh)Aah Mod 32:Vox/Choir
+574 Vocals: Ooh 32:Vox/Choir
+575 Vocals: Scat 33:Scat
+576 Vocals: Boys 32:Vox/Choir
+577 St. Choir 32:Vox/Choir
+578 SampleThe80s 32:Vox/Choir
+579 Sacred Tree 32:Vox/Choir
+580 VP330 OctEko 32:Vox/Choir
+581 XV Strings 24:Ensemble Strings
+582 Fat Strings 24:Ensemble Strings
+583 Dolce p/m/f 24:Ensemble Strings
+584 Sad Strings 24:Ensemble Strings
+585 Lush Strings 24:Ensemble Strings
+586 Strings4Film 24:Ensemble Strings
+587 Marcato Str 24:Ensemble Strings
+588 End Titles 24:Ensemble Strings
+589 ChmbrQuartet 24:Ensemble Strings
+590 ChamberSect. 24:Ensemble Strings
+591 FullChmbrStr 24:Ensemble Strings
+592 Tape Strings 24:Ensemble Strings
+593 Henry VIII 25:Orchestral
+594 Prelude 25:Orchestral
+595 Str&Brs Orch 25:Orchestral
+596 Hornz 25:Orchestral
+597 TudorFanfare 25:Orchestral
+598 ChamberPlyrs 25:Orchestral
+599 Flute/Clari 28:Wind
+600 Orch Reeds 28:Wind
+601 Dual Flutes 29:Flute
+602 Jazzer Flute 29:Flute
+603 LegatoBamboo 29:Flute
+604 Ambience Flt 29:Flute
+605 The Andes 29:Flute
+606 Deja Vlute 29:Flute
+607 Simply Brass 27:Ensemble Brass
+608 FullSt Brass 27:Ensemble Brass
+609 Dragnet 27:Ensemble Brass
+610 NewR&RBrass 27:Ensemble Brass
+611 Tower Trumps 27:Ensemble Brass
+612 BigBrassBand 27:Ensemble Brass
+613 Lil?BigHornz 27:Ensemble Brass
+614 VoyagerBrass 27:Ensemble Brass
+615 Symph Horns 27:Ensemble Brass
+616 Trombone Atm 26:Solo Brass
+617 XV Trombone 26:Solo Brass
+618 XV Trumpet 26:Solo Brass
+619 JupiterHorns 35:Synth Brass
+620 Solo SoprSax 30:Sax
+621 Solo AltoSax 30:Sax
+622 XV DynoTenor 30:Sax
+623 Honker Bari 30:Sax
+624 Full Saxz 30:Sax
+625 Soaring Hrns 35:Synth Brass
+626 Glass Orbit 37:Synth Bellpad
+627 5th Atm /Aft 36:Synth Pad/Str
+628 Lo-fi Sweep 36:Synth Pad/Str
+629 Modular Life 36:Synth Pad/Str
+630 Oscillations 38:Synth PolyKey
+631 Combing 36:Synth Pad/Str
+632 Rolling 5ths 36:Synth Pad/Str
+633 Analogue Str 36:Synth Pad/Str
+634 Lunar Strngs 36:Synth Pad/Str
+635 BPFsweep Mod 38:Synth PolyKey
+636 Queen V 38:Synth PolyKey
+637 SkinnyBounce 38:Synth PolyKey
+638 SquareBounce 38:Synth PolyKey
+639 Galactic 38:Synth PolyKey
+640 Powerwiggle 38:Synth PolyKey
+$BANK=XV-5080_6$MSB=87$LSB=83$CHANNEL=0
+641 80s Retrosyn 38:Synth PolyKey
+642 Power Stack 38:Synth PolyKey
+643 Don?t Jump 38:Synth PolyKey
+644 Big Bubbles 38:Synth PolyKey
+645 X-mod Sweep 38:Synth PolyKey
+646 Bag O? Bones 38:Synth PolyKey
+647 AirSoThin 38:Synth PolyKey
+648 Analogical 38:Synth PolyKey
+649 Waspy Pulse 38:Synth PolyKey
+650 Soaring Saws 34:Synth Lead
+651 Square Roots 34:Synth Lead
+652 BOG 34:Synth Lead
+653 Talking Box 34:Synth Lead
+654 Retro Lead 34:Synth Lead
+655 LivingInSync 34:Synth Lead
+656 Leads United 34:Synth Lead
+657 Dirty Sync 34:Synth Lead
+658 DistortaSync 34:Synth Lead
+659 Blistering 34:Synth Lead
+660 Guttural 34:Synth Lead
+661 Flyin? High 34:Synth Lead
+662 Soft Tooth 34:Synth Lead
+663 Soaring Sqr 34:Synth Lead
+664 Soaring Sync 34:Synth Lead
+665 Nasal Spray 34:Synth Lead
+666 Lamb Lead 34:Synth Lead
+667 Creamer 34:Synth Lead
+668 Sine System 34:Synth Lead
+669 Soft Nylon 16:Ac.Guitar
+670 Nylozzicato 16:Ac.Guitar
+671 Mutezzicato 16:Ac.Guitar
+672 Hybrid Nylon 16:Ac.Guitar
+673 XV SteelGt 1 16:Ac.Guitar
+674 XV SteelGt 2 16:Ac.Guitar
+675 Comp?Steel 16:Ac.Guitar
+676 Double Steel 16:Ac.Guitar
+677 Folk Guitar 16:Ac.Guitar
+678 SpanishNight 16:Ac.Guitar
+679 Plug n? Play 17:E.Guitar
+680 Fab 4 Guitar 17:E.Guitar
+681 Searing Lead 18:Dist.Guitar
+682 Punker 18:Dist.Guitar
+683 LouderPlease 18:Dist.Guitar
+684 XV Upright 19:Ac.Bass
+685 XV Ac.Bass 19:Ac.Bass
+686 LookMaNoFret 20:E.Bass
+687 XV Fretless 20:E.Bass
+688 Basic F?less 20:E.Bass
+689 8-str F?less 20:E.Bass
+690 Tap Bass 20:E.Bass
+691 Pop Bass 20:E.Bass
+692 P.Bs Chorus 20:E.Bass
+693 TremCho Bs 20:E.Bass
+694 Creamy Bass 21:Synth Bass
+695 Buster Bass 21:Synth Bass
+696 TB Squelch 21:Synth Bass
+697 Ticker Bass 21:Synth Bass
+698 Muscle Bass 21:Synth Bass
+699 Grounded Bs 21:Synth Bass
+700 West End Bs 21:Synth Bass
+701 Snap Bass 21:Synth Bass
+702 700 Bassboy 21:Synth Bass
+703 8VCO MonoSyn 21:Synth Bass
+704 ResoMoist Bs 21:Synth Bass
+705 Kickin? Bass 21:Synth Bass
+706 Sub Zero 21:Synth Bass
+707 Liquid Bass 21:Synth Bass
+708 Hefty Bass 21:Synth Bass
+709 Severe Ow Bs 21:Synth Bass
+710 Chime Bells 14:Bell
+711 Celestabox 11:Celesta
+712 Brass Tubes 26:Solo Brass
+713 Dreams East 38:Synth PolyKey
+714 Synergistic 38:Synth PolyKey
+715 Andreas Cave 22:Plucked/Stroke
+716 AmbiPizza 22:Plucked/Stroke
+717 Voxy Nylon 22:Plucked/Stroke
+718 EastrnEurope 22:Plucked/Stroke
+719 Celtic Harp 22:Plucked/Stroke
+720 Reso Sitar 22:Plucked/Stroke
+721 The Ganges 22:Plucked/Stroke
+722 MountainFolk 22:Plucked/Stroke
+723 Byzantine 22:Plucked/Stroke
+724 AsiaPlectrum 22:Plucked/Stroke
+725 VelHarp)Harm 22:Plucked/Stroke
+726 Pluckaphone 22:Plucked/Stroke
+727 Slap Timps 47:Percussion
+728 Suite Combo 32:Vox/Choir
+729 Jet Voxs 32:Vox/Choir
+730 Dirty Hit 44:Hit
+731 MOVE! 44:Hit
+732 Reel Slam 44:Hit
+733 OffTheRecord 44:Hit
+734 2ndRateChord 34:Synth Lead
+735 RageInYouth 34:Synth Lead
+736 MinorIncidnt 34:Synth Lead
+737 Phunky DC 34:Synth Lead
+738 Agent X 34:Synth Lead
+739 Winky 40:Synth Seq/Pop
+740 Looney 2nz 34:Synth Lead
+741 Shortrave 38:Synth PolyKey
+742 DeeperBeeper 34:Synth Lead
+743 Percolator 38:Synth PolyKey
+744 Filter Morph 38:Synth PolyKey
+745 Choir Bounce 38:Synth PolyKey
+746 Rippling 42:Pulsating
+747 SteppingPhsr 42:Pulsating
+748 Trance Fair 42:Pulsating
+749 GermanBounce 42:Pulsating
+750 Acid JaZZ 42:Pulsating
+751 Cutter>ModWh 42:Pulsating
+752 Blades 42:Pulsating
+753 Mad Bender 42:Pulsating
+754 Shapeshifter 39:Synth FX
+755 ForestMoon 39:Synth FX
+756 Predator 2 39:Synth FX
+757 Dark Side 39:Synth FX
+758 The Beast 39:Synth FX
+759 X-mod Reso 39:Synth FX
+760 Planet Meta 39:Synth FX
+761 Nexus 39:Synth FX
+762 Halographix 39:Synth FX
+763 Moon Rise 39:Synth FX
+764 Gruvacious 39:Synth FX
+765 Windy Dunes 39:Synth FX
+766 Ice Blasts 39:Synth FX
+767 Ringy Thingy 39:Synth FX
+768 Atmospherics 39:Synth FX
+$BANK=XV-5080_7$MSB=87$LSB=84$CHANNEL=0
+769 Power Octs 1:Ac.Piano
+770 WaterPiano2 2:Pop Piano
+771 Swimming EP 5:E.Piano2
+772 XV Crystal 5:E.Piano2
+773 Cold Roadz 5:E.Piano2
+774 Back EP 4:E.Piano1
+775 Amped Wurlie 4:E.Piano1
+776 Dirty Wurlie 4:E.Piano1
+777 Musicbox XV 14:Bell
+778 Klubb Organ 6:E.Organ
+779 Drew?s Bee 6:E.Organ
+780 Velvet Organ 6:E.Organ
+781 Distorted B 6:E.Organ
+782 Radikal B 6:E.Organ
+783 Boogie Organ 6:E.Organ
+784 Mood Ringz 42:Pulsating
+785 Wedo-Wodo 42:Pulsating
+786 S.O.S.trings 42:Pulsating
+787 Syncronicity 42:Pulsating
+788 DanceMachina 42:Pulsating
+789 Vox Chopper 42:Pulsating
+790 SlicingSyVox 42:Pulsating
+791 PressureDome 42:Pulsating
+792 Quasar /Aft 42:Pulsating
+793 Ionizer 42:Pulsating
+794 MilleniumStr 42:Pulsating
+795 Bounce Baby! 42:Pulsating
+796 Bounce Daddy 42:Pulsating
+797 Bounce Mama! 42:Pulsating
+798 Bounce Noize 42:Pulsating
+799 What a Gate! 42:Pulsating
+800 Mini Sequenz 42:Pulsating
+801 Slice & Dice 42:Pulsating
+802 BrushingSaw1 42:Pulsating
+803 BrushingSaw2 42:Pulsating
+804 Cultivate 42:Pulsating
+805 5080 Random 42:Pulsating
+806 XV Stepping 36:Synth Pad/Str
+807 India Garden 36:Synth Pad/Str
+808 Belly Pad 37:Synth Bellpad
+809 Spectre 37:Synth Bellpad
+810 SoaringHrns2 35:Synth Brass
+811 Sabbath Day 36:Synth Pad/Str
+812 XV BlowPad 36:Synth Pad/Str
+813 White Arcade 36:Synth Pad/Str
+814 Borealis 36:Synth Pad/Str
+815 OvertoneScan 36:Synth Pad/Str
+816 Whisper Vox 32:Vox/Choir
+817 Jupiter 21 24:Ensemble Strings
+818 Filt Strings 24:Ensemble Strings
+819 HybStringsXV 24:Ensemble Strings
+820 Soft Symphny 25:Orchestral
+821 Wood Symphny 25:Orchestral
+822 HybOrchestra 25:Orchestral
+823 Brassy Symph 25:Orchestral
+824 Biggie Brass 27:Ensemble Brass
+825 BiggieBrass2 27:Ensemble Brass
+826 LA Sax?s 30:Sax
+827 Wind Wood 28:Wind
+828 Lonely Oboe 28:Wind
+829 Harmonica XV 13:Harmonica
+830 Tooters Lead 29:Flute
+831 Digi Phased 38:Synth PolyKey
+832 Synth Ethics 38:Synth PolyKey
+833 Harm is Fine 38:Synth PolyKey
+834 D-2000 37:Synth Bellpad
+835 Ackward East 38:Synth PolyKey
+836 Powersoaker 34:Synth Lead
+837 Mean Thing 34:Synth Lead
+838 Jet Sync 34:Synth Lead
+839 Crying Solo 18:Dist.Guitar
+840 Southern Fry 18:Dist.Guitar
+841 Strum Distrt 18:Dist.Guitar
+842 Match Drive 18:Dist.Guitar
+843 Stacked 18:Dist.Guitar
+844 2-Stack Over 18:Dist.Guitar
+845 COSM Searing 18:Dist.Guitar
+846 COSM Loud Gt 18:Dist.Guitar
+847 Blue Mutes 18:Dist.Guitar
+848 Metal 5150 18:Dist.Guitar
+849 Crunch Phase 18:Dist.Guitar
+850 Alt Dist Gtr 18:Dist.Guitar
+851 So nice! 16:Ac.Guitar
+852 Punch Bass 19:Ac.Bass
+853 COSM Bass 20:E.Bass
+854 Stream Bell 14:Bell
+855 Shuffle Bell 14:Bell
+856 Echo Vibe 15:Mallet
+857 Tremolo Vibe 15:Mallet
+858 True Vibe 15:Mallet
+859 Marimbula 15:Mallet
+860 Hit Bitz 44:Hit
+861 80s LoFi Hit 44:Hit
+862 Auto Chord 44:Hit
+863 3rdTeenChord 44:Hit
+864 Bend a Chord 44:Hit
+865 DiscreteChrd 44:Hit
+866 Ambi Voices 40:Synth Seq/Pop
+867 Say Yeah ! 38:Synth PolyKey
+868 Xcuse me 39:Synth FX
+869 5ths in 4ths 39:Synth FX
+870 Pretty Ugly 38:Synth PolyKey
+871 Con Sequence 40:Synth Seq/Pop
+872 BermudaShort 40:Synth Seq/Pop
+873 Saw n? 202 38:Synth PolyKey
+874 Technoheadz 38:Synth PolyKey
+875 Boss?d Synth 34:Synth Lead
+876 Cross Fire 34:Synth Lead
+877 Techno Cave 34:Synth Lead
+878 Generator 34:Synth Lead
+879 GenderBender 34:Synth Lead
+880 Xtremities 34:Synth Lead
+881 AM 05:59 34:Synth Lead
+882 Happy Brass 27:Ensemble Brass
+883 Runaway Rez 39:Synth FX
+884 Dropplets 39:Synth FX
+885 Indian Guru 39:Synth FX
+886 Cosmic Rain 39:Synth FX
+887 Trying Winds 39:Synth FX
+888 Space Whiz 39:Synth FX
+889 DigitalDrone 39:Synth FX
+890 Space Race 39:Synth FX
+891 Bowed Bell 39:Synth FX
+892 X-Tension 39:Synth FX
+893 DUB!!! 39:Synth FX
+894 Dream Diver 39:Synth FX
+895 Flashback 39:Synth FX
+896 St.LoFiNoise 4:E.Piano1
